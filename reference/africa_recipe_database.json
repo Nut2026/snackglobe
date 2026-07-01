@@ -1,0 +1,2740 @@
+{
+  "recipes": [
+    {
+      "id": 76,
+      "name": "Koeksisters",
+      "country": "South Africa",
+      "category": "Snack",
+      "time": "2 hours (includes chilling and resting)",
+      "servings": "24 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "500g all-purpose flour",
+          "2 tsp baking powder",
+          "½ tsp salt",
+          "2 tbsp butter, cold",
+          "1 large egg",
+          "200ml milk",
+          "1 tsp vanilla extract"
+        ],
+        "Syrup": [
+          "400g sugar",
+          "250ml water",
+          "1 cinnamon stick",
+          "1 lemon peel",
+          "1 tsp cream of tartar"
+        ],
+        "Frying": [
+          "Vegetable oil for deep frying"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Combine sugar, water, cinnamon, lemon peel, and cream of tartar. Boil until slightly thickened. Cool completely and refrigerate.",
+        "Make Dough: Sift flour, baking powder, and salt. Rub in butter until crumbly.",
+        "Add Wet: Whisk egg, milk, and vanilla. Add to flour mixture. Knead into soft dough.",
+        "Rest: Cover and rest 30 minutes.",
+        "Roll: Roll dough to 5mm thickness. Cut into strips.",
+        "Braid: Braid strips into small plaits.",
+        "Chill: Chill braided dough for 30 minutes.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry koeksisters until golden brown and crisp (3-4 minutes).",
+        "Soak: Immediately dip in cold syrup. Let soak for 30 seconds.",
+        "Drain: Drain on a wire rack.",
+        "Serve: Serve at room temperature."
+      ],
+      "making_tips": [
+        "The syrup must be ice-cold for the signature sticky coating.",
+        "The dough should be rolled thin for the perfect crispiness.",
+        "Fry in small batches to maintain oil temperature.",
+        "The braids should be tight so they don't unravel during frying.",
+        "These are best eaten the same day they're made."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Cape Malay and Afrikaner classic",
+      "better_than_store_bought": "Commercial versions are often stale and soggy. Homemade koeksisters are perfectly crisp and syrup-drenched.",
+      "hidden_nutrients": "Eggs provide protein. The dish is primarily sugar and flour, so enjoy sparingly."
+    },
+    {
+      "id": 77,
+      "name": "Melktert (Milk Tart)",
+      "country": "South Africa",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "1 tart (8 slices)",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "200g all-purpose flour",
+          "100g butter, cold",
+          "50g sugar",
+          "1 egg yolk",
+          "2 tbsp cold water"
+        ],
+        "Filling": [
+          "500ml milk",
+          "3 eggs, separated",
+          "100g sugar",
+          "2 tbsp cornflour",
+          "1 tsp vanilla extract",
+          "1 tbsp butter"
+        ],
+        "Topping": [
+          "Ground cinnamon"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Cut butter into flour and sugar. Add egg yolk and water. Knead gently. Chill 30 minutes.",
+        "Line Pan: Roll pastry and line a tart pan. Prick with fork.",
+        "Blind Bake: Bake at 180°C for 15 minutes.",
+        "Make Filling: Heat milk until steaming. Whisk egg yolks, sugar, and cornflour.",
+        "Temper: Gradually add hot milk to egg mixture while whisking.",
+        "Cook: Return to pan. Cook until thickened.",
+        "Add Butter: Add vanilla and butter. Cool slightly.",
+        "Beat Egg Whites: Beat egg whites to soft peaks. Fold into custard.",
+        "Fill: Pour filling into pastry shell.",
+        "Bake: Bake at 180°C for 25-30 minutes until set.",
+        "Cool: Cool completely.",
+        "Dust: Dust with cinnamon."
+      ],
+      "making_tips": [
+        "The filling should be silky and smooth—strain if necessary.",
+        "The egg whites give the filling its light, fluffy texture.",
+        "Don't overbake; the filling should still jiggle slightly.",
+        "Cinnamon is traditionally dusted through a stencil.",
+        "Serve chilled or at room temperature."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – South Africa's favorite dessert",
+      "better_than_store_bought": "Store-bought melktert often has a rubbery texture. Homemade has a delicate, creamy filling.",
+      "hidden_nutrients": "Milk and eggs provide calcium and protein. Cinnamon has anti-inflammatory properties."
+    },
+    {
+      "id": 78,
+      "name": "Samoosas (Sweet)",
+      "country": "South Africa",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "250g all-purpose flour",
+          "½ tsp salt",
+          "2 tbsp vegetable oil",
+          "150ml warm water"
+        ],
+        "Filling": [
+          "200g mixed dried fruit, chopped",
+          "100g desiccated coconut",
+          "50g sugar",
+          "1 tsp cinnamon",
+          "½ tsp nutmeg",
+          "2 tbsp butter, melted"
+        ],
+        "Frying": [
+          "Vegetable oil for deep frying"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Mix flour and salt. Add oil and rub in. Add water gradually to form soft dough. Rest 30 minutes.",
+        "Make Filling: Combine dried fruit, coconut, sugar, cinnamon, nutmeg, and melted butter.",
+        "Divide Dough: Roll dough thinly. Cut into strips.",
+        "Fill: Place filling on one end. Fold into triangles.",
+        "Seal: Seal edges with water.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and crisp (3-4 minutes).",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm or at room temperature."
+      ],
+      "making_tips": [
+        "The pastry should be paper-thin for the best crispiness.",
+        "Seal edges well so the filling doesn't leak.",
+        "Sweet samoosas are a Cape Malay specialty.",
+        "Can be dusted with powdered sugar.",
+        "Serve with tea or coffee."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Cape Malay sweet specialty",
+      "better_than_store_bought": "Store-bought samoosas are often dry. Homemade has a moist, fragrant filling.",
+      "hidden_nutrients": "Dried fruits provide iron and fiber. Coconut offers healthy fats."
+    },
+    {
+      "id": 79,
+      "name": "Hertzoggies",
+      "country": "South Africa",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 tartlets",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "200g all-purpose flour",
+          "100g butter, cold",
+          "50g sugar",
+          "1 egg yolk"
+        ],
+        "Filling": [
+          "150g apricot jam",
+          "100g desiccated coconut",
+          "50g sugar",
+          "1 egg white"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Rub butter into flour and sugar. Add egg yolk. Knead gently. Chill 30 minutes.",
+        "Line Tins: Press pastry into tartlet tins.",
+        "Add Jam: Place 1 tsp apricot jam in each tartlet.",
+        "Make Topping: Whisk egg white until foamy. Add coconut and sugar. Mix well.",
+        "Top: Spoon coconut mixture over jam.",
+        "Bake: Bake at 180°C for 20-25 minutes until golden.",
+        "Cool: Cool in tins for 5 minutes, then remove.",
+        "Serve: Serve at room temperature."
+      ],
+      "making_tips": [
+        "The pastry should be short and buttery.",
+        "The coconut topping should be golden and crisp.",
+        "These are named after the Hertzog family, who loved them.",
+        "Traditional South African teatime treat.",
+        "Can be stored in an airtight container."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – South African teatime classic",
+      "better_than_store_bought": "Commercial versions use artificial flavorings. Homemade has authentic butter flavor.",
+      "hidden_nutrients": "Coconut provides healthy fats. Apricot jam offers vitamin A."
+    },
+    {
+      "id": 80,
+      "name": "Mosbolletjies (Aniseed Bread Rolls)",
+      "country": "South Africa",
+      "category": "Snack",
+      "time": "2 hours 30 minutes (includes rising)",
+      "servings": "12 rolls",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "500g bread flour",
+          "1 tbsp instant yeast",
+          "2 tbsp sugar",
+          "1 tsp salt",
+          "1 tbsp aniseed",
+          "300ml warm milk",
+          "50g butter, melted"
+        ]
+      },
+      "steps": [
+        "Mix Dry: Combine flour, yeast, sugar, salt, and aniseed.",
+        "Add Wet: Add warm milk and melted butter. Mix to dough.",
+        "Knead: Knead for 10 minutes until smooth and elastic.",
+        "First Rise: Cover and let rise 1 hour until doubled.",
+        "Punch Down: Knock back dough.",
+        "Shape: Divide into 12 balls. Place in a greased baking dish.",
+        "Second Rise: Let rise 30 minutes.",
+        "Bake: Brush with milk. Bake at 190°C for 20-25 minutes.",
+        "Cool: Cool on wire rack.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Aniseed gives these rolls their signature licorice flavor.",
+        "These are traditionally made with grape juice instead of milk.",
+        "The rolls should be soft and pillowy.",
+        "This is a Cape Dutch specialty.",
+        "Best served warm with butter."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Cape Dutch specialty",
+      "better_than_store_bought": "Commercial versions often lack the aromatic aniseed flavor. Homemade is more fragrant.",
+      "hidden_nutrients": "Milk provides calcium and vitamin D. Aniseed aids digestion."
+    },
+    {
+      "id": 81,
+      "name": "Rooibos Iced Tea",
+      "country": "South Africa",
+      "category": "Beverage",
+      "time": "20 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 rooibos tea bags",
+          "1 litre boiling water",
+          "100g sugar (or to taste)",
+          "1 lemon, sliced",
+          "Ice cubes",
+          "Fresh mint (optional)"
+        ]
+      },
+      "steps": [
+        "Brew Tea: Steep rooibos tea bags in boiling water for 5-7 minutes.",
+        "Sweeten: Remove tea bags. Add sugar while still hot, stir to dissolve.",
+        "Add Lemon: Add lemon slices.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Pour over ice cubes in glasses.",
+        "Garnish: Top with fresh mint.",
+        "Serve: Enjoy chilled."
+      ],
+      "making_tips": [
+        "Rooibos is naturally caffeine-free.",
+        "This is South Africa's gift to the world.",
+        "Can be sweetened with honey.",
+        "Add extra lemon for brightness.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 75,
+      "cultural_authenticity": "100% – South Africa's signature tea",
+      "better_than_store_bought": "Bottled rooibos has preservatives. Homemade is fresher and naturally sweet.",
+      "hidden_nutrients": "Rooibos is rich in antioxidants. Lemon adds vitamin C."
+    },
+    {
+      "id": 82,
+      "name": "Ouma Rusks",
+      "country": "South Africa",
+      "category": "Snack",
+      "time": "3 hours (includes drying)",
+      "servings": "24 rusks",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Dough": [
+          "500g all-purpose flour",
+          "1 tsp baking powder",
+          "½ tsp salt",
+          "100g butter",
+          "100g sugar",
+          "250ml buttermilk",
+          "2 eggs"
+        ]
+      },
+      "steps": [
+        "Preheat: Preheat oven to 180°C.",
+        "Mix Dry: Sift flour, baking powder, and salt.",
+        "Rub in Butter: Rub butter into flour until crumbly.",
+        "Add Wet: Whisk buttermilk, eggs, and sugar. Add to flour mixture. Mix to dough.",
+        "Shape: Divide dough and shape into logs.",
+        "Bake First: Bake for 45 minutes until golden.",
+        "Cool: Cool completely.",
+        "Break: Break into pieces.",
+        "Dry: Dry in oven at 100°C for 2-3 hours until crisp.",
+        "Cool: Cool completely.",
+        "Store: Store in airtight container."
+      ],
+      "making_tips": [
+        "Rusks are traditionally dunked in tea or coffee.",
+        "The drying process gives them their signature crunch.",
+        "These are a South African breakfast staple.",
+        "Ouma is the Afrikaans word for grandmother.",
+        "Store in a cool, dry place."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – South African breakfast tradition",
+      "better_than_store_bought": "Commercial rusks have preservatives. Homemade has authentic buttermilk flavor.",
+      "hidden_nutrients": "Buttermilk provides calcium and probiotics."
+    },
+    {
+      "id": 83,
+      "name": "Gazelle Horns (Kaab el Ghazal)",
+      "country": "Morocco",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "20 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "300g all-purpose flour",
+          "100g butter, melted",
+          "1 tbsp orange blossom water",
+          "Pinch of salt",
+          "100ml warm water"
+        ],
+        "Filling": [
+          "250g ground almonds",
+          "150g powdered sugar",
+          "1 tbsp orange blossom water",
+          "1 egg white"
+        ],
+        "Coating": [
+          "Icing sugar"
+        ]
+      },
+      "steps": [
+        "Make Filling: Mix ground almonds, powdered sugar, orange blossom water, and egg white to form a paste.",
+        "Make Pastry: Combine flour, melted butter, orange blossom water, and salt. Add water gradually to form dough. Rest 30 minutes.",
+        "Roll Pastry: Roll pastry very thin.",
+        "Shape Filling: Roll almond paste into small cylinders.",
+        "Wrap: Cut pastry into strips. Wrap around almond filling.",
+        "Shape: Bend into crescent shapes.",
+        "Bake: Bake at 180°C for 15-18 minutes until golden.",
+        "Cool: Cool completely.",
+        "Dust: Dust generously with icing sugar.",
+        "Serve: Serve with mint tea."
+      ],
+      "making_tips": [
+        "The pastry should be paper-thin for the perfect texture.",
+        "The orange blossom water gives the signature Moroccan flavor.",
+        "These cookies are named for their gazelle horn shape.",
+        "The filling should be smooth and not too dry.",
+        "These are traditional during Ramadan and celebrations."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Moroccan signature cookie",
+      "better_than_store_bought": "Commercial versions often use artificial flavorings. Homemade has authentic orange blossom fragrance.",
+      "hidden_nutrients": "Almonds provide healthy fats, vitamin E, and magnesium."
+    },
+    {
+      "id": 84,
+      "name": "Chebakia (Sesame Flower Cookies)",
+      "country": "Morocco",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "24 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "150g sesame seeds, toasted",
+          "50g butter, melted",
+          "1 tsp yeast",
+          "1 tbsp orange blossom water",
+          "150ml warm water"
+        ],
+        "Syrup": [
+          "300g honey",
+          "1 tbsp rose water",
+          "1 tsp cinnamon"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Toast Sesame: Toast sesame seeds until golden and fragrant.",
+        "Make Dough: Mix flour, sesame seeds, butter, yeast, and orange blossom water. Add water gradually.",
+        "Knead: Knead until smooth and pliable. Rest 30 minutes.",
+        "Roll: Roll dough thinly. Cut into flower shapes.",
+        "Heat Syrup: Heat honey, rose water, and cinnamon until combined.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry cookies until golden and crisp.",
+        "Soak: Dip in warm honey syrup.",
+        "Drain: Drain on wire rack.",
+        "Cool: Let cool completely.",
+        "Serve: Serve with mint tea."
+      ],
+      "making_tips": [
+        "The dough must be rolled very thin.",
+        "Sesame seeds should be toasted for maximum flavor.",
+        "This is a Ramadan specialty in Morocco.",
+        "The syrup should coat the cookies evenly.",
+        "Can be stored for up to a week."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Moroccan Ramadan specialty",
+      "better_than_store_bought": "Commercial chebakia is often chewy. Homemade has the perfect crisp texture.",
+      "hidden_nutrients": "Sesame seeds provide calcium and iron. Honey has antibacterial properties."
+    },
+    {
+      "id": 85,
+      "name": "Briouat (Sweet)",
+      "country": "Morocco",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "1 packet phyllo pastry",
+          "100g butter, melted"
+        ],
+        "Filling": [
+          "250g ground almonds",
+          "100g sugar",
+          "1 tsp cinnamon",
+          "1 tbsp orange blossom water",
+          "1 egg yolk"
+        ],
+        "Syrup": [
+          "200g honey"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Filling: Mix ground almonds, sugar, cinnamon, orange blossom water, and egg yolk to form a paste.",
+        "Cut Phyllo: Cut phyllo into strips.",
+        "Fill: Place filling on one end of each strip.",
+        "Fold: Fold into triangles, brushing with butter.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and crisp.",
+        "Soak: Dip in honey.",
+        "Drain: Drain on wire rack.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Phyllo pastry should be covered with a damp cloth to prevent drying.",
+        "The triangles should be well-sealed.",
+        "Briouat can also be baked instead of fried.",
+        "These are often served during Ramadan.",
+        "Honey can be flavored with cinnamon."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Moroccan sweet pastry classic",
+      "better_than_store_bought": "Commercial versions often use low-quality oil. Homemade is more delicate.",
+      "hidden_nutrients": "Almonds provide healthy fats and vitamin E. Honey has trace minerals."
+    },
+    {
+      "id": 86,
+      "name": "M'hanncha (Snake Cake)",
+      "country": "Morocco",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "1 cake (10 slices)",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "1 packet phyllo pastry",
+          "100g butter, melted"
+        ],
+        "Filling": [
+          "400g ground almonds",
+          "200g sugar",
+          "2 tsp cinnamon",
+          "1 tbsp orange blossom water",
+          "2 egg yolks"
+        ],
+        "Decoration": [
+          "Icing sugar",
+          "Ground cinnamon"
+        ]
+      },
+      "steps": [
+        "Make Filling: Mix almonds, sugar, cinnamon, orange blossom water, and egg yolks to form a paste.",
+        "Prepare Pastry: Lay phyllo sheets flat. Brush with melted butter.",
+        "Add Filling: Spread almond paste along one side.",
+        "Roll: Roll tightly into a long cylinder.",
+        "Coil: Coil the roll into a spiral, like a snake.",
+        "Bake: Bake at 180°C for 30-35 minutes until golden.",
+        "Cool: Cool completely.",
+        "Dust: Dust with icing sugar and cinnamon.",
+        "Serve: Serve with mint tea."
+      ],
+      "making_tips": [
+        "The snake shape gives the cake its name—M'hanncha means snake.",
+        "The spiral should be tight and even.",
+        "This is a Moroccan tea-time favorite.",
+        "Traditionally filled with spiced almond paste.",
+        "Can be served warm or at room temperature."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Moroccan pastry masterpiece",
+      "better_than_store_bought": "Commercial versions are often dry. Homemade has a moist, fragrant filling.",
+      "hidden_nutrients": "Almonds provide healthy fats and vitamin E. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 87,
+      "name": "Sellou (Sweet Flour and Almond Paste)",
+      "country": "Morocco",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "24 pieces or 1 batch of paste",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "300g all-purpose flour",
+          "250g almonds, toasted",
+          "150g sesame seeds, toasted",
+          "150g powdered sugar",
+          "100ml argan oil (or olive oil)",
+          "100g honey",
+          "1 tsp cinnamon",
+          "½ tsp aniseed"
+        ]
+      },
+      "steps": [
+        "Toast Flours: Toast flour in a dry pan until golden and fragrant (5-7 minutes).",
+        "Toast Almonds: Toast almonds until golden. Cool and grind coarsely.",
+        "Toast Sesame: Toast sesame seeds until golden.",
+        "Combine: Mix flour, ground almonds, sesame seeds, sugar, and spices.",
+        "Add Oil: Add argan oil and honey. Mix until combined.",
+        "Rest: Let rest for 30 minutes.",
+        "Shape: Roll into small balls or press into a pan.",
+        "Cool: Let cool completely.",
+        "Cut: If pressed, cut into squares.",
+        "Serve: Serve with mint tea."
+      ],
+      "making_tips": [
+        "Sellou is often eaten during Ramadan for energy.",
+        "The flour must be toasted for the nutty flavor.",
+        "Argan oil gives it a distinctive Moroccan taste.",
+        "This is a no-bake, energy-dense snack.",
+        "Can be stored for up to a month."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Moroccan energy treat",
+      "better_than_store_bought": "Commercial versions often use cheap oils. Homemade has authentic argan oil.",
+      "hidden_nutrients": "Argan oil provides vitamin E and healthy fats. Almonds offer protein and magnesium."
+    },
+    {
+      "id": 88,
+      "name": "Moroccan Mint Tea (Atay)",
+      "country": "Morocco",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "2 tbsp Chinese gunpowder green tea",
+          "1 large bunch fresh mint (about 30g)",
+          "1 litre boiling water",
+          "4 tbsp sugar (or to taste)"
+        ]
+      },
+      "steps": [
+        "Rinse Tea: Place tea leaves in a teapot. Add a little boiling water, swirl, and discard.",
+        "Add Mint: Add fresh mint to the pot.",
+        "Add Sugar: Add sugar.",
+        "Add Water: Pour boiling water over tea and mint.",
+        "Steep: Let steep for 5 minutes.",
+        "Pour: Pour into glasses from a height to create foam.",
+        "Return: Pour back into pot.",
+        "Repeat: Repeat the pouring 2-3 times to aerate.",
+        "Serve: Pour into small glasses.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "The pouring from a height is essential—it's called 'the Moroccan pour.'",
+        "Moroccan tea is served in three glasses: 'life, love, and friendship.'",
+        "Use fresh mint for the best flavor.",
+        "The sugar is abundant—Moroccan tea is famously sweet.",
+        "The tea should be poured with a dramatic flourish."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Morocco's national drink",
+      "better_than_store_bought": "Cafe versions often use too much sugar. Homemade allows you to control the sweetness.",
+      "hidden_nutrients": "Green tea provides antioxidants. Mint aids digestion."
+    },
+    {
+      "id": 89,
+      "name": "Orange Blossom Lemonade",
+      "country": "Morocco",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 lemons",
+          "1 litre water",
+          "100g sugar",
+          "1 tbsp orange blossom water",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice Lemons: Squeeze lemons to extract fresh juice.",
+        "Combine: Mix lemon juice, water, sugar, and orange blossom water.",
+        "Stir: Stir until sugar dissolves.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Pour over ice cubes.",
+        "Garnish: Add a lemon slice.",
+        "Serve: Enjoy immediately."
+      ],
+      "making_tips": [
+        "Orange blossom water is the signature Moroccan touch.",
+        "Balance the tartness and sweetness.",
+        "This is a refreshing drink for hot days.",
+        "Can be served with mint leaves.",
+        "Use fresh lemons, not bottled juice."
+      ],
+      "health_rating": 65,
+      "cultural_authenticity": "100% – Moroccan signature drink",
+      "better_than_store_bought": "Bottled lemonade has artificial flavors. Homemade has authentic orange blossom fragrance.",
+      "hidden_nutrients": "Lemons provide vitamin C. Orange blossom water has trace antioxidants."
+    },
+    {
+      "id": 90,
+      "name": "Avocado Milkshake (Moroccan)",
+      "country": "Morocco",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 ripe avocados",
+          "500ml milk",
+          "4 tbsp sugar",
+          "Ice cubes",
+          "Orange blossom water (optional)"
+        ]
+      },
+      "steps": [
+        "Prepare Avocados: Peel and pit avocados.",
+        "Blend: In a blender, combine avocado, milk, and sugar.",
+        "Add Ice: Add ice cubes.",
+        "Blend: Blend until smooth and creamy.",
+        "Add Orange Blossom Water: Add if desired.",
+        "Pour: Pour into chilled glasses.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "Use very ripe avocados for the creamiest texture.",
+        "This is a Moroccan café favorite.",
+        "Orange blossom water adds a traditional touch.",
+        "Chill the glasses for the best experience.",
+        "Serve immediately to prevent oxidation."
+      ],
+      "health_rating": 75,
+      "cultural_authenticity": "95% – Moroccan café favorite",
+      "better_than_store_bought": "Cafe versions often use too much sugar. Homemade has better balance.",
+      "hidden_nutrients": "Avocado provides healthy fats, potassium, and fiber. Milk adds calcium."
+    },
+    {
+      "id": 91,
+      "name": "Puff-Puff (Nigerian Sweet Doughnuts)",
+      "country": "Nigeria",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "500g all-purpose flour",
+          "100g sugar",
+          "2 tsp instant yeast",
+          "½ tsp salt",
+          "¼ tsp nutmeg",
+          "300ml warm water",
+          "1 egg (optional)"
+        ],
+        "Frying": [
+          "Vegetable oil for deep frying"
+        ]
+      },
+      "steps": [
+        "Mix Dry: Combine flour, sugar, yeast, salt, and nutmeg.",
+        "Add Water: Gradually add warm water. Add egg if using.",
+        "Knead: Knead until smooth and elastic. The dough will be soft.",
+        "First Rise: Cover and let rise 1 hour until doubled.",
+        "Punch Down: Knock back the dough.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Form Balls: Using wet hands, form small balls of dough.",
+        "Fry: Drop balls into oil. Fry until golden, turning to ensure even coloring.",
+        "Drain: Drain on paper towels.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "The dough should be soft and sticky for the lightest texture.",
+        "Wet hands prevent the dough from sticking.",
+        "Puff-puff is often described as 'golden brown and pillowy.'",
+        "Don't overcrowd the pot.",
+        "Best served warm, fresh from the fryer."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Nigeria's favorite street snack",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter and fresher.",
+      "hidden_nutrients": "Eggs provide protein. The dish is primarily carbohydrates, so enjoy in moderation."
+    },
+    {
+      "id": 92,
+      "name": "Chin Chin",
+      "country": "Nigeria",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "30 pieces",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "100g sugar",
+          "1 tsp baking powder",
+          "¼ tsp nutmeg",
+          "50g butter, melted",
+          "1 egg",
+          "100ml milk"
+        ],
+        "Frying": [
+          "Vegetable oil for deep frying"
+        ]
+      },
+      "steps": [
+        "Mix Dry: Combine flour, sugar, baking powder, and nutmeg.",
+        "Add Wet: Add melted butter, egg, and milk. Mix to dough.",
+        "Knead: Knead until smooth.",
+        "Rest: Rest dough for 15 minutes.",
+        "Roll: Roll dough to 5mm thickness.",
+        "Cut: Cut into small squares or strips.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and crisp.",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool completely.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "The nutmeg gives Chin Chin its signature flavor.",
+        "Cut evenly for even frying.",
+        "These are very addictive—called 'African popcorn.'",
+        "Can be stored in an airtight container for up to a week.",
+        "Fry until deep golden for the crispiest texture."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Nigerian favorite snack",
+      "better_than_store_bought": "Commercial versions can be stale. Homemade is fresh and crisp.",
+      "hidden_nutrients": "Butter provides vitamin A. The dish is primarily sugar and flour."
+    },
+    {
+      "id": 93,
+      "name": "Kuli-Kuli (Peanut Snack Cakes)",
+      "country": "Nigeria",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "300g roasted peanuts",
+          "100g sugar",
+          "1 egg white",
+          "½ tsp salt",
+          "Oil for frying"
+        ]
+      },
+      "steps": [
+        "Grind Peanuts: Grind roasted peanuts until fine (not paste).",
+        "Mix: Combine ground peanuts, sugar, and salt.",
+        "Add Egg White: Add egg white. Mix until it holds together.",
+        "Shape: Roll into small balls or cakes.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and crisp.",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool completely.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "The peanuts should be ground but still have texture.",
+        "Kuli-kuli is a popular Nigerian street snack.",
+        "Can be made savory or sweet.",
+        "The egg white helps bind the mixture.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Nigerian street snack",
+      "better_than_store_bought": "Commercial versions often use low-quality peanuts. Homemade is fresher.",
+      "hidden_nutrients": "Peanuts provide protein, healthy fats, and vitamin E."
+    },
+    {
+      "id": 94,
+      "name": "Coconut Candy (Nigerian)",
+      "country": "Nigeria",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "20 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g desiccated coconut",
+          "150g sugar",
+          "100ml water",
+          "1 tsp ginger, grated",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Combine: In a pan, combine coconut, sugar, water, ginger, and salt.",
+        "Cook: Cook over medium heat, stirring continuously.",
+        "Thicken: The mixture will thicken and come together.",
+        "Pour: Pour onto a greased surface.",
+        "Spread: Spread evenly.",
+        "Cool: Let cool completely.",
+        "Cut: Cut into squares.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "The ginger gives a lovely warmth.",
+        "This is a popular Nigerian sweet.",
+        "Can be rolled into balls instead.",
+        "Don't overcook or it will become hard.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Nigerian favorite sweet",
+      "better_than_store_bought": "Commercial versions have artificial flavors. Homemade has real ginger and coconut.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber. Ginger aids digestion."
+    },
+    {
+      "id": 95,
+      "name": "Alkaki (Sweet Fried Bean Cakes)",
+      "country": "Nigeria",
+      "category": "Snack",
+      "time": "45 minutes (plus soaking)",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "250g black-eyed peas",
+          "100g sugar",
+          "1 tsp ginger powder",
+          "1 tsp cinnamon",
+          "Oil for frying"
+        ]
+      },
+      "steps": [
+        "Soak Beans: Soak black-eyed peas in water for 2-3 hours.",
+        "Blend: Drain and blend peas with little water to form a paste.",
+        "Mix: Add sugar, ginger, and cinnamon. Mix well.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Form Cakes: Drop spoonfuls of batter into hot oil.",
+        "Fry: Fry until golden brown and crisp.",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool slightly.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "The batter should be thick enough to hold its shape.",
+        "Alkaki is a popular Hausa snack.",
+        "The spices can be adjusted to taste.",
+        "Fry in small batches.",
+        "Best served warm."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Hausa specialty snack",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter.",
+      "hidden_nutrients": "Black-eyed peas provide protein, fiber, and iron."
+    },
+    {
+      "id": 96,
+      "name": "Zobo (Hibiscus Drink)",
+      "country": "Nigeria",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g dried hibiscus petals",
+          "1.5 litres water",
+          "150g sugar",
+          "1 inch ginger, grated",
+          "Pineapple chunks (optional)"
+        ]
+      },
+      "steps": [
+        "Boil: Bring water and hibiscus petals to boil.",
+        "Simmer: Reduce heat and simmer for 30 minutes.",
+        "Add Ginger: Add ginger.",
+        "Add Sugar: Add sugar and stir until dissolved.",
+        "Strain: Strain through a sieve.",
+        "Cool: Let cool completely.",
+        "Add Pineapple: Add pineapple chunks if desired.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled over ice."
+      ],
+      "making_tips": [
+        "Zobo is Nigeria's favorite party drink.",
+        "The hibiscus gives a deep red color.",
+        "Ginger gives a lovely warmth.",
+        "Can be flavored with clove.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 65,
+      "cultural_authenticity": "100% – Nigeria's signature drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresher and more vibrant.",
+      "hidden_nutrients": "Hibiscus is rich in antioxidants. Ginger aids digestion."
+    },
+    {
+      "id": 97,
+      "name": "Kunun Zaki (Sweet Fermented Millet Drink)",
+      "country": "Nigeria",
+      "category": "Beverage",
+      "time": "2 hours (plus fermentation)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "200g millet",
+          "1 litre water",
+          "100g sugar",
+          "½ tsp ginger powder"
+        ]
+      },
+      "steps": [
+        "Soak Millet: Soak millet in water for 6 hours.",
+        "Blend: Drain and blend with fresh water until smooth.",
+        "Ferment: Let ferment for 12-24 hours (optional, for sour version).",
+        "Strain: Strain through cheesecloth.",
+        "Add Sugar: Add sugar and ginger.",
+        "Cook: Cook over medium heat for 15-20 minutes.",
+        "Cool: Let cool.",
+        "Chill: Refrigerate.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "Kunun zaki is a traditional Nigerian drink.",
+        "It can be made without fermentation for a sweeter version.",
+        "Serve with groundnut cake.",
+        "The drink should be slightly thick.",
+        "Can be flavored with clove or cinnamon."
+      ],
+      "health_rating": 70,
+      "cultural_authenticity": "100% – Hausa traditional drink",
+      "better_than_store_bought": "Commercial versions often have additives. Homemade is more authentic.",
+      "hidden_nutrients": "Millet provides protein, fiber, and B vitamins."
+    },
+    {
+      "id": 98,
+      "name": "Chapman (Nigerian Punch)",
+      "country": "Nigeria",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml Sprite (or 7Up)",
+          "200ml orange juice",
+          "100ml pineapple juice",
+          "2 tbsp grenadine syrup",
+          "Lemon slices",
+          "Orange slices",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Mix Juices: Combine orange juice and pineapple juice.",
+        "Add Sprite: Add Sprite.",
+        "Add Grenadine: Add grenadine syrup. Stir gently.",
+        "Chill: Refrigerate.",
+        "Serve: Pour over ice.",
+        "Garnish: Add lemon and orange slices.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "Chapman is Nigeria's signature party punch.",
+        "The grenadine gives the beautiful red color.",
+        "Traditionally served at weddings and celebrations.",
+        "Can be made in large batches.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Nigerian party favorite",
+      "better_than_store_bought": "Cafe versions often skimp on fruit juice. Homemade uses real juice.",
+      "hidden_nutrients": "Orange and pineapple juice provide vitamin C."
+    },
+    {
+      "id": 99,
+      "name": "Mandazi (Sweet Coconut Doughnuts)",
+      "country": "Kenya",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "100g sugar",
+          "1 tsp yeast",
+          "½ tsp cardamom",
+          "200ml coconut milk",
+          "2 tbsp coconut oil"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix Dry: Combine flour, sugar, yeast, and cardamom.",
+        "Add Wet: Add coconut milk and coconut oil. Mix to dough.",
+        "Knead: Knead until smooth and elastic.",
+        "First Rise: Cover and let rise 1 hour.",
+        "Punch Down: Knock back dough.",
+        "Roll: Roll dough to 10mm thickness. Cut into triangles.",
+        "Second Rise: Let rise 15 minutes.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and puffed.",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "The cardamom and coconut give mandazi its East African identity.",
+        "The triangular shape is traditional.",
+        "Often served with chai.",
+        "Dough should be soft for pillowy texture.",
+        "Best served fresh."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – East African breakfast favorite",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter and more flavorful.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. Cardamom aids digestion."
+    },
+    {
+      "id": 100,
+      "name": "Kaimati (Sweet Fried Dumplings)",
+      "country": "Kenya",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "300g all-purpose flour",
+          "1 tsp yeast",
+          "2 tbsp sugar",
+          "1 tsp cardamom",
+          "Pinch of salt",
+          "200ml warm water"
+        ],
+        "Sugar Syrup": [
+          "200g sugar",
+          "100ml water",
+          "1 tsp cardamom"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar, water, and cardamom until slightly thickened. Cool.",
+        "Make Dough: Mix flour, yeast, sugar, cardamom, and salt. Add water gradually.",
+        "Knead: Knead until smooth. Rest 30 minutes.",
+        "Form Balls: Roll dough into small balls.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and puffed.",
+        "Soak: Dip in warm syrup.",
+        "Drain: Drain on wire rack.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Kaimati is a popular Swahili snack.",
+        "The cardamom gives the signature flavor.",
+        "Often served during Ramadan.",
+        "The syrup should be light, not heavy.",
+        "Best served warm."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Swahili favorite snack",
+      "better_than_store_bought": "Commercial versions can be dry. Homemade is soft and fragrant.",
+      "hidden_nutrients": "Cardamom provides antioxidants and digestive benefits."
+    },
+    {
+      "id": 101,
+      "name": "Mutura (Sweet Potato Cake)",
+      "country": "Kenya",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "400g sweet potatoes, boiled and mashed",
+          "100g sugar",
+          "100g desiccated coconut",
+          "1 egg",
+          "50g butter, melted",
+          "1 tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Preheat: Preheat oven to 180°C.",
+        "Mash Sweet Potatoes: Boil and mash until smooth.",
+        "Combine: Mix mashed sweet potato, sugar, coconut, egg, butter, and vanilla.",
+        "Pour: Pour into a greased baking dish.",
+        "Bake: Bake for 25-30 minutes until golden.",
+        "Cool: Cool in the pan.",
+        "Cut: Cut into squares.",
+        "Serve: Serve warm or at room temperature."
+      ],
+      "making_tips": [
+        "Use orange-fleshed sweet potatoes for sweetness.",
+        "The coconut gives a lovely texture.",
+        "This is a healthy Kenyan treat.",
+        "Can be served with tea.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Kenyan sweet potato treat",
+      "better_than_store_bought": "Commercial versions often have additives. Homemade is more natural.",
+      "hidden_nutrients": "Sweet potatoes provide vitamin A, vitamin C, and fiber. Coconut adds healthy fats."
+    },
+    {
+      "id": 102,
+      "name": "Bajia (Banana Fritters)",
+      "country": "Kenya",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "12 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Batter": [
+          "150g all-purpose flour",
+          "50g rice flour",
+          "100g sugar",
+          "200ml coconut milk",
+          "½ tsp cardamom"
+        ],
+        "Bananas": [
+          "4 ripe bananas"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix flours, sugar, and cardamom. Add coconut milk gradually.",
+        "Slice Bananas: Peel and slice bananas.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Dip: Dip banana slices in batter.",
+        "Fry: Fry until golden and crisp.",
+        "Drain: Drain on paper towels.",
+        "Dust: Dust with powdered sugar.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Use ripe bananas for natural sweetness.",
+        "The batter should be thick enough to coat the bananas.",
+        "This is a popular Swahili snack.",
+        "Serve with tea or coffee.",
+        "Best eaten fresh."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Swahili banana treat",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter.",
+      "hidden_nutrients": "Bananas provide potassium and fiber. Coconut milk adds healthy fats."
+    },
+    {
+      "id": 103,
+      "name": "Tangawizi (Ginger Tea)",
+      "country": "Kenya",
+      "category": "Beverage",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 inch fresh ginger, grated",
+          "1 litre water",
+          "4 tbsp honey",
+          "1 lemon",
+          "1 cinnamon stick (optional)"
+        ]
+      },
+      "steps": [
+        "Boil Water: Bring water to boil.",
+        "Add Ginger: Add grated ginger.",
+        "Simmer: Simmer for 10 minutes.",
+        "Add Honey: Stir in honey.",
+        "Add Lemon: Add lemon juice.",
+        "Strain: Strain into cups.",
+        "Serve: Serve hot."
+      ],
+      "making_tips": [
+        "Tangawizi is the Swahili word for ginger.",
+        "This is a healing Kenyan tea.",
+        "Add cinnamon for extra warmth.",
+        "Excellent for cold weather.",
+        "Use fresh ginger for the best flavor."
+      ],
+      "health_rating": 80,
+      "cultural_authenticity": "100% – Kenyan healing drink",
+      "better_than_store_bought": "Bottled ginger tea has preservatives. Homemade is medicinal.",
+      "hidden_nutrients": "Ginger has anti-inflammatory properties. Lemon provides vitamin C. Honey has antibacterial benefits."
+    },
+    {
+      "id": 104,
+      "name": "Dawa (Honey Lemon Tonic)",
+      "country": "Kenya",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 lemons",
+          "500ml water",
+          "4 tbsp honey",
+          "Ice cubes",
+          "Fresh mint"
+        ]
+      },
+      "steps": [
+        "Juice Lemons: Squeeze lemons to extract fresh juice.",
+        "Combine: Mix lemon juice, water, and honey.",
+        "Stir: Stir until honey dissolves.",
+        "Add Ice: Add ice cubes.",
+        "Add Mint: Add fresh mint.",
+        "Pour: Pour into glasses.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "Dawa means 'medicine' in Swahili.",
+        "This is Kenya's classic cocktail (also made with vodka).",
+        "The honey and lemon are healing.",
+        "Can be served hot or cold.",
+        "Use fresh mint for best flavor."
+      ],
+      "health_rating": 70,
+      "cultural_authenticity": "100% – Kenyan favorite drink",
+      "better_than_store_bought": "Cafe versions often use syrup. Homemade has real honey.",
+      "hidden_nutrients": "Lemons provide vitamin C. Honey has antibacterial properties."
+    },
+    {
+      "id": 105,
+      "name": "Kelewele (Spicy Sweet Fried Plantains)",
+      "country": "Ghana",
+      "category": "Snack",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 ripe plantains",
+          "2 tbsp sugar",
+          "1 tsp cinnamon",
+          "1 tsp ginger powder",
+          "Oil for frying"
+        ]
+      },
+      "steps": [
+        "Peel Plantains: Peel and slice plantains.",
+        "Season: Mix sugar, cinnamon, and ginger. Toss plantain slices in the mixture.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry plantains until golden and caramelized.",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Use very ripe plantains for sweetness.",
+        "The cinnamon and ginger give the Ghanaian flair.",
+        "This is Ghana's favorite street snack.",
+        "Serve with groundnuts.",
+        "Best eaten fresh."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Ghanaian street favorite",
+      "better_than_store_bought": "Street versions can be greasy. Homemade has better spice balance.",
+      "hidden_nutrients": "Plantains provide potassium, vitamin A, and fiber. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 106,
+      "name": "Groundnut Cake (Sweet Peanut Brittle)",
+      "country": "Ghana",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "300g roasted peanuts",
+          "200g sugar",
+          "50g sesame seeds",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Dry Roast: Lightly toast peanuts and sesame seeds.",
+        "Make Caramel: Heat sugar in a pan until it melts and turns golden.",
+        "Add Nuts: Add peanuts and sesame seeds. Stir quickly.",
+        "Pour: Pour onto a greased surface.",
+        "Spread: Spread evenly.",
+        "Cool: Let cool completely.",
+        "Break: Break into pieces.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Work quickly; the caramel sets fast.",
+        "The sesame seeds add a lovely nuttiness.",
+        "This is Ghana's favorite holiday treat.",
+        "Can be made with different nuts.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Ghanaian favorite treat",
+      "better_than_store_bought": "Commercial versions often have additives. Homemade is purer.",
+      "hidden_nutrients": "Peanuts provide protein and healthy fats. Sesame seeds offer calcium and iron."
+    },
+    {
+      "id": 107,
+      "name": "Coconut Chips (Ghanaian)",
+      "country": "Ghana",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 fresh coconut",
+          "100g sugar",
+          "1 tsp cinnamon"
+        ]
+      },
+      "steps": [
+        "Prepare Coconut: Crack coconut and remove meat in large pieces.",
+        "Slice: Slice coconut thinly.",
+        "Coat: Toss coconut slices with sugar and cinnamon.",
+        "Bake: Place on a baking sheet. Bake at 160°C for 20-25 minutes, turning once.",
+        "Cool: Let cool completely on the baking sheet.",
+        "Store: Store in an airtight container.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "The thinner the slices, the crispier the chips.",
+        "Watch carefully; they burn easily.",
+        "This is a healthy Ghanaian snack.",
+        "Can be flavored with ginger.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Ghanaian healthy snack",
+      "better_than_store_bought": "Commercial versions have preservatives. Homemade is more natural.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 108,
+      "name": "Palm Wine (Sweet Non-Alcoholic)",
+      "country": "Ghana",
+      "category": "Beverage",
+      "time": "15 minutes (plus fermentation)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "1 litre fresh palm wine (non-alcoholic version)",
+          "50g sugar (optional)",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Source: Obtain fresh palm wine from a local source.",
+        "Sweeten: Add sugar if desired.",
+        "Chill: Refrigerate until cold.",
+        "Strain: Strain if there are bits.",
+        "Serve: Pour over ice cubes.",
+        "Serve: Enjoy fresh."
+      ],
+      "making_tips": [
+        "Fresh palm wine is naturally sweet and slightly fizzy.",
+        "It ferments quickly, so drink within a day.",
+        "This is Ghana's traditional drink.",
+        "The non-alcoholic version is called 'sweet wine.'",
+        "Serve ice-cold."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Ghanaian traditional drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Fresh is incomparable.",
+      "hidden_nutrients": "Palm wine contains vitamin C and B vitamins."
+    },
+    {
+      "id": 109,
+      "name": "Sobolo (Hibiscus Ginger Drink)",
+      "country": "Ghana",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g dried hibiscus petals",
+          "1.5 litres water",
+          "150g sugar",
+          "1 inch ginger, grated",
+          "Pineapple chunks"
+        ]
+      },
+      "steps": [
+        "Boil: Bring water and hibiscus to boil.",
+        "Simmer: Simmer for 30 minutes.",
+        "Add Ginger: Add ginger.",
+        "Add Sugar: Add sugar and stir to dissolve.",
+        "Strain: Strain through a sieve.",
+        "Cool: Let cool completely.",
+        "Add Pineapple: Add pineapple chunks.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled over ice."
+      ],
+      "making_tips": [
+        "Sobolo is Ghana's version of hibiscus drink.",
+        "The ginger gives it a warming kick.",
+        "Often served at parties and celebrations.",
+        "Can be flavored with clove.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 65,
+      "cultural_authenticity": "100% – Ghanaian party drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is richer and fresher.",
+      "hidden_nutrients": "Hibiscus is rich in antioxidants. Ginger aids digestion."
+    },
+    {
+      "id": 110,
+      "name": "Brukina (Sweet Fermented Millet Milk Drink)",
+      "country": "Ghana",
+      "category": "Beverage",
+      "time": "2 hours (plus fermentation)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "200g millet",
+          "1 litre water",
+          "500ml milk",
+          "100g sugar",
+          "1 tsp cinnamon"
+        ]
+      },
+      "steps": [
+        "Soak Millet: Soak millet in water for 6 hours.",
+        "Blend: Drain and blend with fresh water until smooth.",
+        "Ferment: Let ferment for 12-24 hours (optional).",
+        "Strain: Strain through cheesecloth.",
+        "Add Milk: Add milk, sugar, and cinnamon.",
+        "Cook: Cook over medium heat for 15 minutes.",
+        "Cool: Let cool.",
+        "Chill: Refrigerate.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "Brukina is a Northern Ghana specialty.",
+        "The fermentation gives it a slightly sour taste.",
+        "Can be flavored with vanilla.",
+        "Serve with groundnuts.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 75,
+      "cultural_authenticity": "100% – Ghanaian Northern specialty",
+      "better_than_store_bought": "Commercial versions have additives. Homemade is more authentic.",
+      "hidden_nutrients": "Millet provides protein and B vitamins. Milk adds calcium."
+    },
+    {
+      "id": 111,
+      "name": "Dabo (Sweet Honey Bread)",
+      "country": "Ethiopia",
+      "category": "Snack",
+      "time": "2 hours (includes rising)",
+      "servings": "1 loaf (8 slices)",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "500g all-purpose flour",
+          "1 tbsp instant yeast",
+          "100g honey",
+          "1 tsp salt",
+          "100ml milk",
+          "50g butter, melted",
+          "1 egg"
+        ]
+      },
+      "steps": [
+        "Mix Dry: Combine flour, yeast, and salt.",
+        "Add Wet: Add honey, milk, melted butter, and egg.",
+        "Knead: Knead until smooth and elastic.",
+        "First Rise: Cover and let rise 1 hour.",
+        "Punch Down: Knock back dough.",
+        "Shape: Shape into a round loaf.",
+        "Second Rise: Let rise 30 minutes.",
+        "Bake: Bake at 190°C for 30-35 minutes.",
+        "Cool: Cool on a wire rack.",
+        "Slice: Slice and serve."
+      ],
+      "making_tips": [
+        "Dabo is Ethiopia's version of sweet bread.",
+        "The honey gives it a lovely sweetness.",
+        "Often served with coffee.",
+        "The crust should be golden and slightly crisp.",
+        "Best served warm."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Ethiopian sweet bread",
+      "better_than_store_bought": "Commercial versions often have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Honey provides trace minerals. Milk adds calcium."
+    },
+    {
+      "id": 112,
+      "name": "Sambusa (Sweet Ethiopian)",
+      "country": "Ethiopia",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "1 packet phyllo pastry",
+          "Butter, melted"
+        ],
+        "Filling": [
+          "200g mixed dried fruit",
+          "100g ground almonds",
+          "50g sugar",
+          "1 tsp cinnamon",
+          "1 tbsp honey"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Filling: Combine dried fruit, almonds, sugar, cinnamon, and honey.",
+        "Cut Phyllo: Cut phyllo into strips.",
+        "Fill: Place filling on one end.",
+        "Fold: Fold into triangles, brushing with butter.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and crisp.",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Sweet sambusas are an Ethiopian specialty.",
+        "Can also be baked instead of fried.",
+        "Often served during celebrations.",
+        "The filling should be moist but not wet.",
+        "Serve with honey drizzle."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Ethiopian sweet pastry",
+      "better_than_store_bought": "Commercial versions can be dry. Homemade has a moist filling.",
+      "hidden_nutrients": "Dried fruits provide iron and fiber. Almonds offer vitamin E."
+    },
+    {
+      "id": 113,
+      "name": "Gofio (Roasted Barley and Honey Balls)",
+      "country": "Ethiopia",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "15 balls",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "300g barley flour",
+          "100g honey",
+          "50g butter, melted",
+          "1 tsp cinnamon"
+        ]
+      },
+      "steps": [
+        "Toast Flour: Toast barley flour in a dry pan until golden (5-7 minutes).",
+        "Combine: Mix toasted flour with cinnamon.",
+        "Add Honey: Add honey and melted butter. Mix to form a paste.",
+        "Shape: Roll into small balls.",
+        "Cool: Let cool completely.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Gofio is an Ethiopian energy snack.",
+        "The barley flour must be toasted for the nutty flavor.",
+        "Can be rolled in coconut.",
+        "Often eaten with coffee.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Ethiopian energy snack",
+      "better_than_store_bought": "Commercial versions often use cheap honey. Homemade has pure honey.",
+      "hidden_nutrients": "Barley provides fiber and B vitamins. Honey has antibacterial properties."
+    },
+    {
+      "id": 114,
+      "name": "Tihlo (Roasted Barley Snack with Honey)",
+      "country": "Ethiopia",
+      "category": "Snack",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "300g roasted barley flour",
+          "100g honey",
+          "1 tsp cardamom"
+        ]
+      },
+      "steps": [
+        "Combine: Mix roasted barley flour and cardamom.",
+        "Add Honey: Add honey gradually, mixing until it forms a thick paste.",
+        "Shape: Roll into small bite-sized balls.",
+        "Cool: Let cool.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Tihlo is an Ethiopian favorite.",
+        "The cardamom adds a lovely warmth.",
+        "Often eaten as a snack with coffee.",
+        "Can be made with different grains.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Ethiopian traditional snack",
+      "better_than_store_bought": "Commercial versions often have artificial flavors. Homemade is purer.",
+      "hidden_nutrients": "Barley provides fiber and minerals. Cardamom aids digestion."
+    },
+    {
+      "id": 115,
+      "name": "Kolo (Roasted Barley and Chickpea Snack)",
+      "country": "Ethiopia",
+      "category": "Snack",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g barley",
+          "100g chickpeas",
+          "50g sugar",
+          "1 tsp salt"
+        ]
+      },
+      "steps": [
+        "Soak Chickpeas: Soak chickpeas overnight if raw.",
+        "Roast: In a dry pan, roast barley and chickpeas separately until golden and fragrant.",
+        "Cool: Let cool.",
+        "Season: Toss with sugar and salt.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Kolo is Ethiopia's favorite snack.",
+        "Can be made with other grains and legumes.",
+        "Often served with coffee.",
+        "The roasting brings out the nutty flavors.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Ethiopian favorite snack",
+      "better_than_store_bought": "Commercial versions can be stale. Homemade is fresh and crunchy.",
+      "hidden_nutrients": "Barley and chickpeas provide protein and fiber. Chickpeas are rich in iron."
+    },
+    {
+      "id": 116,
+      "name": "Tej (Ethiopian Honey Wine - Non-Alcoholic)",
+      "country": "Ethiopia",
+      "category": "Beverage",
+      "time": "15 minutes (plus resting)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml water",
+          "100g honey",
+          "1 cinnamon stick",
+          "1 tsp cardamom",
+          "Lemon slices"
+        ]
+      },
+      "steps": [
+        "Boil: Bring water to boil.",
+        "Add Spices: Add cinnamon and cardamom.",
+        "Simmer: Simmer for 10 minutes.",
+        "Strain: Strain.",
+        "Add Honey: Add honey and stir to dissolve.",
+        "Cool: Let cool.",
+        "Chill: Refrigerate.",
+        "Serve: Serve chilled with lemon slices."
+      ],
+      "making_tips": [
+        "Traditional tej is fermented honey wine.",
+        "This non-alcoholic version is spiced tea with honey.",
+        "It's Ethiopia's signature drink.",
+        "Often served in a flask (berele).",
+        "The cinnamon and cardamom are essential."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Ethiopia's signature drink",
+      "better_than_store_bought": "Commercial versions have preservatives. Homemade has pure honey.",
+      "hidden_nutrients": "Honey provides antioxidants. Cinnamon and cardamom have health benefits."
+    },
+    {
+      "id": 117,
+      "name": "Ethiopian Coffee (Sweetened)",
+      "country": "Ethiopia",
+      "category": "Beverage",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "50g Ethiopian coffee beans",
+          "500ml water",
+          "Sugar to taste"
+        ]
+      },
+      "steps": [
+        "Roast: Roast coffee beans until dark (or use pre-roasted).",
+        "Grind: Grind beans to medium-fine grind.",
+        "Boil: Bring water to boil in a jebena (traditional pot).",
+        "Add Coffee: Add coffee grounds. Stir.",
+        "Simmer: Simmer for 10-15 minutes.",
+        "Pour: Pour into cups.",
+        "Sweeten: Add sugar to taste.",
+        "Serve: Serve in small cups."
+      ],
+      "making_tips": [
+        "Ethiopia is the birthplace of coffee.",
+        "Coffee ceremonies are a social ritual.",
+        "Add sugar generously—it's how it's traditionally served.",
+        "The flavor is rich, earthy, and complex.",
+        "Serve with popcorn."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Ethiopia's gift to the world",
+      "better_than_store_bought": "Cafe versions can't match the ceremony. Homemade has authentic Ethiopian flavor.",
+      "hidden_nutrients": "Coffee provides antioxidants. It may have various health benefits."
+    },
+    {
+      "id": 118,
+      "name": "Avocado Juice (Ethiopian)",
+      "country": "Ethiopia",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 ripe avocados",
+          "500ml milk",
+          "4 tbsp sugar",
+          "1 lime",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Prepare Avocados: Peel and pit avocados.",
+        "Blend: In a blender, combine avocado, milk, sugar, and lime juice.",
+        "Add Ice: Add ice cubes.",
+        "Blend: Blend until smooth.",
+        "Pour: Pour into glasses.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "This is a popular Ethiopian café drink.",
+        "The lime prevents oxidation.",
+        "Use very ripe avocados for creaminess.",
+        "Chill the glasses for the best experience.",
+        "Serve immediately."
+      ],
+      "health_rating": 75,
+      "cultural_authenticity": "100% – Ethiopian café favorite",
+      "better_than_store_bought": "Cafe versions often have too much sugar. Homemade has better balance.",
+      "hidden_nutrients": "Avocado provides healthy fats and potassium. Milk adds calcium."
+    },
+    {
+      "id": 119,
+      "name": "Kashata (Coconut and Peanut Candy)",
+      "country": "Tanzania",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "200g desiccated coconut",
+          "200g roasted peanuts",
+          "200g sugar",
+          "100ml water",
+          "1 tsp cardamom"
+        ]
+      },
+      "steps": [
+        "Toast Coconut: Lightly toast coconut.",
+        "Crush Peanuts: Roughly crush peanuts.",
+        "Make Syrup: Heat sugar and water until it reaches soft ball stage.",
+        "Add: Add coconut, peanuts, and cardamom. Stir quickly.",
+        "Press: Press into a greased pan.",
+        "Cool: Let cool completely.",
+        "Cut: Cut into squares.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Kashata is East Africa's favorite sweet.",
+        "Work quickly; it sets fast.",
+        "Can be rolled into balls.",
+        "The cardamom gives it a lovely flavor.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – East African favorite sweet",
+      "better_than_store_bought": "Commercial versions often have additives. Homemade is purer.",
+      "hidden_nutrients": "Coconut provides healthy fats. Peanuts offer protein and vitamin E."
+    },
+    {
+      "id": 120,
+      "name": "Maandazi (Swahili Sweet Doughnuts)",
+      "country": "Tanzania",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "100g sugar",
+          "1 tsp yeast",
+          "½ tsp cardamom",
+          "200ml coconut milk",
+          "2 tbsp coconut oil"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix Dry: Combine flour, sugar, yeast, and cardamom.",
+        "Add Wet: Add coconut milk and oil. Mix to dough.",
+        "Knead: Knead until smooth.",
+        "First Rise: Cover and let rise 1 hour.",
+        "Punch Down: Knock back dough.",
+        "Roll: Roll dough and cut into triangles.",
+        "Second Rise: Let rise 15 minutes.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden and puffed.",
+        "Drain: Drain on paper towels.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Maandazi is the Swahili word for doughnuts.",
+        "The triangular shape is traditional.",
+        "Often served with chai.",
+        "The dough should be soft for pillowy texture.",
+        "Best served fresh."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Swahili favorite snack",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. Cardamom aids digestion."
+    },
+    {
+      "id": 121,
+      "name": "Vibibi (Fermented Rice Cakes)",
+      "country": "Tanzania",
+      "category": "Snack",
+      "time": "2 hours (includes fermentation)",
+      "servings": "12 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Batter": [
+          "300g rice flour",
+          "150g coconut milk",
+          "100g sugar",
+          "1 tsp yeast",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Mix: Combine all ingredients to form a smooth batter.",
+        "Ferment: Cover and let ferment for 1-2 hours.",
+        "Heat Pan: Heat a small round pan.",
+        "Grease: Lightly grease.",
+        "Pour: Pour batter into the pan.",
+        "Cook: Cover and cook until bubbles form on top.",
+        "Flip: Flip and cook other side.",
+        "Remove: Remove from pan.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Vibibi is a traditional Swahili snack.",
+        "The fermentation gives it a slight tang.",
+        "Can be served with coconut.",
+        "The texture should be soft and spongy.",
+        "Best served warm."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Swahili traditional snack",
+      "better_than_store_bought": "Commercial versions often have additives. Homemade is more authentic.",
+      "hidden_nutrients": "Rice flour is gluten-free. Coconut milk provides healthy fats."
+    },
+    {
+      "id": 122,
+      "name": "Kasuku (Sweet Banana Bread)",
+      "country": "Tanzania",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "1 loaf (8 slices)",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Batter": [
+          "3 ripe bananas, mashed",
+          "200g all-purpose flour",
+          "100g sugar",
+          "50g desiccated coconut",
+          "1 tsp baking powder",
+          "2 eggs",
+          "100ml coconut oil"
+        ]
+      },
+      "steps": [
+        "Preheat: Preheat oven to 180°C.",
+        "Mash Bananas: Mash bananas until smooth.",
+        "Combine: Mix mashed bananas with sugar, coconut, baking powder, eggs, and oil.",
+        "Add Flour: Gradually add flour. Mix until just combined.",
+        "Pour: Pour into a greased loaf pan.",
+        "Bake: Bake for 40-45 minutes until a toothpick comes out clean.",
+        "Cool: Cool in the pan.",
+        "Remove: Remove from pan.",
+        "Slice: Slice and serve."
+      ],
+      "making_tips": [
+        "Use very ripe bananas for sweetness.",
+        "The coconut gives it a Tanzanian twist.",
+        "This is a popular afternoon snack.",
+        "Can be served with tea.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Tanzanian banana bread",
+      "better_than_store_bought": "Commercial versions often have preservatives. Homemade is more natural.",
+      "hidden_nutrients": "Bananas provide potassium. Coconut adds healthy fats."
+    },
+    {
+      "id": 123,
+      "name": "Mkate wa Kumimina (Steamed Sweet Cornbread)",
+      "country": "Tanzania",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Batter": [
+          "250g cornmeal",
+          "100g sugar",
+          "200ml coconut milk",
+          "2 eggs",
+          "1 tsp baking powder",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Mix Dry: Combine cornmeal, sugar, baking powder, and salt.",
+        "Add Wet: Add coconut milk and eggs. Mix well.",
+        "Prepare Steamer: Grease a cake pan.",
+        "Pour: Pour batter into the pan.",
+        "Steam: Steam for 40-45 minutes until cooked through.",
+        "Cool: Cool in the pan.",
+        "Remove: Remove from pan.",
+        "Slice: Slice and serve."
+      ],
+      "making_tips": [
+        "Steaming gives this cake its moist texture.",
+        "This is a Tanzanian breakfast favorite.",
+        "Can be baked instead of steamed.",
+        "Serve with tea or coffee.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Tanzanian breakfast favorite",
+      "better_than_store_bought": "Commercial versions can be dry. Homemade is moist and tender.",
+      "hidden_nutrients": "Cornmeal provides fiber and B vitamins. Coconut milk adds healthy fats."
+    },
+    {
+      "id": 124,
+      "name": "Tanga Tangawizi (Spiced Ginger Soda)",
+      "country": "Tanzania",
+      "category": "Beverage",
+      "time": "20 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 inch ginger, grated",
+          "1 litre soda water",
+          "100g sugar",
+          "1 lime",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Combine ginger, sugar, and 100ml water. Heat until sugar dissolves.",
+        "Strain: Strain out ginger.",
+        "Cool: Let syrup cool.",
+        "Combine: In a pitcher, combine syrup and soda water.",
+        "Add Lime: Add lime juice.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Pour over ice cubes.",
+        "Serve: Enjoy chilled."
+      ],
+      "making_tips": [
+        "Tangawizi is Swahili for ginger.",
+        "This is Tanzania's signature soda.",
+        "Adjust sweetness to taste.",
+        "Can be made with fresh ginger for maximum flavor.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Tanzanian signature soda",
+      "better_than_store_bought": "Commercial versions have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Ginger aids digestion. Lime provides vitamin C."
+    },
+    {
+      "id": 125,
+      "name": "Madafu (Fresh Young Coconut Water)",
+      "country": "Tanzania",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 young coconuts",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Open Coconuts: Carefully open young coconuts.",
+        "Drain: Drain coconut water into a pitcher.",
+        "Strain: Strain if desired.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Pour into glasses.",
+        "Add Ice: Add ice cubes.",
+        "Serve: Enjoy fresh."
+      ],
+      "making_tips": [
+        "Young coconuts have the sweetest water.",
+        "Madafu is the Swahili word for coconut water.",
+        "This is nature's sports drink.",
+        "No sugar needed—it's naturally sweet.",
+        "Drink fresh for the best flavor."
+      ],
+      "health_rating": 90,
+      "cultural_authenticity": "100% – Tanzania's natural drink",
+      "better_than_store_bought": "Bottled coconut water has preservatives. Fresh is incomparable.",
+      "hidden_nutrients": "Rich in potassium and electrolytes. Low in calories."
+    },
+    {
+      "id": 126,
+      "name": "Tamarind Juice (Tanzanian)",
+      "country": "Tanzania",
+      "category": "Beverage",
+      "time": "30 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g tamarind paste",
+          "1 litre water",
+          "100g sugar",
+          "1 tsp ginger (optional)"
+        ]
+      },
+      "steps": [
+        "Soak: Soak tamarind paste in water for 15 minutes.",
+        "Strain: Strain through a sieve to remove seeds and fibers.",
+        "Add Sugar: Add sugar and stir to dissolve.",
+        "Add Ginger: Add ginger if desired.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled over ice."
+      ],
+      "making_tips": [
+        "Tamarind juice is popular across East Africa.",
+        "The sweet-sour balance is key.",
+        "Can be flavored with lime.",
+        "Serve ice-cold.",
+        "Keep in the refrigerator."
+      ],
+      "health_rating": 65,
+      "cultural_authenticity": "100% – East African favorite drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Tamarind provides iron, potassium, and magnesium."
+    },
+    {
+      "id": 127,
+      "name": "Thiakry (Sweet Millet Porridge)",
+      "country": "Senegal",
+      "category": "Snack",
+      "time": "1 hour (plus soaking)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Porridge": [
+          "300g millet",
+          "500ml milk",
+          "200g yogurt",
+          "100g sugar"
+        ],
+        "Toppings": [
+          "Fresh fruit",
+          "Groundnuts"
+        ]
+      },
+      "steps": [
+        "Soak Millet: Soak millet for 2 hours.",
+        "Cook: Cook millet in water until soft.",
+        "Cool: Let cool completely.",
+        "Mix: Add milk, yogurt, and sugar. Stir well.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve topped with fruit and groundnuts."
+      ],
+      "making_tips": [
+        "Thiakry is Senegal's favorite dessert.",
+        "The yogurt gives a lovely tang.",
+        "Can be made with other grains.",
+        "Serve ice-cold.",
+        "Traditionally eaten with a spoon."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Senegalese favorite dessert",
+      "better_than_store_bought": "Commercial versions often have additives. Homemade is more authentic.",
+      "hidden_nutrients": "Millet provides protein and B vitamins. Yogurt offers probiotics and calcium."
+    },
+    {
+      "id": 128,
+      "name": "Ngalakh (Millet and Peanut Dessert)",
+      "country": "Senegal",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "200g millet",
+          "200g peanut butter",
+          "100g sugar",
+          "500ml milk",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Cook Millet: Cook millet in water until soft.",
+        "Mix: In a bowl, combine peanut butter, sugar, salt, and milk.",
+        "Stir: Stir until smooth.",
+        "Add Millet: Add cooked millet. Mix well.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "Ngalakh is a Senegalese specialty.",
+        "The peanut butter gives it richness.",
+        "Can be made with different nuts.",
+        "Serve with fruit.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Senegalese traditional dessert",
+      "better_than_store_bought": "Commercial versions have additives. Homemade is purer.",
+      "hidden_nutrients": "Millet provides fiber and B vitamins. Peanut butter offers protein and healthy fats."
+    },
+    {
+      "id": 129,
+      "name": "Beignets de Banane (Sweet Banana Fritters)",
+      "country": "Senegal",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "12 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Batter": [
+          "150g all-purpose flour",
+          "50g sugar",
+          "1 tsp baking powder",
+          "200ml milk",
+          "1 egg"
+        ],
+        "Bananas": [
+          "4 ripe bananas"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix flour, sugar, and baking powder. Add milk and egg.",
+        "Slice Bananas: Peel and slice bananas.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Dip: Dip banana slices in batter.",
+        "Fry: Fry until golden.",
+        "Drain: Drain on paper towels.",
+        "Dust: Dust with powdered sugar.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "These are Senegal's favorite fritters.",
+        "Use ripe bananas for sweetness.",
+        "The batter should be thick.",
+        "Serve with honey or syrup.",
+        "Best served fresh."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Senegalese street snack",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter.",
+      "hidden_nutrients": "Bananas provide potassium and fiber."
+    },
+    {
+      "id": 130,
+      "name": "Gateau de Riz (Sweet Rice Cakes)",
+      "country": "Senegal",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 pieces",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Batter": [
+          "200g rice flour",
+          "100g sugar",
+          "200ml coconut milk",
+          "2 eggs",
+          "1 tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Preheat: Preheat oven to 180°C.",
+        "Mix: Combine rice flour, sugar, coconut milk, eggs, and vanilla.",
+        "Pour: Pour into a greased cake pan.",
+        "Bake: Bake for 35-40 minutes.",
+        "Cool: Cool in the pan.",
+        "Cut: Cut into squares.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Gateau de riz is Senegal's rice cake.",
+        "The coconut gives it a lovely flavor.",
+        "Can be made as mini cakes.",
+        "Serve with tea.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Senegalese rice cake",
+      "better_than_store_bought": "Commercial versions have preservatives. Homemade is more natural.",
+      "hidden_nutrients": "Rice flour is gluten-free. Coconut milk provides healthy fats."
+    },
+    {
+      "id": 131,
+      "name": "Mankanya (Sweet Fried Dough)",
+      "country": "Senegal",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "50g sugar",
+          "1 tsp yeast",
+          "200ml water",
+          "Sesame seeds"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, sugar, yeast, and water.",
+        "Knead: Knead until smooth.",
+        "Rest: Rest 30 minutes.",
+        "Shape: Roll into balls and coat with sesame seeds.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry until golden.",
+        "Drain: Drain on paper towels.",
+        "Cool: Cool slightly.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Mankanya is a Senegalese street snack.",
+        "The sesame seeds give a lovely crunch.",
+        "Can be flavored with vanilla.",
+        "Best served fresh.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Senegalese street favorite",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter.",
+      "hidden_nutrients": "Sesame seeds provide calcium and iron."
+    },
+    {
+      "id": 132,
+      "name": "Bissap (Hibiscus and Ginger Drink)",
+      "country": "Senegal",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g dried hibiscus petals",
+          "1.5 litres water",
+          "150g sugar",
+          "1 inch ginger, grated"
+        ]
+      },
+      "steps": [
+        "Boil: Bring water and hibiscus to boil.",
+        "Simmer: Simmer for 30 minutes.",
+        "Add Ginger: Add ginger.",
+        "Add Sugar: Add sugar and stir to dissolve.",
+        "Strain: Strain through a sieve.",
+        "Cool: Let cool completely.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled over ice."
+      ],
+      "making_tips": [
+        "Bissap is Senegal's national drink.",
+        "The ginger gives it a warming kick.",
+        "Often served at celebrations.",
+        "Can be flavored with mint.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 65,
+      "cultural_authenticity": "100% – Senegal's national drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is richer.",
+      "hidden_nutrients": "Hibiscus is rich in antioxidants. Ginger aids digestion."
+    },
+    {
+      "id": 133,
+      "name": "Ginger Juice (Senegalese)",
+      "country": "Senegal",
+      "category": "Beverage",
+      "time": "15 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 inch fresh ginger, grated",
+          "1 litre water",
+          "100g sugar",
+          "2 limes"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Combine ginger, sugar, and 100ml water. Heat until sugar dissolves.",
+        "Strain: Strain out ginger.",
+        "Cool: Let syrup cool.",
+        "Add Lime: Add lime juice.",
+        "Add Water: Add remaining water.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled over ice."
+      ],
+      "making_tips": [
+        "This is Senegal's favorite tonic.",
+        "The lime balances the ginger's heat.",
+        "Adjust sweetness to taste.",
+        "Can be made with honey.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 70,
+      "cultural_authenticity": "100% – Senegalese favorite drink",
+      "better_than_store_bought": "Commercial versions have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Ginger aids digestion. Lime provides vitamin C."
+    },
+    {
+      "id": 134,
+      "name": "Bouye (Baobab Fruit Drink)",
+      "country": "Senegal",
+      "category": "Beverage",
+      "time": "20 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g baobab powder",
+          "1 litre water",
+          "100g sugar"
+        ]
+      },
+      "steps": [
+        "Mix: Combine baobab powder and water.",
+        "Strain: Strain to remove bits.",
+        "Add Sugar: Add sugar and stir to dissolve.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled over ice."
+      ],
+      "making_tips": [
+        "Baobab is Senegal's superfood.",
+        "The fruit has a tart, citrusy flavor.",
+        "Can be flavored with vanilla.",
+        "Serve with sugar to balance tartness.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 80,
+      "cultural_authenticity": "100% – Senegal's superfood drink",
+      "better_than_store_bought": "Commercial versions have additives. Homemade is purer.",
+      "hidden_nutrients": "Baobab is rich in vitamin C, calcium, and antioxidants."
+    },
+    {
+      "id": 135,
+      "name": "Nsenene (Sweetened Fried Grasshoppers)",
+      "country": "Uganda",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "200g grasshoppers",
+          "50g sugar",
+          "Oil for frying"
+        ]
+      },
+      "steps": [
+        "Prepare: Clean grasshoppers thoroughly.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry grasshoppers until crisp.",
+        "Drain: Drain on paper towels.",
+        "Sprinkle: Sprinkle with sugar.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Nsenene is a Ugandan delicacy.",
+        "They are harvested during the rainy season.",
+        "This is a seasonal snack.",
+        "Can be flavored with spices.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Ugandan seasonal delicacy",
+      "better_than_store_bought": "Commercial versions can be greasy. Homemade is fresher.",
+      "hidden_nutrients": "Grasshoppers are rich in protein and minerals."
+    },
+    {
+      "id": 136,
+      "name": "Kikomando (Sweetened Chapati Bits)",
+      "country": "Uganda",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Chapati": [
+          "300g all-purpose flour",
+          "50g sugar",
+          "1 tsp salt",
+          "200ml water",
+          "Oil for frying"
+        ],
+        "Syrup": [
+          "100g honey"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, sugar, and salt. Add water to form dough.",
+        "Knead: Knead until smooth. Rest 30 minutes.",
+        "Roll: Roll into thin circles.",
+        "Cook: Cook on a hot griddle until puffed.",
+        "Cut: Cut into small bits.",
+        "Heat Syrup: Warm honey.",
+        "Toss: Toss chapati bits in honey.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Kikomando is a Ugandan street snack.",
+        "The honey gives it sweetness.",
+        "Can be flavored with spices.",
+        "Best served warm.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Ugandan street favorite",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is fresher.",
+      "hidden_nutrients": "Honey provides trace minerals."
+    },
+    {
+      "id": 137,
+      "name": "Ntule (Sweet Banana Chips)",
+      "country": "Uganda",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 green bananas",
+          "100g sugar",
+          "Oil for frying"
+        ]
+      },
+      "steps": [
+        "Slice Bananas: Peel and slice bananas very thinly.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Fry: Fry slices until golden.",
+        "Drain: Drain on paper towels.",
+        "Sprinkle: Sprinkle with sugar.",
+        "Cool: Cool completely.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Ntule is Uganda's favorite snack.",
+        "The chips should be thin for crispiness.",
+        "Can be made with ripe bananas for sweetness.",
+        "Store in an airtight container.",
+        "Best served fresh."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Ugandan favorite snack",
+      "better_than_store_bought": "Commercial versions have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Bananas provide potassium and fiber."
+    },
+    {
+      "id": 138,
+      "name": "Kawunga (Sweet Cassava Cakes)",
+      "country": "Uganda",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 pieces",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g cassava",
+          "100g sugar",
+          "100g coconut",
+          "1 tsp cinnamon"
+        ]
+      },
+      "steps": [
+        "Boil Cassava: Boil cassava until soft.",
+        "Mash: Mash until smooth.",
+        "Mix: Add sugar, coconut, and cinnamon.",
+        "Shape: Shape into small cakes.",
+        "Cook: Cook on a griddle until golden.",
+        "Cool: Cool slightly.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Kawunga is a Ugandan cassava cake.",
+        "The coconut gives it a lovely flavor.",
+        "Can be baked instead of fried.",
+        "Serve with tea.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Ugandan cassava cake",
+      "better_than_store_bought": "Commercial versions have additives. Homemade is purer.",
+      "hidden_nutrients": "Cassava provides carbohydrates. Coconut adds healthy fats."
+    },
+    {
+      "id": 139,
+      "name": "Enkoko (Sweet Groundnut Cakes)",
+      "country": "Uganda",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "15 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "300g groundnuts",
+          "100g sugar",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Roast Groundnuts: Roast groundnuts until golden.",
+        "Grind: Grind coarsely.",
+        "Mix: Add sugar and salt.",
+        "Form: Shape into small cakes.",
+        "Serve: Serve as a snack."
+      ],
+      "making_tips": [
+        "Enkoko is a Ugandan groundnut snack.",
+        "No cooking required after roasting.",
+        "Store in an airtight container.",
+        "Can be made with honey.",
+        "Great with tea."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Ugandan groundnut cake",
+      "better_than_store_bought": "Commercial versions have additives. Homemade is purer.",
+      "hidden_nutrients": "Groundnuts provide protein, healthy fats, and vitamin E."
+    },
+    {
+      "id": 140,
+      "name": "Omubisi (Fresh Fermented Banana Juice)",
+      "country": "Uganda",
+      "category": "Beverage",
+      "time": "30 minutes (plus fermentation)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "6 ripe bananas",
+          "1 litre water",
+          "100g sugar"
+        ]
+      },
+      "steps": [
+        "Peel Bananas: Peel and mash bananas.",
+        "Mix: Add water and sugar.",
+        "Ferment: Let ferment for 12-24 hours (optional).",
+        "Strain: Strain through a sieve.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "Omubisi is Uganda's traditional banana drink.",
+        "It has a sweet, slightly tangy flavor.",
+        "Can be served fresh without fermentation.",
+        "This is the non-alcoholic version.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Ugandan traditional drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is more authentic.",
+      "hidden_nutrients": "Bananas provide potassium and fiber."
+    },
+    {
+      "id": 141,
+      "name": "Sweet Tea (Ugandan)",
+      "country": "Uganda",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 black tea bags",
+          "1 litre water",
+          "200ml milk",
+          "100g honey",
+          "1 tsp cinnamon (optional)"
+        ]
+      },
+      "steps": [
+        "Boil: Bring water to boil.",
+        "Steep: Add tea bags and steep for 5 minutes.",
+        "Add: Remove tea bags. Add milk, honey, and cinnamon.",
+        "Heat: Heat until warm.",
+        "Serve: Serve hot."
+      ],
+      "making_tips": [
+        "Ugandan sweet tea is a comfort drink.",
+        "The honey gives it a unique sweetness.",
+        "Can be made with other spices.",
+        "Serve with chapati or mandazi.",
+        "Best served warm."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Ugandan favorite tea",
+      "better_than_store_bought": "Cafe versions use sugar. Homemade uses honey.",
+      "hidden_nutrients": "Black tea provides antioxidants. Honey has antibacterial properties."
+    },
+    {
+      "id": 142,
+      "name": "Passion Fruit Juice (Ugandan)",
+      "country": "Uganda",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "10 passion fruits",
+          "500ml water",
+          "100g sugar",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Cut Passion Fruits: Cut passion fruits in half.",
+        "Scoop: Scoop out the pulp.",
+        "Blend: Blend pulp with water.",
+        "Strain: Strain to remove seeds.",
+        "Add Sugar: Add sugar.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve over ice cubes."
+      ],
+      "making_tips": [
+        "Passion fruit is abundant in Uganda.",
+        "The seeds add texture; they can be kept in.",
+        "Adjust sweetness to taste.",
+        "Serve ice-cold.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 70,
+      "cultural_authenticity": "100% – Ugandan fresh juice",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Passion fruit provides vitamin C and vitamin A."
+    }
+  ]
+}

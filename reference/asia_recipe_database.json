@@ -1,0 +1,3246 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Matcha Mochi",
+      "country": "Japan",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes resting)",
+      "servings": "12 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Mochi Dough": [
+          "200g glutinous rice flour (shiratamako)",
+          "50g granulated sugar",
+          "300ml water",
+          "2 tbsp matcha powder (ceremonial grade)",
+          "Potato starch for dusting"
+        ],
+        "Filling": [
+          "200g sweet red bean paste (anko)",
+          "1 tbsp matcha powder for dusting"
+        ]
+      },
+      "steps": [
+        "Prepare Filling: Roll red bean paste into 12 small balls (about 15g each). Chill in refrigerator.",
+        "Mix Dry Ingredients: Sift glutinous rice flour, sugar, and matcha powder into a microwave-safe bowl.",
+        "Add Water: Gradually add water while whisking until smooth batter forms.",
+        "Steam/Cook: Microwave on high for 2 minutes. Stir vigorously. Microwave another 1-2 minutes until dough becomes translucent and sticky.",
+        "Knead Dough: Dust work surface with potato starch. Turn out hot dough (use wet spatula). Knead until smooth and elastic, about 5 minutes.",
+        "Divide: Dust hands with starch. Divide dough into 12 equal portions.",
+        "Fill: Flatten each portion into a disc. Place red bean ball in center. Wrap dough around filling, pinch to seal.",
+        "Finish: Dust with additional matcha powder. Serve at room temperature."
+      ],
+      "making_tips": [
+        "The secret to perfect mochi is patience—never rush the kneading.",
+        "When the dough becomes warm to the touch and stretches without tearing, you know it's ready.",
+        "Always keep your hands dusted with potato starch; it prevents sticking better than flour and won't affect the flavor.",
+        "The microwave timing may vary; cook until dough becomes translucent and pulls away from the bowl sides.",
+        "Chill the filling balls until firm—this makes wrapping much easier and prevents them from breaking."
+      ],
+      "health_rating": 65,
+      "cultural_authenticity": "95% – Traditional New Year's treat",
+      "better_than_store_bought": "Fresh mochi has a tender, pillowy texture that packaged versions lose within hours. The matcha flavor is more vibrant and aromatic.",
+      "hidden_nutrients": "Matcha provides EGCG antioxidants, L-theanine for calm focus, and fiber from rice flour."
+    },
+    {
+      "id": 2,
+      "name": "Dorayaki",
+      "country": "Japan",
+      "category": "Snack",
+      "time": "40 minutes",
+      "servings": "6 pancakes (3 sandwiches)",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Pancakes": [
+          "3 large eggs",
+          "100g granulated sugar",
+          "1 tbsp honey",
+          "180g all-purpose flour",
+          "1 tsp baking powder",
+          "3 tbsp water"
+        ],
+        "Filling": [
+          "300g sweet red bean paste (tsubuan or koshian)"
+        ]
+      },
+      "steps": [
+        "Make Batter: In a bowl, whisk eggs and sugar until pale and thick. Add honey and mix.",
+        "Sift Dry: Sift flour and baking powder into egg mixture. Fold gently until just combined.",
+        "Add Water: Stir in water gradually until batter has ribbon-like consistency.",
+        "Rest: Let batter rest 15 minutes (this makes pancakes fluffier).",
+        "Cook: Heat non-stick pan over low-medium heat. Wipe with oiled paper towel. Pour ¼ cup batter per pancake.",
+        "Watch Bubbles: Cook until surface bubbles start popping (2-3 minutes). Flip and cook other side 1 minute.",
+        "Assemble: Spread 2 tbsp red bean paste on one pancake. Top with another pancake.",
+        "Wrap: Wrap in plastic wrap for 10 minutes to let flavors meld."
+      ],
+      "making_tips": [
+        "The honey is non-negotiable—it gives dorayaki that signature moistness and caramelized edge.",
+        "Cook on the lowest heat possible; patience yields that perfect golden-brown color without burning.",
+        "When you flip, the pancake should release easily; if it sticks, wait a few more seconds.",
+        "The batter should flow in a ribbon-like stream when lifted with a spoon—adjust with more flour or water accordingly.",
+        "Wrapping in plastic while warm traps steam and softens the pancakes, making them meld beautifully with the filling."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "90% – Modern version of Edo-period treat",
+      "better_than_store_bought": "Factory-made versions are often dry and overly sweet. Homemade has a delicate honey perfume and custard-like interior.",
+      "hidden_nutrients": "Red bean paste provides iron, magnesium, and dietary fiber. Eggs add protein and vitamin D."
+    },
+    {
+      "id": 3,
+      "name": "Taiyaki",
+      "country": "Japan",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "6 fish-shaped cakes",
+      "difficulty": "Medium (requires mold)",
+      "ingredients": {
+        "Batter": [
+          "200g cake flour",
+          "1½ tsp baking powder",
+          "50g sugar",
+          "2 large eggs",
+          "300ml milk",
+          "1 tbsp honey",
+          "1 tbsp vegetable oil"
+        ],
+        "Fillings": [
+          "250g sweet red bean paste",
+          "OR 250g custard cream",
+          "OR 200g sweet potato paste"
+        ]
+      },
+      "steps": [
+        "Make Batter: Whisk eggs, milk, honey, and oil. Sift in flour, baking powder, and sugar. Mix until smooth. Rest 30 minutes.",
+        "Preheat Mold: Heat taiyaki mold over medium flame. Grease both sides lightly with oil.",
+        "Pour Batter: Pour batter into bottom mold, filling about ⅔ full.",
+        "Add Filling: Place 2 tbsp filling in center of batter.",
+        "Cover with Batter: Pour more batter over filling to cover completely.",
+        "Close Mold: Close mold firmly. Cook 2-3 minutes each side, flipping twice, until golden brown.",
+        "Release: Carefully open mold. Taiyaki should release easily when fully cooked.",
+        "Cool: Cool on wire rack to maintain crispiness."
+      ],
+      "making_tips": [
+        "The mold must be screaming hot before you pour the first batter.",
+        "The key is the flip—you need to turn the mold over twice to ensure even cooking.",
+        "If your taiyaki isn't crispy on the outside and fluffy inside, your heat is too low or you're not pouring enough batter on top of the filling.",
+        "Grease the mold lightly with a brush between batches to prevent sticking.",
+        "Let the batter rest—this relaxes the gluten and creates a lighter texture."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "95% – Iconic since Meiji era",
+      "better_than_store_bought": "Fresh taiyaki has a crispy, waffle-like exterior with a steamy, soft interior that no frozen version can replicate. The custard is particularly superior when homemade.",
+      "hidden_nutrients": "Red bean filling adds iron and folate. Custard version provides calcium and vitamin B12."
+    },
+    {
+      "id": 4,
+      "name": "Castella (Kasutera)",
+      "country": "Japan",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "1 loaf (8 slices)",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Main": [
+          "6 large eggs, separated",
+          "150g granulated sugar",
+          "50g honey",
+          "2 tbsp mirin (or water)",
+          "120g bread flour (high protein)",
+          "1 tbsp corn syrup"
+        ]
+      },
+      "steps": [
+        "Prepare Pan: Line 18x18cm square pan with parchment paper, extending above edges.",
+        "Warm Honey: Microwave honey and mirin for 10 seconds until fluid.",
+        "Beat Yolks: Whisk egg yolks with half the sugar until pale and thick (ribbon stage).",
+        "Meringue: Beat egg whites until foamy. Gradually add remaining sugar. Beat to stiff peaks.",
+        "Combine: Fold ⅓ meringue into yolk mixture to lighten. Gently fold in remaining meringue.",
+        "Add Flour: Sift flour over batter in 3 additions, folding gently after each.",
+        "Add Honey: Drizzle honey mixture along side of bowl. Fold in gently.",
+        "Bake: Pour batter into pan. Tap pan firmly to remove bubbles. Bake at 170°C for 40-45 minutes.",
+        "Cool: Invert onto rack. Cover with plastic wrap while warm (keeps moisture).",
+        "Rest: Wait until next day to slice—flavor improves overnight."
+      ],
+      "making_tips": [
+        "Real castella is all about the meringue and the overnight rest.",
+        "The flour must be sifted three times—this is what makes the honeycomb texture.",
+        "Never open the oven door during the first 30 minutes, or your cake will collapse.",
+        "The day-old slice is always better than the fresh one.",
+        "Fold the batter with a gentle hand—over-mixing deflates the meringue and creates a dense cake."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Original Portuguese recipe preserved in Nagasaki",
+      "better_than_store_bought": "Commercial castella often contains additives and shortening. Traditional version has pure honey fragrance, a crisp sugar crust on bottom, and a moist, springy crumb.",
+      "hidden_nutrients": "Eggs provide complete protein and choline. Honey offers trace antioxidants and minerals."
+    },
+    {
+      "id": 5,
+      "name": "Kakigori",
+      "country": "Japan",
+      "category": "Snack",
+      "time": "20 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Base": [
+          "500g ice block (must be completely frozen solid)"
+        ],
+        "Syrups": [
+          "150ml simple syrup (1:1 sugar:water)",
+          "Food coloring or natural fruit purees",
+          "Flavor extracts (matcha, strawberry, melon)"
+        ],
+        "Toppings": [
+          "Sweetened condensed milk",
+          "Strawberry syrup",
+          "Matcha powder",
+          "Sweet red beans",
+          "Fresh fruit"
+        ]
+      },
+      "steps": [
+        "Make Syrups: Prepare flavored syrups (strawberry, melon, matcha, etc.) in squeeze bottles.",
+        "Prepare Ice: Remove ice from freezer 5 minutes before shaving to temper.",
+        "Shave Ice: Use electric shaver or manual ice shaver. Shave ice into fluffy, snow-like consistency directly into serving bowls.",
+        "Form Mountain: Pile ice into a dramatic mountain shape, packing gently.",
+        "Drizzle Syrups: Pour syrup over ice in your preferred pattern. Don't over-saturate.",
+        "Add Toppings: Drizzle condensed milk generously. Add red beans, fruit, or matcha powder.",
+        "Serve Immediately: Kakigori melts fast—serve with a spoon."
+      ],
+      "making_tips": [
+        "The ice must be pure—use filtered water and freeze overnight.",
+        "Never use ice cubes from the freezer for drinks; they melt too fast.",
+        "The shaver must be sharp; dull blades create coarse ice that doesn't absorb syrup.",
+        "Syrup goes on top and is absorbed as you eat, not all at once.",
+        "Serve immediately in chilled bowls to slow melting."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "90% – Modern variations evolved from Heian-era ice treats",
+      "better_than_store_bought": "Shaved at home has a fluffier, more ethereal texture than the hard, compressed ice sold at festivals. You control the sweetness and use real fruit.",
+      "hidden_nutrients": "Fresh fruit toppings add vitamins. Red beans provide fiber and iron."
+    },
+    {
+      "id": 6,
+      "name": "Matcha Latte",
+      "country": "Japan",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 cups",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 tsp matcha powder (ceremonial grade)",
+          "120ml hot water (80°C, not boiling)",
+          "400ml milk (dairy or oat/soy)",
+          "2 tbsp honey or maple syrup",
+          "Optional: cinnamon or vanilla"
+        ]
+      },
+      "steps": [
+        "Sift Matcha: Sift matcha powder into a bowl to remove lumps.",
+        "Add Water: Pour 120ml hot water over matcha.",
+        "Whisk: Use bamboo whisk (chasen) in M-shape motion until frothy (20-30 seconds).",
+        "Heat Milk: Heat milk in saucepan until steaming (not boiling). Or use milk frother.",
+        "Froth Milk: Froth milk until foamy and creamy.",
+        "Combine: Pour matcha into cups. Add sweetener and stir.",
+        "Top with Milk: Gently pour frothed milk over matcha. Use spoon to hold back foam, then top with foam.",
+        "Serve: Optional dust with extra matcha powder."
+      ],
+      "making_tips": [
+        "The water temperature is everything—never use boiling water or you'll burn the matcha, turning it bitter.",
+        "Use 80°C water and whisk with conviction.",
+        "The M-shape motion is not just for show; it incorporates air properly.",
+        "Use ceremonial grade for drinking—culinary grade is for baking.",
+        "Sift the matcha powder before whisking to eliminate lumps."
+      ],
+      "health_rating": 78,
+      "cultural_authenticity": "85% – Modern interpretation of traditional tea",
+      "better_than_store_bought": "Coffee shop versions use syrups and lower-quality matcha. Homemade has brighter color, complex umami notes, and no artificial flavors.",
+      "hidden_nutrients": "Matcha contains L-theanine (promotes relaxation), EGCG (antioxidants), and vitamin C. Milk adds calcium and protein."
+    },
+    {
+      "id": 7,
+      "name": "Ramune",
+      "country": "Japan",
+      "category": "Beverage",
+      "time": "30 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "200ml water",
+          "150g sugar",
+          "1 tsp citric acid",
+          "1 tbsp lemon juice",
+          "600ml carbonated water",
+          "Flavorings: strawberry syrup, melon syrup, or yuzu juice",
+          "Food coloring (optional)"
+        ]
+      },
+      "steps": [
+        "Make Simple Syrup: Combine water and sugar in saucepan. Heat until sugar dissolves. Cool completely.",
+        "Add Citrus: Stir in citric acid and lemon juice.",
+        "Add Flavor: Add your chosen flavoring (2 tbsp strawberry syrup, 1 tbsp yuzu juice, etc.).",
+        "Add Color: If desired, add a drop of food coloring.",
+        "Chill Syrup: Refrigerate syrup until cold.",
+        "Carbonate: Pour cold syrup into glasses (about 50ml each).",
+        "Top with Soda: Add carbonated water to fill. Stir gently.",
+        "Serve: The traditional glass bottle with marble stopper is optional but fun! Pour carefully."
+      ],
+      "making_tips": [
+        "The carbonation must be strong—use fresh, very cold soda water.",
+        "The flavor should be sweet but not cloying; balance the sugar with enough citric acid.",
+        "Always chill the syrup and soda water separately before mixing—this preserves the bubbles.",
+        "The marble bottle is for show; the drink itself is what matters.",
+        "Pour soda water down the side of the glass to retain carbonation."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "80% – Homemade version of 19th-century British-influenced soda",
+      "better_than_store_bought": "Commercial ramune uses artificial sweeteners and preservatives. Homemade has bright, natural fruit flavors and customizable sweetness.",
+      "hidden_nutrients": "Lemon juice provides vitamin C. Real fruit flavorings add trace nutrients."
+    },
+    {
+      "id": 8,
+      "name": "Egg Tarts (Dan Tat)",
+      "country": "China",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "12 tarts",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Pastry": [
+          "250g all-purpose flour",
+          "150g unsalted butter, cold",
+          "50g powdered sugar",
+          "1 egg yolk",
+          "1 tbsp cold water"
+        ],
+        "Custard": [
+          "150ml water",
+          "100g sugar",
+          "3 large eggs",
+          "150ml evaporated milk",
+          "1 tsp vanilla extract"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Cut cold butter into flour and sugar until crumbly. Add egg yolk and water. Knead gently into dough.",
+        "Chill Pastry: Wrap and refrigerate 30 minutes.",
+        "Roll Pastry: Roll dough to 3mm thickness. Cut circles large enough for tart tins.",
+        "Line Tins: Press pastry into greased tart tins. Chill again 15 minutes.",
+        "Make Custard: Dissolve sugar in warm water. Cool. Beat eggs, milk, and vanilla. Add sugar water. Strain.",
+        "Fill Tarts: Pour custard into pastry shells, leaving 2mm rim.",
+        "Bake: 220°C for 12-15 minutes until custard is set and surface has charred spots.",
+        "Cool: Cool in tins 5 minutes before removing."
+      ],
+      "making_tips": [
+        "The secret to the flaky crust is keeping everything cold—use ice water if needed.",
+        "The filling should be strained three times through a fine sieve for that silky texture.",
+        "The charred spots on top are not a mistake; they're the mark of a perfect dan tat, achieved with very high heat.",
+        "Don't overfill the shells—the custard puffs up during baking.",
+        "Remove from tins while still slightly warm to prevent sticking."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "95% – Hong Kong classic, perfecting Portuguese inspiration",
+      "better_than_store_bought": "Fresh-baked tarts have a shatteringly crisp crust and a custard that jiggles like a dream—delicacies that degrade within hours. Factory versions can't match this texture.",
+      "hidden_nutrients": "Eggs provide protein and choline. Milk adds calcium and vitamin D."
+    },
+    {
+      "id": 9,
+      "name": "Tangyuan",
+      "country": "China",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "4 servings (16 balls)",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Dough": [
+          "250g glutinous rice flour",
+          "200ml warm water"
+        ],
+        "Filling": [
+          "150g black sesame seeds, toasted",
+          "100g powdered sugar",
+          "60g unsalted butter or lard, softened"
+        ],
+        "Soup": [
+          "500ml water",
+          "100g rock sugar",
+          "5 slices ginger"
+        ]
+      },
+      "steps": [
+        "Make Filling: Grind sesame seeds to powder. Mix with sugar and butter until paste forms. Roll into 16 small balls. Chill.",
+        "Make Dough: Gradually add warm water to rice flour, mixing until dough forms. Knead until smooth and elastic.",
+        "Divide: Roll dough into a log. Cut into 16 pieces.",
+        "Fill: Flatten each piece. Place sesame ball in center. Wrap carefully, sealing completely.",
+        "Prepare Soup: In a pot, combine water, rock sugar, and ginger. Bring to boil, then simmer 10 minutes.",
+        "Cook Tangyuan: Carefully drop balls into boiling water. They'll sink, then float when cooked (about 3-5 minutes).",
+        "Serve: Remove with slotted spoon. Place in bowls with ginger soup.",
+        "Garnish: Optional with osmanthus flowers."
+      ],
+      "making_tips": [
+        "The dough must be smooth like a baby's cheek—if it cracks when you roll it, add a few drops more water.",
+        "The filling should be frozen solid before wrapping; this makes sealing much easier.",
+        "Always serve immediately—these are best hot, fresh from the pot.",
+        "The chewy texture is the soul of tangyuan.",
+        "Don't overcrowd the pot; cook in batches for even cooking."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Ancient Chinese festival food (Yuanxiao festival)",
+      "better_than_store_bought": "Frozen tangyuan are often cracked and leak filling. Homemade has a perfectly smooth, resilient skin that yields the right chewiness.",
+      "hidden_nutrients": "Sesame seeds provide calcium, iron, and healthy fats. Ginger aids digestion."
+    },
+    {
+      "id": 10,
+      "name": "Pineapple Buns (Bo Lo Bao)",
+      "country": "China",
+      "category": "Snack",
+      "time": "2 hours (includes rising)",
+      "servings": "8 buns",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "350g bread flour",
+          "50g sugar",
+          "5g instant yeast",
+          "1 tsp salt",
+          "1 large egg",
+          "180ml warm milk",
+          "40g unsalted butter"
+        ],
+        "Topping": [
+          "100g cake flour",
+          "80g powdered sugar",
+          "60g unsalted butter, cold",
+          "1 egg yolk",
+          "½ tsp baking powder",
+          "½ tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Make Dough: Combine flour, sugar, yeast, salt. Add egg and milk. Mix to dough.",
+        "Knead: Knead 10 minutes until smooth. Add butter and knead 10 more minutes until elastic.",
+        "First Rise: Cover and let rise 1 hour until doubled.",
+        "Make Topping: Cut butter into flour, sugar, baking powder until crumbly. Add egg yolk and vanilla. Press into dough. Chill 15 minutes.",
+        "Shape Buns: Punch down dough. Divide into 8 balls.",
+        "Add Topping: Divide topping into 8 portions. Flatten each into disc. Place over each dough ball, pressing down.",
+        "Score: Use knife to score crisscross pattern on topping.",
+        "Second Rise: Proof 45 minutes.",
+        "Bake: Egg wash buns. 190°C for 15-18 minutes until golden."
+      ],
+      "making_tips": [
+        "The topping must be cold when you put it on—this creates the signature cracking pattern.",
+        "Don't over-prove the dough; it shouldn't double in size during the second rise.",
+        "These are best eaten fresh from the oven with a thick slab of butter inside—it melts into the bun's crumb, perfection.",
+        "Score the topping deeply enough for dramatic cracks but not so deep you cut through to the dough.",
+        "Brush with egg wash for that glossy, golden finish."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "90% – Hong Kong classic, no pineapple involved",
+      "better_than_store_bought": "Commercial versions have dough conditioners and inferior butter. Homemade has a fragrant, milky interior and crispy, buttery topping.",
+      "hidden_nutrients": "Milk adds calcium. Butter provides fat-soluble vitamins A and D."
+    },
+    {
+      "id": 11,
+      "name": "Sesame Balls (Jian Dui)",
+      "country": "China",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 balls",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "200g glutinous rice flour",
+          "50g sugar",
+          "150ml warm water",
+          "1 tbsp vegetable oil"
+        ],
+        "Filling": [
+          "150g sweet red bean paste"
+        ],
+        "Coating": [
+          "100g white sesame seeds"
+        ],
+        "Frying": [
+          "Vegetable oil for deep frying"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix rice flour and sugar. Gradually add warm water and oil. Knead until smooth dough forms.",
+        "Rest Dough: Cover and rest 15 minutes.",
+        "Prepare Filling: Roll red bean paste into 12 small balls.",
+        "Form Balls: Divide dough into 12 pieces. Flatten each into disc.",
+        "Fill: Place bean paste in center. Wrap and seal, roll into smooth ball.",
+        "Moisten: Lightly wet each ball with water.",
+        "Coat: Roll in sesame seeds, pressing gently so seeds stick.",
+        "Fry: Heat oil to 160°C. Fry balls in batches, 4-5 minutes, turning constantly.",
+        "Press: Gently press balls against side of wok while frying—this helps them expand.",
+        "Finish: They're done when golden and floating. Drain on paper towel."
+      ],
+      "making_tips": [
+        "The oil temperature control is everything—too hot and the outside burns before the inside cooks; too cool and they absorb oil.",
+        "Press them gently while frying; this creates the hollow center that makes them light and airy.",
+        "The sesame seeds should be raw; they toast during frying.",
+        "Keep the filling balls small and uniform for even cooking.",
+        "Drain on paper towels to remove excess oil immediately after frying."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "95% – Classic dim sum item, over 1,000 years old",
+      "better_than_store_bought": "Restaurant versions often use low-quality oil and are greasy. Homemade has a perfectly crisp exterior, chewy interior, and no oily aftertaste.",
+      "hidden_nutrients": "Sesame seeds provide calcium, zinc, and healthy fats."
+    },
+    {
+      "id": 12,
+      "name": "Mooncakes",
+      "country": "China",
+      "category": "Snack",
+      "time": "3 hours (includes chilling)",
+      "servings": "12 mooncakes",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Skin": [
+          "300g golden syrup",
+          "80g vegetable oil",
+          "1 tsp lye water (kansui)",
+          "400g cake flour"
+        ],
+        "Filling": [
+          "500g lotus seed paste (or red bean paste)",
+          "6 salted egg yolks, halved"
+        ],
+        "Egg Wash": [
+          "1 egg yolk",
+          "1 tbsp water"
+        ]
+      },
+      "steps": [
+        "Make Skin: Mix golden syrup, oil, and lye water. Add flour. Knead gently just until combined. Rest 2 hours.",
+        "Prepare Filling: Divide lotus paste into 12 portions. Flatten each, place half egg yolk in center, wrap into ball.",
+        "Divide Skin: Roll skin into 12 portions.",
+        "Wrap: Flatten skin portion. Place filling in center. Gently push skin up and seal completely.",
+        "Shape: Dust mooncake mold with flour. Press filled ball into mold. Knock out onto baking sheet.",
+        "Bake (First): 190°C for 10 minutes.",
+        "Egg Wash: Remove and brush with egg wash.",
+        "Bake (Second): Return and bake 10-12 minutes until golden.",
+        "Cool: Let cool completely on rack.",
+        "Rest: Mooncakes need 2-3 days to 'return oil' before serving."
+      ],
+      "making_tips": [
+        "The lye water is essential—it gives the skin its characteristic color and texture.",
+        "Resting the dough is non-negotiable; it prevents shrinking during baking.",
+        "Never skip the 'return oil' period—this is when the mooncake becomes soft and aromatic, the oils redistributing throughout.",
+        "Good mooncakes are always made in advance.",
+        "Dust the mold with flour between each pressing to prevent sticking."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Mid-Autumn Festival icon",
+      "better_than_store_bought": "Store-bought mooncakes are often dry and use artificial lotus paste. Homemade has a tender, melting skin and rich, authentic filling.",
+      "hidden_nutrients": "Lotus seed paste contains magnesium, potassium, and B vitamins."
+    },
+    {
+      "id": 13,
+      "name": "Bubble Tea (Boba Milk Tea)",
+      "country": "China",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "2 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Tapioca Pearls": [
+          "100g tapioca starch (or quick-cooking boba)",
+          "80ml boiling water",
+          "50g brown sugar"
+        ],
+        "Tea": [
+          "4 black tea bags (or 2 tbsp loose leaf)",
+          "400ml boiling water",
+          "200ml milk",
+          "50ml brown sugar syrup"
+        ]
+      },
+      "steps": [
+        "Make Tapioca Pearls: If making from scratch, mix boiling water with brown sugar, add tapioca starch gradually to form dough. Roll into small balls.",
+        "Cook Boba: Boil water. Add boba and cook until they float and become translucent (20-30 minutes).",
+        "Sugar Soak: Drain boba, cover with brown sugar syrup, and let soak 15 minutes.",
+        "Brew Tea: Steep tea bags in boiling water for 5 minutes. Remove bags.",
+        "Sweeten Tea: Add brown sugar syrup to taste.",
+        "Assemble: Place soaked boba in glass. Add ice cubes.",
+        "Add Tea: Pour in tea, leaving room for milk.",
+        "Add Milk: Top with milk. Stir well.",
+        "Serve: Insert thick straw for drinking with boba."
+      ],
+      "making_tips": [
+        "The boba must be perfectly chewy—not too soft, not too hard.",
+        "Always let them rest in sugar syrup after cooking; this is what gives them sweetness.",
+        "The tea should be strong enough to taste through the milk and sugar.",
+        "Never use boiling water for the tea—it makes it bitter. 85°C is perfect.",
+        "Cook the boba in plenty of water to prevent sticking."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "90% – Taiwanese invention from the 1980s",
+      "better_than_store_bought": "Commercial versions use powdered milk and artificial sweeteners. Homemade uses real tea and high-quality milk, with boba that's perfectly cooked.",
+      "hidden_nutrients": "Black tea provides antioxidants. Milk adds calcium. Tapioca offers carbohydrates for energy."
+    },
+    {
+      "id": 14,
+      "name": "Soy Milk (Doujiang)",
+      "country": "China",
+      "category": "Beverage",
+      "time": "12 hours (soaking + preparation)",
+      "servings": "4 cups",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "200g dried soybeans",
+          "1.5 litres water (for blending)",
+          "Sugar or honey to taste (optional)",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Soak Soybeans: Soak soybeans in plenty of water overnight (at least 8 hours). Drain and rinse.",
+        "Blend: Combine soaked beans and 1.5 litres water in blender. Blend until very smooth (3-4 minutes).",
+        "Strain: Pour mixture through cheesecloth or nut milk bag. Squeeze firmly to extract all liquid.",
+        "Boil: Transfer milk to large pot. Bring to boil over medium heat, stirring constantly to prevent scorching.",
+        "Simmer: Reduce heat and simmer 15 minutes. Skim off foam.",
+        "Season: Add sugar and salt to taste.",
+        "Serve: Hot with breakfast, or chilled."
+      ],
+      "making_tips": [
+        "The boiling is non-negotiable—raw soy milk contains toxins that must be destroyed.",
+        "Stir constantly at the bottom; it scorches easily.",
+        "The soybean-to-water ratio is crucial; too thin and it's watery, too thick and it's paste.",
+        "Always add a pinch of salt—it enhances sweetness.",
+        "Skim the foam that rises during boiling for a smoother milk."
+      ],
+      "health_rating": 85,
+      "cultural_authenticity": "100% – Classic Chinese breakfast staple",
+      "better_than_store_bought": "Homemade has a fresh, nutty flavor and creamy texture that packaged versions lose through processing and preservatives.",
+      "hidden_nutrients": "Soy milk is rich in complete protein, calcium (especially fortified), iron, and isoflavones (antioxidants)."
+    },
+    {
+      "id": 15,
+      "name": "Leung Cha (Herbal Tea)",
+      "country": "China",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "4 cups",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Herbs": [
+          "15g chrysanthemum flowers",
+          "10g honeysuckle flowers",
+          "5g licorice root",
+          "5g dried tangerine peel",
+          "5g dried hawthorn berries"
+        ],
+        "Other": [
+          "1.5 litres water",
+          "Rock sugar to taste"
+        ]
+      },
+      "steps": [
+        "Rinse Herbs: Briefly rinse all herbs under cold water.",
+        "Combine: Place herbs in a pot. Add water.",
+        "Boil: Bring to boil, then reduce to simmer.",
+        "Simmer: Cook for 45 minutes, covered.",
+        "Add Sugar: Add rock sugar during last 10 minutes.",
+        "Strain: Strain into pitcher.",
+        "Chill: Serve hot or chilled over ice."
+      ],
+      "making_tips": [
+        "The balance is everything—bitter herbs are always balanced with something sweet.",
+        "The longer you simmer, the more bitterness extracts; 45 minutes is optimal.",
+        "Use rock sugar, not white sugar—it has a smoother sweetness.",
+        "This drink should be slightly bitter with a sweet aftertaste; that's how you know it's working.",
+        "Store in the refrigerator and consume within 2 days."
+      ],
+      "health_rating": 80,
+      "cultural_authenticity": "100% – Centuries-old medicinal tea tradition",
+      "better_than_store_bought": "Bottled versions are loaded with sugar. Homemade has authentic bitter-sweet balance and real medicinal properties.",
+      "hidden_nutrients": "Herbs provide various bioactive compounds, antioxidants, and trace minerals."
+    },
+    {
+      "id": 16,
+      "name": "Gulab Jamun",
+      "country": "India",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "12-15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "200g khoya (milk solids) or milk powder",
+          "50g all-purpose flour (maida)",
+          "½ tsp baking soda",
+          "2 tbsp milk",
+          "1 tbsp ghee"
+        ],
+        "Sugar Syrup": [
+          "400g sugar",
+          "400ml water",
+          "4 cardamom pods, crushed",
+          "1 tsp rose water",
+          "Saffron strands (optional)"
+        ],
+        "Frying": [
+          "Ghee or vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Combine sugar, water, and cardamom. Boil until sticky (1-string consistency). Add rose water and saffron. Keep warm.",
+        "Make Dough: Mix khoya, flour, and baking soda. Rub together until crumbly.",
+        "Add Milk: Add milk gradually, kneading into soft, smooth dough. Don't over-knead.",
+        "Rest: Cover and rest 10 minutes.",
+        "Shape: Divide dough into small balls (about 20g each). Roll perfectly smooth without cracks.",
+        "Heat Oil: Heat ghee/oil to 150°C (medium-low).",
+        "Fry: Gently drop balls in oil. Fry, moving continuously to ensure even color.",
+        "Golden Brown: Fry until deep golden brown (5-7 minutes), turning frequently.",
+        "Soak: Remove from oil and drop directly into warm syrup.",
+        "Rest: Let soak at least 30 minutes before serving."
+      ],
+      "making_tips": [
+        "The dough must be silky smooth—any cracks will cause the balls to split open during frying.",
+        "The oil temperature is crucial; too hot and they brown without cooking inside. Always fry them slowly.",
+        "The syrup should be warm, not hot, when soaking the jamuns; this ensures they absorb without becoming mushy.",
+        "Roll the balls gently without applying too much pressure—overworking creates dense jamuns.",
+        "The syrup should reach 1-string consistency (sticky when touched between fingers)."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Essential Indian sweet, originated in medieval India",
+      "better_than_store_bought": "Commercial versions are often dry and hard. Homemade are pillowy soft, infused with cardamom and saffron fragrance.",
+      "hidden_nutrients": "Khoya provides calcium and protein. Cardamom has digestive benefits."
+    },
+    {
+      "id": 17,
+      "name": "Jalebi",
+      "country": "India",
+      "category": "Snack",
+      "time": "1 hour (plus fermentation)",
+      "servings": "15-20 pieces",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Batter": [
+          "200g all-purpose flour",
+          "1 tbsp gram flour (besan)",
+          "½ tsp baking powder",
+          "1 tsp active dry yeast",
+          "300ml warm water",
+          "Pinch of turmeric (for color)"
+        ],
+        "Syrup": [
+          "400g sugar",
+          "400ml water",
+          "4 cardamom pods",
+          "1 tsp rose water",
+          "Saffron"
+        ],
+        "Frying": [
+          "Ghee or vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix flours, baking powder, and turmeric. Dissolve yeast in warm water. Combine into smooth batter (pouring consistency).",
+        "Ferment: Cover and ferment 6-8 hours or overnight (batter should be bubbly).",
+        "Make Syrup: Boil sugar and water with cardamom until 1-string consistency. Add rose water and saffron. Keep warm.",
+        "Prepare Piping: Fill a piping bag or squeeze bottle with batter (no nozzle needed, just a small hole).",
+        "Heat Oil: Heat ghee/oil to 170°C.",
+        "Pipe Jalebi: Pipe batter into oil in spiral/pretzel shapes.",
+        "Fry: Fry until golden and crisp on both sides.",
+        "Soak: Remove and immediately dip in warm syrup for 30 seconds.",
+        "Serve: Remove from syrup and serve warm, crisp, and juicy."
+      ],
+      "making_tips": [
+        "The fermentation makes jalebi—the slight tang is what sets it apart.",
+        "The batter should fall in a continuous ribbon without breaking; if it's too thick, add water; if too thin, add flour.",
+        "The spirals must be uniform for even cooking.",
+        "Serve immediately after soaking; they lose crispiness quickly.",
+        "The syrup should be warm, not hot, to maintain the crisp texture."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Ancient Indian sweet, popular during festivals",
+      "better_than_store_bought": "Fresh jalebi has a perfect balance of crisp exterior and syrupy interior that mass-produced versions can't achieve.",
+      "hidden_nutrients": "Gram flour adds protein and fiber. Cardamom provides antioxidants and aids digestion."
+    },
+    {
+      "id": 18,
+      "name": "Rasgulla",
+      "country": "India",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "12-15 pieces",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Chenna (Cheese Curds)": [
+          "2 litres full-fat milk",
+          "3 tbsp lemon juice or vinegar"
+        ],
+        "Syrup": [
+          "400g sugar",
+          "600ml water",
+          "2 cardamom pods",
+          "1 tsp rose water"
+        ]
+      },
+      "steps": [
+        "Make Chenna: Boil milk. Add lemon juice gradually, stirring until curds separate from whey.",
+        "Strain: Pour through cheesecloth. Rinse under cold water to remove lemon taste. Hang to drain for 30 minutes.",
+        "Knead: Transfer chenna to a plate. Knead with heel of palm for 10-12 minutes until smooth and buttery. (This is crucial!)",
+        "Shape: Divide into small balls (about 25g each). Roll until smooth without cracks.",
+        "Make Syrup: Combine sugar, water, and cardamom. Bring to boil.",
+        "Cook Rasgulla: Drop chenna balls into boiling syrup. Cover and cook for 12-15 minutes.",
+        "Expand: They will double in size. Turn off heat and let sit in syrup for 5 more minutes.",
+        "Cool: Transfer to serving bowl with syrup. Chill before serving."
+      ],
+      "making_tips": [
+        "The kneading is the most critical step—the chenna must be smooth and free of graininess. This takes at least 10 minutes of patient kneading.",
+        "The syrup must be boiling when you add the rasgulla; this creates the spongy texture.",
+        "Don't overcrowd the pot—they need room to expand and double in size.",
+        "The cooking time determines the texture; undercook and they're dense, overcook and they're tough.",
+        "Use full-fat milk for the richest chenna."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Bengali classic, over 150 years old",
+      "better_than_store_bought": "Commercial rasgulla often contains preservatives and has a rubbery texture. Homemade is ethereally spongy and delicate.",
+      "hidden_nutrients": "Chenna provides high-quality protein and calcium. Cardamom offers digestive benefits."
+    },
+    {
+      "id": 19,
+      "name": "Kaju Katli",
+      "country": "India",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "250g cashew nuts",
+          "200g sugar",
+          "100ml water",
+          "½ tsp cardamom powder",
+          "1 tsp ghee (for greasing)",
+          "Edible silver leaf (varak) for decoration (optional)"
+        ]
+      },
+      "steps": [
+        "Grind Cashews: Grind cashews to a fine powder in a blender. Sift to remove any coarse pieces.",
+        "Make Sugar Syrup: Combine sugar and water in a heavy-bottomed pan. Heat until sugar dissolves and syrup reaches 1-string consistency.",
+        "Add Cashew Powder: Reduce heat to low. Add cashew powder and cardamom. Stir continuously.",
+        "Cook: The mixture will start to thicken and come together. Cook until it forms a smooth dough that leaves the sides of the pan (5-7 minutes).",
+        "Cool Slightly: Transfer mixture to a greased plate. Let cool slightly until warm enough to handle.",
+        "Knead: Knead the warm mixture until smooth and pliable (2-3 minutes).",
+        "Roll: Place between two sheets of parchment paper. Roll to 5mm thickness.",
+        "Shape: Cut into diamond shapes. Decorate with silver leaf.",
+        "Cool Completely: Let set completely before separating pieces."
+      ],
+      "making_tips": [
+        "Grind the cashews to the finest powder possible—any graininess affects the texture.",
+        "The sugar syrup consistency is critical; 1-string is perfect for the right fudge texture.",
+        "Cook the mixture just until it leaves the sides of the pan; overcooking makes it hard.",
+        "Work quickly while warm; the mixture hardens as it cools.",
+        "Store in an airtight container with parchment between layers."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Traditional Indian festive sweet",
+      "better_than_store_bought": "Store-bought kaju katli often contains additives and artificial flavors. Homemade has pure cashew flavor with a melt-in-the-mouth texture.",
+      "hidden_nutrients": "Cashews provide healthy fats, copper, magnesium, and zinc."
+    },
+    {
+      "id": 20,
+      "name": "Masala Chai",
+      "country": "India",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 cups",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "400ml water",
+          "200ml milk (full-fat)",
+          "2 tbsp black tea leaves (Assam or CTC)",
+          "2 tbsp sugar (or to taste)",
+          "4 cardamom pods, crushed",
+          "1-inch ginger, grated",
+          "1 cinnamon stick",
+          "4 cloves",
+          "4 black peppercorns"
+        ]
+      },
+      "steps": [
+        "Crush Spices: Lightly crush cardamom, cloves, and peppercorns to release flavors.",
+        "Boil Spices: In a pot, combine water, all spices, and ginger. Bring to boil and simmer for 5 minutes.",
+        "Add Tea: Add tea leaves. Boil for 2-3 minutes until deep color develops.",
+        "Add Milk: Pour in milk and bring to a rolling boil.",
+        "Add Sugar: Stir in sugar to taste.",
+        "Simmer: Let it boil and reduce slightly (2-3 minutes), allowing flavors to meld.",
+        "Strain: Strain into cups using a tea strainer.",
+        "Serve: Serve hot. Optional: top with a sprinkle of cardamom powder."
+      ],
+      "making_tips": [
+        "The spices should be crushed, not ground, to release oils without becoming gritty.",
+        "Never use boiling water for the tea—add it to the boiling spiced water and let it simmer.",
+        "The longer you simmer, the stronger and spicier the chai becomes.",
+        "Use full-fat milk for the richest, creamiest texture.",
+        "The tea should 'boil over' once or twice; this is a sign of perfect chai making."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – India's beloved everyday beverage",
+      "better_than_store_bought": "Chain cafe chai often uses syrups and has a watered-down flavor. Homemade masala chai has a complex spice profile and genuine warmth.",
+      "hidden_nutrients": "Ginger aids digestion and reduces inflammation. Cardamom provides antioxidants. Cinnamon helps regulate blood sugar."
+    },
+    {
+      "id": 21,
+      "name": "Rose Milk",
+      "country": "India",
+      "category": "Beverage",
+      "time": "10 minutes (plus chilling)",
+      "servings": "2 glasses",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml chilled milk",
+          "3 tbsp rose syrup (rooh afza or similar)",
+          "1 tbsp sugar (optional)",
+          "Ice cubes",
+          "Crushed pistachios for garnish",
+          "Rose petals for garnish (optional)"
+        ]
+      },
+      "steps": [
+        "Chill Milk: Ensure milk is well chilled.",
+        "Mix: In a pitcher, combine chilled milk, rose syrup, and sugar (if using). Stir until fully dissolved.",
+        "Add Ice: Add ice cubes to serving glasses.",
+        "Pour: Pour the rose milk over ice.",
+        "Garnish: Sprinkle with crushed pistachios and rose petals.",
+        "Serve: Stir before drinking and enjoy chilled."
+      ],
+      "making_tips": [
+        "The milk must be ice-cold; warm milk won't absorb the rose flavor properly.",
+        "Adjust rose syrup to taste; quality syrups vary in intensity.",
+        "Use full-fat milk for the creamiest, most decadent result.",
+        "Chill the serving glasses for an extra refreshing experience.",
+        "Stir well before serving as the syrup tends to settle at the bottom."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "95% – Popular summer drink across India",
+      "better_than_store_bought": "Bottled rose milk uses preservatives. Homemade is fresher and allows control over sweetness.",
+      "hidden_nutrients": "Milk provides calcium and vitamin D. Pistachios add healthy fats and vitamin B6."
+    },
+    {
+      "id": 22,
+      "name": "Nimbu Pani",
+      "country": "India",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 glasses",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 large lemons (or 3 small)",
+          "750ml chilled water",
+          "4 tbsp sugar (or jaggery, to taste)",
+          "½ tsp black salt (kala namak)",
+          "½ tsp roasted cumin powder",
+          "Regular salt to taste",
+          "Ice cubes",
+          "Fresh mint for garnish"
+        ]
+      },
+      "steps": [
+        "Juice Lemons: Squeeze lemons to extract fresh juice. Remove seeds.",
+        "Combine: In a pitcher, combine lemon juice, sugar, black salt, roasted cumin powder, and regular salt.",
+        "Add Water: Pour in chilled water and stir until sugar dissolves completely.",
+        "Taste: Adjust sweetness and salt to your preference.",
+        "Chill: Add ice cubes to serving glasses.",
+        "Pour: Pour nimbu pani over ice.",
+        "Garnish: Top with fresh mint leaves.",
+        "Serve: Serve immediately while ice-cold."
+      ],
+      "making_tips": [
+        "Always use fresh lemons, never bottled juice—the flavor is incomparable.",
+        "Roast the cumin seeds before grinding for the most aromatic flavor.",
+        "The black salt is essential; it gives the distinctive tangy-savory profile.",
+        "Chill the water and glasses beforehand for the most refreshing drink.",
+        "Stir well before each sip as the spices settle at the bottom."
+      ],
+      "health_rating": 75,
+      "cultural_authenticity": "100% – Classic Indian summer cooler",
+      "better_than_store_bought": "Packaged nimbu pani is loaded with preservatives and artificial flavors. Homemade has bright, fresh citrus flavor with authentic spices.",
+      "hidden_nutrients": "Lemons provide vitamin C. Cumin aids digestion and provides iron. Black salt offers trace minerals."
+    },
+    {
+      "id": 23,
+      "name": "Mango Lassi",
+      "country": "India",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 large glasses",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "400g ripe mango (peeled and chopped)",
+          "2 cups plain yogurt (full-fat)",
+          "½ cup milk",
+          "4 tbsp sugar or honey (to taste)",
+          "½ tsp cardamom powder",
+          "Ice cubes",
+          "Crushed pistachios for garnish",
+          "Mint leaves for garnish"
+        ]
+      },
+      "steps": [
+        "Prepare Mango: Peel and chop ripe mangoes. Reserve a few small cubes for garnish.",
+        "Blend: In a blender, combine mango pieces, yogurt, milk, sugar, and cardamom powder.",
+        "Blend Smooth: Blend until completely smooth and creamy (1-2 minutes).",
+        "Add Ice: Add a few ice cubes and blend briefly until crushed.",
+        "Taste: Adjust sweetness to your preference.",
+        "Chill: Pour into tall glasses.",
+        "Garnish: Top with mango cubes, crushed pistachios, and mint leaves.",
+        "Serve: Enjoy immediately while cold."
+      ],
+      "making_tips": [
+        "Use the sweetest, ripest mangoes you can find—Alphonso or Kesar are ideal.",
+        "Full-fat yogurt gives the creamiest texture; avoid low-fat versions.",
+        "Chill all ingredients before blending for the best result.",
+        "Blend just until smooth; over-blending can make the lassi thin.",
+        "For a thicker lassi, strain the yogurt through cheesecloth for an hour."
+      ],
+      "health_rating": 70,
+      "cultural_authenticity": "100% – India's most beloved summer treat",
+      "better_than_store_bought": "Bottled lassi has a long ingredient list of stabilizers. Homemade is thick, creamy, and packed with real mango flavor.",
+      "hidden_nutrients": "Mangoes provide vitamin A, C, and fiber. Yogurt offers probiotics and calcium."
+    },
+    {
+      "id": 24,
+      "name": "Hotteok",
+      "country": "South Korea",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "6 pancakes",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "250g all-purpose flour",
+          "180ml warm water",
+          "1 tbsp sugar",
+          "1 tsp active dry yeast",
+          "½ tsp salt",
+          "1 tbsp vegetable oil"
+        ],
+        "Filling": [
+          "80g brown sugar",
+          "1 tbsp cinnamon powder",
+          "30g crushed peanuts (optional)"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix yeast, sugar, and warm water. Let sit 5 minutes until foamy.",
+        "Combine: Add flour and salt. Knead until smooth dough forms (8-10 minutes).",
+        "First Rise: Cover and let rise in warm place for 1 hour until doubled.",
+        "Make Filling: Mix brown sugar, cinnamon, and crushed peanuts.",
+        "Divide: Punch down dough. Divide into 6 equal balls.",
+        "Fill: Flatten each ball. Place 1 tbsp filling in center. Pinch edges to seal.",
+        "Second Rise: Let filled balls rest 10 minutes.",
+        "Cook: Heat oil in pan over medium. Place ball, seam side down. Cook 2-3 minutes.",
+        "Flatten: Flip and press down with spatula. Cook until golden and caramelized.",
+        "Serve: Serve warm—the filling will be molten and syrupy."
+      ],
+      "making_tips": [
+        "The dough should be soft and slightly sticky; this creates the chewy texture.",
+        "Don't overfill; the hotteok will burst and leak if too stuffed.",
+        "Press down firmly when frying to ensure even cooking.",
+        "The brown sugar melts and creates pockets of syrup; this is the signature of perfect hotteok.",
+        "Serve immediately; the texture changes as it cools."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Iconic Korean winter street food",
+      "better_than_store_bought": "Street vendors often use pre-made dough and excessive oil. Homemade has fresher dough and better filling balance.",
+      "hidden_nutrients": "Cinnamon has anti-inflammatory properties. Peanuts add protein and healthy fats."
+    },
+    {
+      "id": 25,
+      "name": "Bungeoppang",
+      "country": "South Korea",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "6 fish-shaped pastries",
+      "difficulty": "Medium (requires mold)",
+      "ingredients": {
+        "Batter": [
+          "200g all-purpose flour",
+          "1 tsp baking powder",
+          "50g sugar",
+          "2 eggs",
+          "300ml milk",
+          "2 tbsp vegetable oil"
+        ],
+        "Filling": [
+          "250g sweet red bean paste"
+        ]
+      },
+      "steps": [
+        "Make Batter: Whisk eggs, milk, and oil. Sift in flour, baking powder, and sugar. Mix until smooth.",
+        "Rest: Let batter rest 30 minutes.",
+        "Preheat Mold: Heat fish-shaped mold over medium heat. Grease lightly with oil.",
+        "Pour Batter: Pour batter into bottom mold, filling halfway.",
+        "Add Filling: Place 1 tbsp red bean paste in center.",
+        "Cover with Batter: Pour more batter over filling.",
+        "Close Mold: Close mold firmly. Cook 2-3 minutes each side until golden brown.",
+        "Release: Carefully open mold. Pastry should release easily.",
+        "Cool: Cool on wire rack to maintain crispiness."
+      ],
+      "making_tips": [
+        "The mold must be hot enough that a drop of water sizzles on contact.",
+        "Don't overfill—the batter needs room to expand.",
+        "Flip the mold halfway through for even cooking.",
+        "The finished bungeoppang should be golden with distinct fish shapes.",
+        "Traditionally sold in pairs, but one is perfectly satisfying."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "95% – Korean winter favorite since 1930s",
+      "better_than_store_bought": "Street versions can be dry and overfilled. Homemade has a crisp exterior, tender interior, and balanced filling.",
+      "hidden_nutrients": "Red bean filling provides fiber, iron, and folate. Eggs add protein."
+    },
+    {
+      "id": 26,
+      "name": "Patbingsu",
+      "country": "South Korea",
+      "category": "Snack",
+      "time": "25 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Base": [
+          "500g ice block",
+          "200g sweet red beans"
+        ],
+        "Toppings": [
+          "Sweetened condensed milk",
+          "Fresh fruit (strawberries, banana, kiwi)",
+          "Mochi pieces",
+          "Ice cream",
+          "Red bean paste",
+          "Crushed nuts"
+        ]
+      },
+      "steps": [
+        "Prepare Red Beans: Cook sweet red beans according to package instructions until soft but intact.",
+        "Shave Ice: Use ice shaver to create fluffy, snow-like ice.",
+        "Form Mountain: Pile shaved ice into a generous mound in a bowl.",
+        "Add Red Beans: Spoon sweet red beans over the ice.",
+        "Add Toppings: Arrange fruits, mochi, and other toppings.",
+        "Drizzle: Pour condensed milk generously over everything.",
+        "Add Ice Cream: Top with a scoop of ice cream.",
+        "Serve: Mix before eating and enjoy immediately."
+      ],
+      "making_tips": [
+        "The ice must be fluffy, not chunky—use a quality shaver.",
+        "Red beans should be sweet but not cloying; balance with condensed milk.",
+        "Arrange toppings beautifully; patbingsu is eaten with the eyes first.",
+        "Serve in a chilled bowl to slow melting.",
+        "Don't over-sweeten; the toppings should provide varying textures and flavors."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Korea's favorite summer dessert",
+      "better_than_store_bought": "Cafe versions use syrups and artificial toppings. Homemade has fresher fruit and better bean texture.",
+      "hidden_nutrients": "Red beans provide protein and fiber. Fruits add vitamins and antioxidants."
+    },
+    {
+      "id": 27,
+      "name": "Yakgwa",
+      "country": "South Korea",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (plus chilling)",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "200g all-purpose flour",
+          "2 tbsp sesame oil",
+          "3 tbsp honey",
+          "3 tbsp soju (or rice wine)",
+          "½ tsp salt",
+          "2 tbsp chopped ginger juice"
+        ],
+        "Syrup": [
+          "100ml honey",
+          "50g sugar",
+          "50ml water"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ],
+        "Coating": [
+          "Crushed pine nuts or sesame seeds"
+        ]
+      },
+      "steps": [
+        "Make Dough: Sift flour and salt. Add sesame oil, honey, soju, and ginger juice. Mix into dough.",
+        "Knead: Knead until smooth and elastic (5-7 minutes).",
+        "Rest: Cover and rest 30 minutes.",
+        "Roll: Roll dough to 5mm thickness. Cut into desired shapes (flowers, rectangles).",
+        "Heat Oil: Heat oil to 160°C.",
+        "Fry: Fry pieces until golden and puffy, turning occasionally (5-7 minutes).",
+        "Make Syrup: Combine honey, sugar, and water. Bring to simmer until combined.",
+        "Soak: Dip fried pieces in warm syrup for 30 seconds.",
+        "Coat: Roll in crushed pine nuts or sesame seeds.",
+        "Cool: Let set completely before serving."
+      ],
+      "making_tips": [
+        "The dough should be soft but not sticky; add more flour if needed.",
+        "Fry at the correct temperature; too hot and outside burns, too cool and they absorb oil.",
+        "The syrup should be warm, not hot, when soaking.",
+        "Traditional shapes include flowers and leaves; use cookie cutters.",
+        "These improve after resting; the flavors meld overnight."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Ancient Korean confection, over 1,000 years old",
+      "better_than_store_bought": "Commercial yakgwa uses vegetable oil instead of sesame oil. Homemade has authentic nutty flavor and perfect texture.",
+      "hidden_nutrients": "Sesame oil provides healthy fats and antioxidants. Ginger aids digestion."
+    },
+    {
+      "id": 28,
+      "name": "Hoddeok",
+      "country": "South Korea",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "6 pancakes",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "250g all-purpose flour",
+          "180ml warm water",
+          "1 tbsp sugar",
+          "1 tsp active dry yeast",
+          "½ tsp salt",
+          "1 tbsp vegetable oil"
+        ],
+        "Filling": [
+          "80g brown sugar",
+          "1 tbsp honey",
+          "1 tbsp cinnamon powder",
+          "30g crushed peanuts"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix yeast, sugar, and warm water. Let sit 5 minutes until foamy.",
+        "Combine: Add flour and salt. Knead until smooth (8-10 minutes).",
+        "First Rise: Cover and let rise 1 hour until doubled.",
+        "Make Filling: Mix brown sugar, honey, cinnamon, and crushed peanuts.",
+        "Divide: Punch down dough. Divide into 6 equal balls.",
+        "Fill: Flatten each ball. Place 1 tbsp filling in center. Pinch edges to seal.",
+        "Second Rise: Let filled balls rest 10 minutes.",
+        "Cook: Heat oil in pan over medium. Place ball, seam side down. Cook 2 minutes.",
+        "Flatten: Flip and press down with spatula. Cook until golden and caramelized.",
+        "Serve: Serve warm—the filling will be syrupy and sweet."
+      ],
+      "making_tips": [
+        "This is very similar to hotteok but uses honey for a richer flavor.",
+        "The dough should be soft and slightly sticky; this creates the chewy texture.",
+        "Press down firmly when frying to ensure even cooking and caramelization.",
+        "The brown sugar creates pockets of honey-sweet syrup.",
+        "Serve immediately; the texture changes as it cools."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "95% – Variation of hotteok, popular in Korean Chinatowns",
+      "better_than_store_bought": "Street versions often skimp on filling. Homemade has abundant honey-peanut filling.",
+      "hidden_nutrients": "Peanuts add protein and healthy fats. Cinnamon has anti-inflammatory properties."
+    },
+    {
+      "id": 29,
+      "name": "Sikhye",
+      "country": "South Korea",
+      "category": "Beverage",
+      "time": "6 hours (includes fermentation)",
+      "servings": "4 servings",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Main": [
+          "200g malt barley powder (yeotgireum)",
+          "4 cups cooked rice (short-grain)",
+          "8 cups water",
+          "150g sugar",
+          "1 tbsp ginger, sliced (optional)"
+        ]
+      },
+      "steps": [
+        "Prepare Malt Water: Mix malt barley powder with 4 cups water. Let steep for 1 hour, stirring occasionally.",
+        "Strain: Strain through cheesecloth to extract malt water.",
+        "Combine: In a pot, combine malt water, cooked rice, and remaining 4 cups water.",
+        "Ferment: Keep at warm temperature (60-65°C) for 3-4 hours. Rice grains will float when ready.",
+        "Strain: Strain out rice grains, reserving them.",
+        "Boil: Add sugar and ginger to liquid. Bring to boil, then simmer 15 minutes.",
+        "Cool: Let cool completely. Rice grains can be added back for garnish.",
+        "Serve: Serve chilled with floating rice grains."
+      ],
+      "making_tips": [
+        "The temperature is critical; too hot kills the enzymes, too cool stops fermentation.",
+        "Use short-grain rice for the best texture.",
+        "The rice grains should float to the top when fermentation is complete.",
+        "This is traditionally served after meals to aid digestion.",
+        "Store in the refrigerator and consume within 3 days."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Traditional Korean fermented drink",
+      "better_than_store_bought": "Canned sikhye is overly sweet and artificial. Homemade has a complex malty flavor with natural sweetness.",
+      "hidden_nutrients": "Malt barley provides B vitamins and digestive enzymes. Rice offers carbohydrates for energy."
+    },
+    {
+      "id": 30,
+      "name": "Citron Tea (Yuja Cha)",
+      "country": "South Korea",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 cups",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 tbsp citron tea concentrate (yuja-cheong)",
+          "2 cups hot water",
+          "1 tbsp honey (optional)",
+          "Citron slices for garnish"
+        ]
+      },
+      "steps": [
+        "Prepare Concentrate: If using homemade citron preserve, ensure it's well mixed.",
+        "Heat Water: Heat water until steaming but not boiling (85°C).",
+        "Combine: Add citron tea concentrate to mugs.",
+        "Add Water: Pour hot water over concentrate.",
+        "Stir: Stir well until fully dissolved.",
+        "Add Honey: Add honey if desired for extra sweetness.",
+        "Garnish: Top with citron slices.",
+        "Serve: Serve warm, perfect for cold weather."
+      ],
+      "making_tips": [
+        "Never use boiling water; it can make the drink bitter.",
+        "The ratio of concentrate to water is 1:4 or to taste.",
+        "This is a soothing drink, especially beneficial for colds.",
+        "Homemade yuja-cheong preserves are always superior.",
+        "Can also be served chilled over ice in summer."
+      ],
+      "health_rating": 65,
+      "cultural_authenticity": "95% – Korean winter favorite for colds",
+      "better_than_store_bought": "Packaged versions often contain corn syrup. Homemade has more authentic flavor and health benefits.",
+      "hidden_nutrients": "Citron provides vitamin C and antioxidants. Honey has antibacterial properties."
+    },
+    {
+      "id": 31,
+      "name": "Mango Sticky Rice (Khao Niao Mamuang)",
+      "country": "Thailand",
+      "category": "Snack",
+      "time": "1 hour (plus soaking)",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Sticky Rice": [
+          "200g glutinous rice",
+          "200ml coconut milk",
+          "50g sugar",
+          "½ tsp salt"
+        ],
+        "Coconut Sauce": [
+          "150ml coconut milk",
+          "1 tbsp sugar",
+          "Pinch of salt",
+          "1 tbsp tapioca starch (optional)"
+        ],
+        "Mango": [
+          "2 ripe mangoes",
+          "Sesame seeds or mung beans for garnish"
+        ]
+      },
+      "steps": [
+        "Soak Rice: Rinse rice until water runs clear. Soak in water for 4 hours or overnight.",
+        "Steam Rice: Drain rice. Steam in a bamboo steamer lined with cheesecloth for 20-25 minutes.",
+        "Make Coconut Sauce: Heat coconut milk, sugar, and salt until sugar dissolves. Do not boil.",
+        "Combine: Pour coconut sauce over steamed rice. Let absorb for 30 minutes.",
+        "Prepare Mango: Peel and slice mangoes.",
+        "Make Topping: Heat remaining coconut milk, sugar, and salt until just combined.",
+        "Plate: Place sticky rice on plate. Add mango slices.",
+        "Drizzle: Pour coconut topping over rice and mango.",
+        "Garnish: Sprinkle with sesame seeds."
+      ],
+      "making_tips": [
+        "The rice must be soaked thoroughly; this ensures the perfect chewy texture.",
+        "Use the sweetest mangoes available—the dish depends on their quality.",
+        "The coconut milk should be of high quality; full-fat gives the best flavor.",
+        "Don't overcook the rice; it should be tender but still individual grains.",
+        "Serve at room temperature, not cold."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Thailand's most famous dessert",
+      "better_than_store_bought": "Street versions often use cheap coconut milk. Homemade uses the best ingredients.",
+      "hidden_nutrients": "Mangoes provide vitamin A and C. Coconut milk offers healthy fats and minerals."
+    },
+    {
+      "id": 32,
+      "name": "Roti Sai Mai",
+      "country": "Thailand",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "8 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Crepes": [
+          "200g all-purpose flour",
+          "150ml coconut milk",
+          "1 egg",
+          "Pinch of salt",
+          "1 tbsp sugar"
+        ],
+        "Cotton Candy Filling": [
+          "100g sugar",
+          "1 tsp pandan extract or food coloring"
+        ]
+      },
+      "steps": [
+        "Make Crepe Batter: Mix flour, coconut milk, egg, salt, and sugar until smooth. Rest 15 minutes.",
+        "Cook Crepes: Heat non-stick pan. Pour thin layer of batter. Cook until edges lift.",
+        "Flip: Flip and cook other side briefly (30 seconds).",
+        "Make Cotton Candy: Heat sugar in a pan until it melts and caramelizes.",
+        "Spin Sugar: Use a whisk or fork to create thin sugar strands.",
+        "Cool Strands: Let sugar strands cool and become flossy.",
+        "Assemble: Place sugar floss on crepe.",
+        "Roll: Roll crepe tightly around filling.",
+        "Cut: Cut into bite-sized pieces.",
+        "Serve: Serve immediately, slightly warm."
+      ],
+      "making_tips": [
+        "The crepes should be paper-thin for the best texture.",
+        "The sugar floss must be fine and delicate; work quickly.",
+        "This is a specialty of Ayutthaya, Thailand's ancient capital.",
+        "Serve immediately; the sugar floss melts quickly.",
+        "The green pandan coloring is traditional but optional."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Specialty from Ayutthaya province",
+      "better_than_store_bought": "Street versions often use pre-made crepes. Homemade has fresher, more delicate texture.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. The dish is primarily sugar, so enjoy sparingly."
+    },
+    {
+      "id": 33,
+      "name": "Khanom Bueang",
+      "country": "Thailand",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "12 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Crepe Batter": [
+          "150g rice flour",
+          "50g mung bean flour",
+          "300ml coconut milk",
+          "2 eggs",
+          "50g sugar",
+          "½ tsp salt"
+        ],
+        "Filling": [
+          "200ml coconut cream",
+          "100g sugar",
+          "2 egg yolks",
+          "Pinch of salt",
+          "Optional: shredded coconut, sesame seeds"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix all batter ingredients until smooth. Rest 15 minutes.",
+        "Make Filling: Whisk coconut cream, sugar, egg yolks, and salt in a pan. Cook over low heat until thick.",
+        "Heat Pan: Heat a small round pan over medium heat.",
+        "Pour Batter: Pour a small amount of batter, tilting to spread thinly.",
+        "Cook: Cook until edges begin to crisp and lift.",
+        "Add Filling: Spoon filling in center of crepe.",
+        "Fold: Fold one side over filling, creating a taco shape.",
+        "Add Toppings: Add shredded coconut or sesame on top.",
+        "Remove: Carefully remove from pan.",
+        "Serve: Serve fresh and slightly warm."
+      ],
+      "making_tips": [
+        "The crepe should be thin and crisp at the edges, soft at the center.",
+        "The filling should be thick but spreadable.",
+        "This is a traditional Thai royal dessert, requiring practice.",
+        "The egg yolk filling is the classic version.",
+        "Can be made savory with shrimp and coconut as well."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Traditional Thai royal dessert",
+      "better_than_store_bought": "Street versions often use artificial coloring. Homemade has authentic flavors.",
+      "hidden_nutrients": "Rice flour is gluten-free. Coconut cream provides healthy fats."
+    },
+    {
+      "id": 34,
+      "name": "Tub Tim Krob",
+      "country": "Thailand",
+      "category": "Snack",
+      "time": "30 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Water Chestnuts": [
+          "200g water chestnuts (canned or fresh)",
+          "50g tapioca flour",
+          "Pandan coloring (optional)"
+        ],
+        "Coconut Milk Syrup": [
+          "400ml coconut milk",
+          "100g sugar",
+          "½ tsp salt"
+        ],
+        "Toppings": [
+          "Crushed ice"
+        ]
+      },
+      "steps": [
+        "Prepare Water Chestnuts: Drain and dry water chestnuts.",
+        "Coat: Toss water chestnuts with tapioca flour until well coated.",
+        "Blanch: Drop coated chestnuts in boiling water for 1 minute.",
+        "Ice Bath: Transfer to ice bath to stop cooking.",
+        "Make Syrup: Heat coconut milk, sugar, and salt until sugar dissolves. Chill.",
+        "Assemble: Place chestnuts in serving bowl.",
+        "Add Syrup: Pour chilled coconut syrup over chestnuts.",
+        "Add Ice: Top with crushed ice.",
+        "Serve: Mix and enjoy cold."
+      ],
+      "making_tips": [
+        "The water chestnuts should retain their crunch; don't overcook.",
+        "The tapioca coating creates the signature translucence.",
+        "Pandan coloring is optional but adds the classic pink tint.",
+        "This dessert is all about contrasting textures—crunchy and creamy.",
+        "Serve in chilled bowls for the best experience."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Classic Thai dessert",
+      "better_than_store_bought": "Street versions often use artificial colorings. Homemade has fresher chestnuts and coconut milk.",
+      "hidden_nutrients": "Water chestnuts provide fiber and potassium. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 35,
+      "name": "Luk Chup",
+      "country": "Thailand",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "15 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Marzipan": [
+          "200g mung bean flour",
+          "200ml coconut milk",
+          "100g sugar",
+          "½ tsp salt"
+        ],
+        "Coating": [
+          "200g sugar",
+          "Food coloring (fruit colors)"
+        ],
+        "Decoration": [
+          "Sesame seeds",
+          "Pandan leaves"
+        ]
+      },
+      "steps": [
+        "Make Bean Paste: Cook mung bean flour with coconut milk, sugar, and salt until thick paste forms.",
+        "Knead: Cool and knead until smooth and pliable.",
+        "Color: Divide dough and color with food coloring.",
+        "Shape: Shape into miniature fruits (orange, mango, strawberry, etc.).",
+        "Make Coating: Heat sugar and water to make a glaze.",
+        "Coat: Dip each fruit in sugar glaze.",
+        "Set: Let dry completely.",
+        "Decorate: Add details like strawberry seeds or mango stripes.",
+        "Dry: Let dry completely before serving.",
+        "Serve: Beautifully arranged as edible art."
+      ],
+      "making_tips": [
+        "The mung bean paste must be smooth and free of lumps.",
+        "Shaping requires patience and attention to detail.",
+        "Work quickly; the dough dries out.",
+        "Traditional fruits include mango, orange, and watermelon.",
+        "Use natural food colorings for a more authentic result."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Thai palace dessert art form",
+      "better_than_store_bought": "Commercial versions use artificial ingredients. Homemade is a true artisanal experience.",
+      "hidden_nutrients": "Mung beans provide protein and fiber. The dish is mostly sugar, so enjoy visually."
+    },
+    {
+      "id": 36,
+      "name": "Thai Iced Tea (Cha Yen)",
+      "country": "Thailand",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 glasses",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "3 tbsp Thai tea leaves (or Ceylon tea)",
+          "2 cups boiling water",
+          "½ cup sweetened condensed milk",
+          "½ cup evaporated milk",
+          "2 tbsp sugar",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Brew Tea: Steep tea leaves in boiling water for 5 minutes.",
+        "Strain: Strain tea into a pitcher.",
+        "Sweeten: Stir in sugar while tea is still hot.",
+        "Cool: Let tea cool to room temperature.",
+        "Prepare Glasses: Fill tall glasses with ice.",
+        "Pour Tea: Pour sweetened tea over ice.",
+        "Add Milk: Drizzle sweetened condensed milk and evaporated milk over the top.",
+        "Layer: The milk will create beautiful layered effect.",
+        "Stir: Stir before drinking.",
+        "Serve: Serve with a straw."
+      ],
+      "making_tips": [
+        "The tea should be strong and well-brewed; it will dilute with ice.",
+        "The signature orange color comes from food coloring, but is optional.",
+        "The layered effect is achieved by pouring milk over the back of a spoon.",
+        "Use full-fat milks for the creamiest result.",
+        "Can also be served as a hot tea without ice."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Thailand's signature drink",
+      "better_than_store_bought": "Cafe versions use powdered milk. Homemade has richer, creamier flavor.",
+      "hidden_nutrients": "Black tea provides antioxidants. Milk adds calcium and vitamin D."
+    },
+    {
+      "id": 37,
+      "name": "Coconut Water (Nam Maprao)",
+      "country": "Thailand",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 young coconuts",
+          "Ice cubes (optional)",
+          "Sugar syrup (optional)"
+        ]
+      },
+      "steps": [
+        "Choose Coconuts: Select young green coconuts.",
+        "Open Coconut: Use a machete or heavy knife to cut the top.",
+        "Drain Water: Drain coconut water into a bowl.",
+        "Strain: Strain through cheesecloth if there are bits.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve cold, in the coconut or a glass.",
+        "Add Ice: Add ice cubes if desired.",
+        "Optional: Add a little sugar syrup if coconut is not sweet enough.",
+        "Serve: Enjoy fresh."
+      ],
+      "making_tips": [
+        "Young coconuts have the sweetest water; older ones have more meat but less water.",
+        "Select coconuts that feel heavy for their size—this means more water.",
+        "The water should be clear and slightly sweet.",
+        "This is nature's sports drink—high in electrolytes.",
+        "Coconut water is best consumed fresh; don't store for more than a day."
+      ],
+      "health_rating": 90,
+      "cultural_authenticity": "100% – Thailand's natural hydration",
+      "better_than_store_bought": "Bottled coconut water has preservatives and often added sugar. Fresh is incomparable.",
+      "hidden_nutrients": "Rich in potassium, magnesium, and electrolytes. Low in calories."
+    },
+    {
+      "id": 38,
+      "name": "Nam Manao (Lime Juice)",
+      "country": "Thailand",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 glasses",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 limes (or lemons)",
+          "750ml water",
+          "4 tbsp sugar (or to taste)",
+          "½ tsp salt",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice Limes: Squeeze limes to extract fresh juice.",
+        "Combine: In a pitcher, combine lime juice, water, sugar, and salt.",
+        "Stir: Stir until sugar dissolves completely.",
+        "Taste: Adjust sweetness and salt to your preference.",
+        "Chill: Add ice cubes.",
+        "Pour: Pour into serving glasses.",
+        "Garnish: Add a lime slice.",
+        "Serve: Enjoy immediately while cold."
+      ],
+      "making_tips": [
+        "The balance between sweet, sour, and salty is key.",
+        "Use fresh limes for the best flavor.",
+        "This drink is even more refreshing with a sprig of mint.",
+        "In Thailand, this is street-side favorite.",
+        "Adjust sugar according to the tartness of your limes."
+      ],
+      "health_rating": 75,
+      "cultural_authenticity": "100% – Thailand's classic street drink",
+      "better_than_store_bought": "Bottled lime juice has preservatives. Homemade is fresher and perfectly balanced.",
+      "hidden_nutrients": "Limes provide vitamin C. The drink is hydrating and alkalizing."
+    },
+    {
+      "id": 39,
+      "name": "Che Ba Mau (Three-Color Dessert)",
+      "country": "Vietnam",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Red Beans": [
+          "200g red beans",
+          "100g sugar",
+          "Pinch of salt"
+        ],
+        "Green Jelly": [
+          "100g mung bean flour or green jelly powder",
+          "100g sugar",
+          "Pandan extract"
+        ],
+        "Yellow Mung Beans": [
+          "200g mung beans (without skin)",
+          "100g sugar"
+        ],
+        "Coconut Milk": [
+          "300ml coconut milk",
+          "50g sugar",
+          "½ tsp salt"
+        ],
+        "Toppings": [
+          "Crushed ice"
+        ]
+      },
+      "steps": [
+        "Cook Red Beans: Boil red beans with sugar and salt until soft. Chill.",
+        "Make Green Jelly: Mix jelly powder with sugar and pandan extract. Cook until set. Cut into cubes.",
+        "Cook Mung Beans: Steam or boil mung beans with sugar until tender but intact.",
+        "Make Coconut Milk: Heat coconut milk, sugar, and salt until combined. Chill.",
+        "Assemble: In a glass, layer red beans, mung beans, and green jelly.",
+        "Add Ice: Top with crushed ice.",
+        "Add Coconut Milk: Pour chilled coconut milk over everything.",
+        "Serve: Serve immediately with a spoon."
+      ],
+      "making_tips": [
+        "The layers should be distinct for the best visual effect.",
+        "Each component should be cooked perfectly—not too soft or too firm.",
+        "This dessert is all about contrasting textures and colors.",
+        "Serve cold for the most refreshing experience.",
+        "Can be customized with different beans and jellies."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Vietnamese classic dessert",
+      "better_than_store_bought": "Street versions often use artificial colorings. Homemade uses natural ingredients.",
+      "hidden_nutrients": "Beans provide protein and fiber. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 40,
+      "name": "Banh Cam (Sesame Balls)",
+      "country": "Vietnam",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 balls",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "200g glutinous rice flour",
+          "50g sugar",
+          "150ml warm water"
+        ],
+        "Filling": [
+          "200g mung bean paste",
+          "100g sugar"
+        ],
+        "Coating": [
+          "100g white sesame seeds"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Filling: Steam mung beans, mash, and mix with sugar.",
+        "Make Dough: Mix rice flour and sugar. Gradually add water to form smooth dough.",
+        "Divide: Divide dough into 12 pieces.",
+        "Fill: Flatten each piece, place filling in center, and seal.",
+        "Moisten: Wet each ball slightly with water.",
+        "Coat: Roll in sesame seeds.",
+        "Heat Oil: Heat oil to 160°C.",
+        "Fry: Fry balls in batches, turning frequently, until golden.",
+        "Drain: Drain on paper towels.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "The mung bean filling gives this Vietnamese version its distinct flavor.",
+        "The oil temperature is crucial; too hot and the skin burns.",
+        "Press them gently while frying to create the hollow center.",
+        "The sesame seeds should be raw; they toast during frying.",
+        "These are best enjoyed fresh and warm."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "95% – Vietnamese version of Chinese sesame balls",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter and fresher.",
+      "hidden_nutrients": "Mung beans provide protein and fiber. Sesame seeds offer calcium and healthy fats."
+    },
+    {
+      "id": 41,
+      "name": "Banh Bo (Honeycomb Cake)",
+      "country": "Vietnam",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Batter": [
+          "200g tapioca starch",
+          "200g rice flour",
+          "400ml coconut milk",
+          "200g sugar",
+          "4 eggs",
+          "1 tbsp baking powder",
+          "½ tsp salt",
+          "1 tsp pandan extract"
+        ]
+      },
+      "steps": [
+        "Activate Yeast: Dissolve yeast and sugar in warm water. Let sit 5 minutes.",
+        "Mix Flours: Combine tapioca starch, rice flour, and salt.",
+        "Add Coconut Milk: Gradually add coconut milk to flours while mixing.",
+        "Add Eggs: Beat eggs and add to batter.",
+        "Add Pandan: Add pandan extract.",
+        "Rest: Cover and let rest 1 hour.",
+        "Preheat Pan: Grease a round cake pan.",
+        "Add Baking Powder: Fold in baking powder gently.",
+        "Bake: Pour into pan and bake at 180°C for 30-35 minutes.",
+        "Cool: Let cool before removing.",
+        "Slice: The cake should have a honeycomb texture inside.",
+        "Serve: Serve at room temperature."
+      ],
+      "making_tips": [
+        "The batter must rest for the yeast to create the honeycomb texture.",
+        "This cake gets its name from the honeycomb pattern inside.",
+        "The pandan extract gives its signature green color.",
+        "Steaming is also a common method for this cake.",
+        "Let it cool completely before slicing."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Vietnamese street food favorite",
+      "better_than_store_bought": "Commercial versions often use artificial flavorings. Homemade has a more authentic flavor.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. Eggs add protein."
+    },
+    {
+      "id": 42,
+      "name": "Sinh To Bo (Avocado Smoothie)",
+      "country": "Vietnam",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 ripe avocados",
+          "200ml sweetened condensed milk",
+          "400ml milk",
+          "Ice cubes",
+          "1 tbsp sugar (optional)"
+        ]
+      },
+      "steps": [
+        "Prepare Avocados: Peel and pit avocados.",
+        "Blend: In a blender, combine avocado, condensed milk, and milk.",
+        "Add Ice: Add ice cubes.",
+        "Blend: Blend until smooth and creamy.",
+        "Taste: Add sugar if desired.",
+        "Chill: Pour into chilled glasses.",
+        "Serve: Serve immediately, cold."
+      ],
+      "making_tips": [
+        "Use the creamiest avocados for the best texture.",
+        "This is essentially avocado ice cream in drink form.",
+        "The condensed milk is key to its sweetness.",
+        "Serve immediately; avocado oxidizes quickly.",
+        "In Vietnam, this is a popular street drink."
+      ],
+      "health_rating": 70,
+      "cultural_authenticity": "100% – Vietnam's healthy smoothie",
+      "better_than_store_bought": "Cafe versions often use too much condensed milk. Homemade has better balance.",
+      "hidden_nutrients": "Avocados provide healthy fats, potassium, and fiber. Milk adds calcium."
+    },
+    {
+      "id": 43,
+      "name": "Che Chuoi (Banana Pudding)",
+      "country": "Vietnam",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Pudding": [
+          "6 ripe bananas",
+          "500ml coconut milk",
+          "100g sugar",
+          "Pinch of salt",
+          "1 tsp vanilla"
+        ],
+        "Topping": [
+          "Tapioca pearls (cooked)",
+          "Crushed peanuts",
+          "Sesame seeds"
+        ]
+      },
+      "steps": [
+        "Slice Bananas: Peel and slice bananas into rounds.",
+        "Heat Coconut Milk: Heat coconut milk with sugar and salt.",
+        "Add Bananas: Add banana slices and simmer gently.",
+        "Add Tapioca: Add cooked tapioca pearls.",
+        "Cook: Simmer until bananas are soft and the mixture thickens.",
+        "Add Vanilla: Stir in vanilla.",
+        "Cool: Let cool to room temperature or chill.",
+        "Serve: Top with crushed peanuts and sesame seeds."
+      ],
+      "making_tips": [
+        "Use bananas that are ripe but still firm.",
+        "The tapioca pearls should be soft and translucent.",
+        "This is a popular dessert soup in southern Vietnam.",
+        "Can be served warm or cold.",
+        "The contrast of soft banana and chewy tapioca is key."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Southern Vietnamese dessert",
+      "better_than_store_bought": "Street versions can be too sweet. Homemade has balanced sweetness.",
+      "hidden_nutrients": "Bananas provide potassium. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 44,
+      "name": "Ca Phe Sua Da (Vietnamese Iced Coffee)",
+      "country": "Vietnam",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 tbsp Vietnamese coffee grounds (Robusta)",
+          "2 cups boiling water",
+          "Sweetened condensed milk to taste",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Prepare Phin: Place coffee grounds in a Vietnamese coffee filter (phin).",
+        "Add Water: Pour boiling water over grounds. Let drip completely.",
+        "Sweeten: Add sweetened condensed milk to each glass.",
+        "Add Coffee: Pour brewed coffee over condensed milk.",
+        "Stir: Stir to combine.",
+        "Add Ice: Fill glass with ice cubes.",
+        "Stir Again: Stir well before drinking.",
+        "Serve: Enjoy slowly."
+      ],
+      "making_tips": [
+        "Vietnamese coffee is traditionally Robusta, which is more bitter and stronger.",
+        "The condensed milk is essential to balance the bitterness.",
+        "The phin filter creates a slow, concentrated brew.",
+        "This coffee is strong—enjoy in moderation.",
+        "Can also be served hot without ice."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Vietnam's signature drink",
+      "better_than_store_bought": "Cafe versions use the wrong coffee beans. Homemade has authentic Robusta flavor.",
+      "hidden_nutrients": "Coffee provides antioxidants. Condensed milk adds calcium."
+    },
+    {
+      "id": 45,
+      "name": "Soda Chanh (Lime Soda)",
+      "country": "Vietnam",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 limes",
+          "500ml soda water",
+          "4 tbsp sugar",
+          "Pinch of salt",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice Limes: Squeeze limes to extract fresh juice.",
+        "Mix Sugar and Salt: Combine sugar and salt in a glass.",
+        "Add Lime Juice: Stir in lime juice until sugar dissolves.",
+        "Add Soda: Top with soda water.",
+        "Add Ice: Add ice cubes.",
+        "Stir: Stir gently to combine.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "The sweet-sour-salty balance is key.",
+        "Use fresh limes for the best flavor.",
+        "This is a refreshing drink in Vietnam's hot climate.",
+        "Can be garnished with mint.",
+        "Serve immediately while the soda is still bubbly."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Vietnamese street favorite",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresher and customizable.",
+      "hidden_nutrients": "Limes provide vitamin C. The drink is hydrating."
+    },
+    {
+      "id": 46,
+      "name": "Nuoc Mia (Sugarcane Juice)",
+      "country": "Vietnam",
+      "category": "Beverage",
+      "time": "20 minutes",
+      "servings": "2 servings",
+      "difficulty": "Medium (requires press)",
+      "ingredients": {
+        "Main": [
+          "4-5 sugarcane stalks",
+          "1 lime",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Clean Sugarcane: Wash sugarcane thoroughly.",
+        "Peel: Remove the outer skin.",
+        "Cut: Cut into manageable lengths.",
+        "Juice: Use a sugarcane press or heavy-duty juicer.",
+        "Strain: Strain through cheesecloth.",
+        "Add Lime: Squeeze fresh lime juice into the sugarcane juice.",
+        "Chill: Pour over ice cubes.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "Sugarcane juice is extremely sweet; the lime balances it.",
+        "A sugarcane press is traditional but a heavy juicer works.",
+        "This drink is highly popular on Vietnamese streets.",
+        "Drink immediately after pressing; it spoils quickly.",
+        "Can be combined with other fruit juices."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Vietnam's street drink",
+      "better_than_store_bought": "Bottled versions often have added sugar and preservatives. Fresh is incomparable.",
+      "hidden_nutrients": "Sugarcane provides electrolytes and some minerals."
+    },
+    {
+      "id": 47,
+      "name": "Kuih Lapis (Layered Cake)",
+      "country": "Malaysia",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Batter": [
+          "200g rice flour",
+          "100g tapioca flour",
+          "400ml coconut milk",
+          "200g sugar",
+          "½ tsp salt",
+          "Pandan extract (green)",
+          "Food coloring (red, yellow)"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix rice flour, tapioca flour, coconut milk, sugar, and salt.",
+        "Divide: Divide batter into 3-4 portions. Color each portion.",
+        "Prepare Pan: Grease a square pan.",
+        "Layer: Pour one colored layer into pan. Steam 5 minutes until set.",
+        "Repeat: Continue layering and steaming each layer.",
+        "Cool: Let cool completely.",
+        "Remove: Remove from pan.",
+        "Slice: Slice into diamond shapes.",
+        "Serve: Serve at room temperature."
+      ],
+      "making_tips": [
+        "Each layer must be set before adding the next.",
+        "The layers should be distinct and colorful.",
+        "This is a festive kuih, often served during celebrations.",
+        "The pandan extract gives the green layer its flavor.",
+        "Patience is key; rushing will mix the layers."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Malaysian festive kuih",
+      "better_than_store_bought": "Street versions can be dry. Homemade is moister and more flavorful.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. Rice flour is gluten-free."
+    },
+    {
+      "id": 48,
+      "name": "Onde-Onde",
+      "country": "Malaysia",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "200g glutinous rice flour",
+          "150ml pandan juice",
+          "Pinch of salt"
+        ],
+        "Filling": [
+          "100g palm sugar (gula melaka), chopped"
+        ],
+        "Coating": [
+          "100g fresh grated coconut"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix rice flour, pandan juice, and salt until smooth dough forms.",
+        "Rest: Cover and rest 15 minutes.",
+        "Prepare Filling: Chop palm sugar into small pieces.",
+        "Form Balls: Divide dough into 15 pieces. Flatten each.",
+        "Fill: Place a piece of palm sugar in center. Seal and roll into ball.",
+        "Cook: Drop balls into boiling water. They will sink then float.",
+        "Remove: Remove with slotted spoon.",
+        "Coat: Roll in fresh grated coconut.",
+        "Serve: Serve warm or at room temperature."
+      ],
+      "making_tips": [
+        "The palm sugar should be chopped finely for easier melting.",
+        "When the balls float, they are cooked.",
+        "The fresh coconut gives a nice texture contrast.",
+        "Serve soon after coating; the coconut can become soggy.",
+        "The pandan juice gives its distinctive green color."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Malaysian favorite kuih",
+      "better_than_store_bought": "Street versions can be dry. Homemade has a softer texture.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber. Rice flour is gluten-free."
+    },
+    {
+      "id": 49,
+      "name": "Cendol",
+      "country": "Malaysia",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cendol": [
+          "200g rice flour",
+          "100g mung bean flour",
+          "400ml pandan juice",
+          "½ tsp salt"
+        ],
+        "Coconut Milk": [
+          "500ml coconut milk",
+          "100g sugar",
+          "Pinch of salt"
+        ],
+        "Toppings": [
+          "Red beans",
+          "Corn kernels",
+          "Shaved ice"
+        ]
+      },
+      "steps": [
+        "Make Cendol Dough: Mix rice flour, mung bean flour, pandan juice, and salt into a paste.",
+        "Steam: Steam dough until cooked (10-15 minutes).",
+        "Strain: Press through a cendol strainer or potato ricer into ice water.",
+        "Chill: The strands will firm up in ice water.",
+        "Make Coconut Syrup: Heat coconut milk, sugar, and salt until combined. Chill.",
+        "Assemble: Place cendol strands in bowls.",
+        "Add Toppings: Add red beans and corn.",
+        "Add Shaved Ice: Top with shaved ice.",
+        "Add Coconut Syrup: Pour chilled coconut syrup over everything.",
+        "Serve: Enjoy immediately."
+      ],
+      "making_tips": [
+        "The cendol strands should be soft but distinct.",
+        "The pandan juice gives the green color.",
+        "This is one of Malaysia's most popular desserts.",
+        "Serve ice-cold for the best experience.",
+        "The strainer is essential for the traditional look."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Malaysia's favorite dessert drink",
+      "better_than_store_bought": "Street versions can be overly sweet. Homemade has better balance.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. Red beans add fiber and protein."
+    },
+    {
+      "id": 50,
+      "name": "Apam Balik",
+      "country": "Malaysia",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "8 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Batter": [
+          "200g rice flour",
+          "50g sugar",
+          "1 tsp yeast",
+          "300ml water",
+          "Pinch of salt"
+        ],
+        "Filling": [
+          "100g crushed peanuts",
+          "50g sugar",
+          "30g butter"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix rice flour, sugar, yeast, and water. Rest 1 hour.",
+        "Heat Pan: Heat a small round pan over medium heat.",
+        "Pour Batter: Pour a thin layer of batter.",
+        "Add Filling: Sprinkle crushed peanuts and sugar over the batter.",
+        "Add Butter: Add small pieces of butter.",
+        "Cook: Cook until edges crisp and center is cooked.",
+        "Fold: Fold the pancake in half.",
+        "Remove: Remove from pan.",
+        "Cool: Let cool slightly.",
+        "Serve: Serve warm or cold."
+      ],
+      "making_tips": [
+        "The batter should be thin and spreadable.",
+        "The filling should be generous for the best flavor.",
+        "This is a popular street snack in Malaysia.",
+        "The pancake should be crispy on the outside and soft inside.",
+        "Fold immediately after cooking while still warm."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Malaysian pancake street snack",
+      "better_than_store_bought": "Street versions can be greasy. Homemade has cleaner ingredients.",
+      "hidden_nutrients": "Peanuts provide protein and healthy fats."
+    },
+    {
+      "id": 51,
+      "name": "Pisang Goreng (Malaysian)",
+      "country": "Malaysia",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "12 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Batter": [
+          "150g all-purpose flour",
+          "50g rice flour",
+          "1 tsp baking powder",
+          "½ tsp salt",
+          "200ml water"
+        ],
+        "Bananas": [
+          "12 small bananas (pisang raja or pisang nipah)"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix flours, baking powder, and salt. Add water to form batter.",
+        "Prepare Bananas: Peel bananas. Optionally slice lengthwise.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Coat Bananas: Dip bananas in batter to coat.",
+        "Fry: Fry until golden brown and crispy, turning once.",
+        "Drain: Drain on paper towels.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "The batter should be thick enough to coat the bananas.",
+        "Use sweet, small bananas for the best flavor.",
+        "The rice flour gives extra crispiness.",
+        "Serve with chili or cheese for a modern twist.",
+        "Best eaten fresh and hot."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "95% – Malaysian street snack classic",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is crispier and less oily.",
+      "hidden_nutrients": "Bananas provide potassium and fiber."
+    },
+    {
+      "id": 52,
+      "name": "Teh Tarik (Pulled Tea)",
+      "country": "Malaysia",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 cups",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "4 black tea bags",
+          "400ml water",
+          "200ml sweetened condensed milk",
+          "1 tsp sugar (optional)"
+        ]
+      },
+      "steps": [
+        "Brew Tea: Brew tea bags in boiling water for 5 minutes.",
+        "Remove Bags: Remove tea bags.",
+        "Add Condensed Milk: Stir in condensed milk.",
+        "Mix: Mix thoroughly.",
+        "Pull Tea: Pour tea between two containers from a height.",
+        "Repeat: Repeat 5-7 times to create froth.",
+        "Pour: Pour into serving cups.",
+        "Serve: Serve hot."
+      ],
+      "making_tips": [
+        "The pulling creates the distinctive froth.",
+        "Pour from a height to aerate the tea.",
+        "The 'pulling' motion is key to the texture.",
+        "Use full-fat condensed milk for the best flavor.",
+        "This is Malaysia's national drink."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Malaysia's national drink",
+      "better_than_store_bought": "Cafe versions often use tea powder. Homemade uses real tea bags.",
+      "hidden_nutrients": "Black tea provides antioxidants. Condensed milk adds calcium."
+    },
+    {
+      "id": 53,
+      "name": "Air Bandung (Rose Syrup Drink)",
+      "country": "Malaysia",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "400ml chilled milk",
+          "4 tbsp rose syrup",
+          "2 tbsp condensed milk",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Chill Milk: Ensure milk is cold.",
+        "Mix Syrup: In a pitcher, combine rose syrup and condensed milk.",
+        "Add Milk: Pour in chilled milk and stir well.",
+        "Taste: Adjust sweetness with more rose syrup.",
+        "Chill: Refrigerate until cold.",
+        "Pour: Pour over ice cubes in glasses.",
+        "Serve: Serve cold."
+      ],
+      "making_tips": [
+        "The rose syrup should be good quality.",
+        "The drink should be a pretty pink color.",
+        "This is a festive drink in Malaysia.",
+        "Can be served with grass jelly for added texture.",
+        "Serve chilled for the best experience."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Malaysian festive drink",
+      "better_than_store_bought": "Bottled versions often have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Milk provides calcium and protein."
+    },
+    {
+      "id": 54,
+      "name": "Soy Cincau (Soy Milk with Grass Jelly)",
+      "country": "Malaysia",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml sweetened soy milk",
+          "200g grass jelly (cincau)",
+          "2 tbsp sugar syrup",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Prepare Grass Jelly: Cut grass jelly into small cubes.",
+        "Chill: Keep grass jelly chilled.",
+        "Prepare Glasses: Place grass jelly cubes in glasses.",
+        "Add Soy Milk: Pour soy milk over grass jelly.",
+        "Add Sugar Syrup: Add sugar syrup to taste.",
+        "Add Ice: Add ice cubes.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "The grass jelly should be bouncy and slightly sweet.",
+        "Use homemade soy milk for the best flavor.",
+        "This is a refreshing Malaysian drink.",
+        "Can be made with other flavored jellies.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Malaysian street drink",
+      "better_than_store_bought": "Bottled versions often have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Soy milk provides protein and calcium. Grass jelly offers dietary fiber."
+    },
+    {
+      "id": 55,
+      "name": "Halo-Halo",
+      "country": "Philippines",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Base": [
+          "Shaved ice",
+          "Sweetened condensed milk"
+        ],
+        "Toppings": [
+          "Sweet red beans",
+          "Leche flan",
+          "Macapuno (coconut sport)",
+          "Sweetened plantains",
+          "Jelly cubes",
+          "Jackfruit",
+          "Ube halaya (purple yam jam)"
+        ]
+      },
+      "steps": [
+        "Prepare Toppings: Prepare all toppings individually.",
+        "Shave Ice: Shave ice into fine, snow-like consistency.",
+        "Layer: In a tall glass, layer sweetened beans, flan, and other toppings.",
+        "Add Ice: Top with generous shaved ice.",
+        "Add Condensed Milk: Drizzle sweetened condensed milk over ice.",
+        "Add Ube: Add a scoop of ube halaya on top.",
+        "Garnish: Top with leche flan.",
+        "Mix: Mix before eating.",
+        "Serve: Enjoy with a long spoon."
+      ],
+      "making_tips": [
+        "Halo-halo means 'mix-mix' in Tagalog.",
+        "The ice should be fine, not chunky.",
+        "Traditionally, all toppings are mixed together.",
+        "The ube halaya gives the purple color.",
+        "Serve in tall glasses with a spoon and straw."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Philippines' national dessert",
+      "better_than_store_bought": "Street versions often use cheap ingredients. Homemade uses premium toppings.",
+      "hidden_nutrients": "Beans provide protein and fiber. Fruits add vitamins."
+    },
+    {
+      "id": 56,
+      "name": "Leche Flan",
+      "country": "Philippines",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "8 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Caramel": [
+          "100g sugar",
+          "2 tbsp water"
+        ],
+        "Custard": [
+          "10 egg yolks",
+          "1 can sweetened condensed milk",
+          "1 can evaporated milk",
+          "1 tsp vanilla extract"
+        ]
+      },
+      "steps": [
+        "Make Caramel: Heat sugar and water until golden. Pour into flan mold.",
+        "Make Custard: Whisk egg yolks, condensed milk, evaporated milk, and vanilla.",
+        "Strain: Strain custard mixture through a fine sieve.",
+        "Pour: Pour custard over the caramel.",
+        "Cover: Cover the mold with foil.",
+        "Steam: Steam for 30-40 minutes until set.",
+        "Cool: Let cool completely.",
+        "Unmold: Invert onto a serving plate.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "The caramel should be deep gold, not dark brown.",
+        "Straining ensures silky texture.",
+        "Do not overcook; flan should be set but jiggly.",
+        "This is a Spanish-inspired Filipino classic.",
+        "Chill thoroughly before unmolding."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Filipino-Spanish classic dessert",
+      "better_than_store_bought": "Commercial versions use additives. Homemade has superior texture and flavor.",
+      "hidden_nutrients": "Eggs provide protein and choline. Milk adds calcium."
+    },
+    {
+      "id": 57,
+      "name": "Ube Halaya (Purple Yam Jam)",
+      "country": "Philippines",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "500g ube (purple yam), boiled and mashed",
+          "1 can sweetened condensed milk",
+          "1 can evaporated milk",
+          "100g butter",
+          "100g sugar"
+        ]
+      },
+      "steps": [
+        "Mash Ube: Boil ube until tender. Mash until smooth.",
+        "Heat: In a pan, melt butter. Add mashed ube.",
+        "Add Milk: Add condensed and evaporated milk.",
+        "Add Sugar: Add sugar.",
+        "Cook: Cook over low heat, stirring continuously until thick.",
+        "Cool: Let cool completely.",
+        "Shape: Can be served as a spread or shaped into balls.",
+        "Serve: Serve as a dessert or topping."
+      ],
+      "making_tips": [
+        "Stir continuously to prevent burning.",
+        "The ube should be cooked until it leaves the sides of the pan.",
+        "This is a Filipino favorite used in many desserts.",
+        "Can be stored in the refrigerator.",
+        "The purple color is natural from the ube."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Filipino favorite dessert",
+      "better_than_store_bought": "Commercial versions use artificial coloring. Homemade has real ube flavor.",
+      "hidden_nutrients": "Ube provides antioxidants and fiber. Milk adds calcium."
+    },
+    {
+      "id": 58,
+      "name": "Bibingka",
+      "country": "Philippines",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Batter": [
+          "200g rice flour",
+          "100g sugar",
+          "1 tsp baking powder",
+          "300ml coconut milk",
+          "2 eggs"
+        ],
+        "Toppings": [
+          "Salted duck eggs, sliced",
+          "Grated cheese",
+          "Salted butter"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix rice flour, sugar, and baking powder.",
+        "Add Coconut Milk: Gradually add coconut milk.",
+        "Add Eggs: Beat eggs and fold in.",
+        "Prepare Pan: Grease a pan and line with banana leaves.",
+        "Pour Batter: Pour batter into pan.",
+        "Add Toppings: Top with salted egg slices and cheese.",
+        "Bake: Bake at 180°C for 25-30 minutes.",
+        "Add Butter: Brush with butter.",
+        "Cool: Let cool before serving.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Banana leaves add a distinct flavor.",
+        "The salted eggs give a sweet-savory contrast.",
+        "This is a Christmas classic in the Philippines.",
+        "Can be cooked over coals for authentic flavor.",
+        "Serve warm for the best experience."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Filipino Christmas favorite",
+      "better_than_store_bought": "Street versions can be dry. Homemade is moister.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. Rice flour is gluten-free."
+    },
+    {
+      "id": 59,
+      "name": "Banana Cue",
+      "country": "Philippines",
+      "category": "Snack",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "8 saba bananas (plantains)",
+          "200g brown sugar",
+          "Vegetable oil for frying"
+        ]
+      },
+      "steps": [
+        "Peel Bananas: Peel bananas.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Caramelize Sugar: Melt brown sugar in the hot oil.",
+        "Fry Bananas: Add bananas and fry until caramelized.",
+        "Turn: Turn bananas to coat evenly.",
+        "Remove: Remove and cool on skewers.",
+        "Serve: Serve on a stick."
+      ],
+      "making_tips": [
+        "Use saba bananas (plantains) for the best texture.",
+        "The caramelized sugar gives the bananas their signature sweet crust.",
+        "This is a popular Filipino street snack.",
+        "Don't overcrowd the pan.",
+        "Serve on a stick for authentic presentation."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Filipino street favorite",
+      "better_than_store_bought": "Street versions can be oily. Homemade is less greasy.",
+      "hidden_nutrients": "Bananas provide potassium and fiber."
+    },
+    {
+      "id": 60,
+      "name": "Sago't Gulaman (Tapioca and Jelly Drink)",
+      "country": "Philippines",
+      "category": "Beverage",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g tapioca pearls",
+          "100g agar-agar jelly (gulaman)",
+          "500ml water",
+          "200g brown sugar",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Cook Tapioca: Cook tapioca pearls until translucent.",
+        "Make Jelly: Dissolve agar-agar in water. Add sugar. Let set and cut into cubes.",
+        "Make Syrup: Combine brown sugar and water. Heat until dissolved.",
+        "Combine: Mix cooked tapioca, jelly cubes, and syrup.",
+        "Chill: Refrigerate until cold.",
+        "Pour: Pour over ice cubes.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "The tapioca should be soft and chewy.",
+        "The jelly should be firm but bouncy.",
+        "This is a popular Filipino street drink.",
+        "Can be made with various flavored jellies.",
+        "Serve ice-cold for the best experience."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Filipino street drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Tapioca provides carbohydrates for energy."
+    },
+    {
+      "id": 61,
+      "name": "Buko Juice (Young Coconut Juice)",
+      "country": "Philippines",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 young coconuts",
+          "Ice cubes",
+          "Sugar (optional)"
+        ]
+      },
+      "steps": [
+        "Open Coconuts: Carefully open young coconuts.",
+        "Drain Water: Drain coconut water into a pitcher.",
+        "Scrape Meat: Scrape tender coconut meat.",
+        "Mix: Combine coconut water and scraped meat.",
+        "Strain: Strain if desired.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Pour into glasses over ice."
+      ],
+      "making_tips": [
+        "Young coconuts are preferred for the sweetest water.",
+        "The tender meat is a delicious addition.",
+        "This is the ultimate Filipino thirst-quencher.",
+        "No added sugar is needed; it's naturally sweet.",
+        "Serve fresh for the best flavor."
+      ],
+      "health_rating": 85,
+      "cultural_authenticity": "100% – Filipino natural drink",
+      "better_than_store_bought": "Bottled coconut water has preservatives. Fresh is incomparable.",
+      "hidden_nutrients": "Rich in potassium and electrolytes. Low in calories."
+    },
+    {
+      "id": 62,
+      "name": "Melon Juice",
+      "country": "Philippines",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 large honeydew melon",
+          "Sweetened condensed milk",
+          "Ice cubes",
+          "Water"
+        ]
+      },
+      "steps": [
+        "Prepare Melon: Peel and deseed honeydew. Cut into chunks.",
+        "Blend: Blend melon chunks until smooth.",
+        "Add Condensed Milk: Add condensed milk and blend again.",
+        "Add Water: Add water to achieve desired consistency.",
+        "Add Ice: Blend with ice cubes.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Pour into glasses.",
+        "Garnish: Optional with melon balls."
+      ],
+      "making_tips": [
+        "Use a very ripe honeydew for natural sweetness.",
+        "The condensed milk gives creaminess.",
+        "This is a favorite Filipino summer cooler.",
+        "Can be served with bubbles or tapioca pearls.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Filipino summer cooler",
+      "better_than_store_bought": "Cafe versions can be watery. Homemade is richer.",
+      "hidden_nutrients": "Melon provides vitamin C and A. Milk adds calcium."
+    },
+    {
+      "id": 63,
+      "name": "Klepon",
+      "country": "Indonesia",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "200g glutinous rice flour",
+          "Pandan juice",
+          "Pinch of salt"
+        ],
+        "Filling": [
+          "100g palm sugar (gula jawa), chopped"
+        ],
+        "Coating": [
+          "100g fresh grated coconut"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix rice flour, pandan juice, and salt.",
+        "Rest: Rest dough for 15 minutes.",
+        "Prepare Filling: Chop palm sugar into small pieces.",
+        "Form Balls: Divide dough into 15 pieces. Flatten each.",
+        "Fill: Place a piece of palm sugar in center. Seal.",
+        "Cook: Drop balls into boiling water. They will float when cooked.",
+        "Remove: Remove with slotted spoon.",
+        "Coat: Roll in fresh grated coconut.",
+        "Serve: Serve warm or at room temperature."
+      ],
+      "making_tips": [
+        "The palm sugar creates a liquid center when cooked.",
+        "The green color comes from pandan juice.",
+        "This is a popular Indonesian snack.",
+        "The fresh coconut gives a nice texture contrast.",
+        "Serve soon after coating."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Indonesian favorite snack",
+      "better_than_store_bought": "Street versions can be dry. Homemade is softer.",
+      "hidden_nutrients": "Coconut provides healthy fats. Rice flour is gluten-free."
+    },
+    {
+      "id": 64,
+      "name": "Pisang Goreng (Indonesian)",
+      "country": "Indonesia",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "12 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Batter": [
+          "150g all-purpose flour",
+          "50g rice flour",
+          "1 tsp baking powder",
+          "½ tsp salt",
+          "200ml water"
+        ],
+        "Bananas": [
+          "12 small bananas (pisang uli or pisang raja)"
+        ],
+        "Filling": [
+          "Grated cheese",
+          "Chocolate"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix flours, baking powder, and salt. Add water.",
+        "Prepare Bananas: Peel bananas. Optionally slice lengthwise.",
+        "Heat Oil: Heat oil to 170°C.",
+        "Coat Bananas: Dip bananas in batter.",
+        "Add Filling: For filled version, insert cheese or chocolate.",
+        "Fry: Fry until golden brown.",
+        "Drain: Drain on paper towels.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "Indonesian pisang goreng is known for its crispy coating.",
+        "The banana should be sweet and ripe.",
+        "Adding cheese or chocolate gives a modern twist.",
+        "The batter should be light and crispy.",
+        "Serve with chili sauce or cheese."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Indonesian street snack",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is crispier.",
+      "hidden_nutrients": "Bananas provide potassium and fiber."
+    },
+    {
+      "id": 65,
+      "name": "Dadar Gulung (Pandan Coconut Pancake)",
+      "country": "Indonesia",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "10 rolls",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Crepe Batter": [
+          "200g rice flour",
+          "400ml coconut milk",
+          "Pandan extract",
+          "Pinch of salt"
+        ],
+        "Filling": [
+          "100g palm sugar",
+          "100g coconut",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Make Filling: Grate fresh coconut. Mix with palm sugar and salt.",
+        "Make Crepe Batter: Mix rice flour, coconut milk, pandan extract, and salt.",
+        "Cook Crepes: Heat a non-stick pan. Pour thin layer of batter.",
+        "Flip: Flip and cook other side.",
+        "Add Filling: Place filling on crepe.",
+        "Roll: Roll tightly into a cylinder.",
+        "Serve: Serve warm or at room temperature."
+      ],
+      "making_tips": [
+        "The pandan gives the distinctive green color.",
+        "The filling should be sweet and coconutty.",
+        "This is a classic Indonesian snack.",
+        "The crepes should be thin and flexible.",
+        "Serve with coffee or tea."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Indonesian classic snack",
+      "better_than_store_bought": "Street versions can be dry. Homemade is moister.",
+      "hidden_nutrients": "Coconut provides healthy fats. Rice flour is gluten-free."
+    },
+    {
+      "id": 66,
+      "name": "Es Campur (Mixed Ice)",
+      "country": "Indonesia",
+      "category": "Snack",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Base": [
+          "Shaved ice",
+          "Sweet syrup"
+        ],
+        "Toppings": [
+          "Jelly cubes",
+          "Nata de coco",
+          "Fruits",
+          "Red beans",
+          "Coconut",
+          "Avocado"
+        ]
+      },
+      "steps": [
+        "Prepare Toppings: Prepare all toppings individually.",
+        "Shave Ice: Shave ice into fine consistency.",
+        "Layer: In a bowl, layer toppings.",
+        "Add Ice: Top with shaved ice.",
+        "Add Syrup: Drizzle with sweet syrup.",
+        "Add Condensed Milk: Top with condensed milk.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "Es campur means 'mixed ice' in Indonesian.",
+        "The toppings should be varied in colors and textures.",
+        "This is a popular Indonesian dessert.",
+        "Serve in a large bowl.",
+        "Mix before eating."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Indonesian favorite dessert",
+      "better_than_store_bought": "Street versions can have artificial toppings. Homemade uses real ingredients.",
+      "hidden_nutrients": "Fruits provide vitamins. Beans add fiber."
+    },
+    {
+      "id": 67,
+      "name": "Kue Cubit (Mini Pancakes)",
+      "country": "Indonesia",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "20 mini pancakes",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Batter": [
+          "150g all-purpose flour",
+          "1 tsp baking powder",
+          "150ml milk",
+          "1 egg",
+          "50g sugar"
+        ],
+        "Toppings": [
+          "Chocolate sprinkles",
+          "Cheese"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix flour, baking powder, and sugar.",
+        "Add Milk: Gradually add milk.",
+        "Add Egg: Beat in egg.",
+        "Heat Pan: Heat a small round pan (or kue cubit mold).",
+        "Pour Batter: Pour small amounts of batter.",
+        "Cook: Cook until bubbles form.",
+        "Add Toppings: Add chocolate sprinkles or cheese.",
+        "Flip: Flip and cook other side.",
+        "Remove: Remove with a fork.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "The pan should be well-greased.",
+        "Kue cubit means 'pinch cake' because of how they're served.",
+        "This is a popular Indonesian street snack.",
+        "Serve immediately while warm.",
+        "Can be made with various toppings."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Indonesian street snack",
+      "better_than_store_bought": "Street versions can be dry. Homemade is moister.",
+      "hidden_nutrients": "Milk provides calcium. Eggs add protein."
+    },
+    {
+      "id": 68,
+      "name": "Es Cendol (Indonesian Cendol)",
+      "country": "Indonesia",
+      "category": "Beverage",
+      "time": "45 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cendol": [
+          "200g rice flour",
+          "100g mung bean flour",
+          "400ml pandan juice",
+          "½ tsp salt"
+        ],
+        "Coconut Milk": [
+          "500ml coconut milk",
+          "100g palm sugar",
+          "Pinch of salt"
+        ],
+        "Toppings": [
+          "Red beans",
+          "Shaved ice"
+        ]
+      },
+      "steps": [
+        "Make Cendol Dough: Mix rice flour, mung bean flour, pandan juice, and salt.",
+        "Steam: Steam dough until cooked.",
+        "Strain: Press through a strainer into ice water.",
+        "Chill: Chill in ice water.",
+        "Make Syrup: Heat coconut milk, palm sugar, and salt. Chill.",
+        "Assemble: Place cendol in bowls.",
+        "Add Toppings: Add red beans.",
+        "Add Ice: Top with shaved ice.",
+        "Add Syrup: Pour coconut syrup over.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "Indonesian cendol uses palm sugar for a richer flavor.",
+        "The cendol should be soft and green.",
+        "This is a popular Indonesian dessert drink.",
+        "Serve ice-cold.",
+        "The palm sugar gives a characteristic caramel flavor."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Indonesian favorite dessert drink",
+      "better_than_store_bought": "Street versions can be too sweet. Homemade has better balance.",
+      "hidden_nutrients": "Coconut milk provides healthy fats. Red beans add fiber."
+    },
+    {
+      "id": 69,
+      "name": "Es Teler (Fruit Cocktail Ice)",
+      "country": "Indonesia",
+      "category": "Beverage",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 avocados",
+          "1 young coconut",
+          "1 jackfruit",
+          "500ml coconut milk",
+          "Condensed milk",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Prepare Fruits: Dice avocado, scrape coconut meat, and slice jackfruit.",
+        "Chill: Refrigerate fruits.",
+        "Make Syrup: Mix coconut milk with condensed milk.",
+        "Assemble: Place fruits in glasses.",
+        "Add Syrup: Pour coconut syrup over.",
+        "Add Ice: Add ice cubes.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "Es teler was created in Surabaya in the 1980s.",
+        "The combination of fruits is signature.",
+        "Serve in a tall glass.",
+        "Use ripe fruits for the best flavor.",
+        "Can be garnished with coconut."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Indonesian signature drink",
+      "better_than_store_bought": "Cafe versions can be watery. Homemade is richer.",
+      "hidden_nutrients": "Avocado provides healthy fats. Coconut adds electrolytes."
+    },
+    {
+      "id": 70,
+      "name": "Wedang Jahe (Ginger Drink)",
+      "country": "Indonesia",
+      "category": "Beverage",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "50g ginger, sliced",
+          "500ml water",
+          "100g palm sugar",
+          "1 cinnamon stick",
+          "2 cloves"
+        ]
+      },
+      "steps": [
+        "Boil Water: Bring water to boil.",
+        "Add Ginger: Add sliced ginger.",
+        "Add Spices: Add cinnamon and cloves.",
+        "Add Sugar: Add palm sugar.",
+        "Simmer: Simmer for 15 minutes.",
+        "Strain: Strain into cups.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "This is a traditional Indonesian healing drink.",
+        "The ginger should be fresh, not powdered.",
+        "Can be served with additional honey.",
+        "Excellent for cold weather.",
+        "Use fresh palm sugar for authenticity."
+      ],
+      "health_rating": 80,
+      "cultural_authenticity": "100% – Indonesian traditional drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is healing.",
+      "hidden_nutrients": "Ginger has anti-inflammatory properties. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 71,
+      "name": "Pineapple Cake",
+      "country": "Taiwan",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "12 cakes",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "250g all-purpose flour",
+          "150g unsalted butter",
+          "50g powdered sugar",
+          "1 egg"
+        ],
+        "Filling": [
+          "500g pineapple, chopped",
+          "200g sugar"
+        ]
+      },
+      "steps": [
+        "Make Filling: Cook pineapple with sugar until thick.",
+        "Cool: Let filling cool completely.",
+        "Make Pastry: Cut butter into flour and sugar. Add egg.",
+        "Chill: Chill pastry for 30 minutes.",
+        "Divide: Divide pastry into 12 portions.",
+        "Fill: Flatten each portion. Place filling in center. Seal.",
+        "Mold: Press into molds.",
+        "Bake: Bake at 180°C for 20-25 minutes.",
+        "Cool: Let cool before removing.",
+        "Serve: Serve at room temperature."
+      ],
+      "making_tips": [
+        "The pineapple filling should be thick and jam-like.",
+        "This is Taiwan's most famous snack.",
+        "The shortbread crust should be buttery and crumbly.",
+        "Can be made with other fruit fillings.",
+        "Store in airtight container."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Taiwan's number one souvenir",
+      "better_than_store_bought": "Commercial versions have additives. Homemade is superior.",
+      "hidden_nutrients": "Pineapple provides vitamin C and bromelain."
+    },
+    {
+      "id": 72,
+      "name": "Mango Shaved Ice (Mango Bing)",
+      "country": "Taiwan",
+      "category": "Snack",
+      "time": "20 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500g ice block",
+          "2 ripe mangoes",
+          "Sweetened condensed milk",
+          "Mango syrup"
+        ]
+      },
+      "steps": [
+        "Shave Ice: Shave ice into fine consistency.",
+        "Prepare Mango: Peel and chop mangoes.",
+        "Arrange: Arrange mango chunks over ice.",
+        "Drizzle: Drizzle with condensed milk.",
+        "Add Syrup: Add mango syrup.",
+        "Serve: Serve immediately."
+      ],
+      "making_tips": [
+        "Use the sweetest mangoes available.",
+        "The ice should be snowy, not chunky.",
+        "This is Taiwan's favorite summer dessert.",
+        "Can be topped with extra mango chunks.",
+        "Serve in a chilled bowl."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Taiwanese summer favorite",
+      "better_than_store_bought": "Cafe versions use syrup. Homemade uses fresh mangoes.",
+      "hidden_nutrients": "Mango provides vitamin A and C."
+    },
+    {
+      "id": 73,
+      "name": "Taro Balls",
+      "country": "Taiwan",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Taro Balls": [
+          "250g taro, boiled and mashed",
+          "100g tapioca flour",
+          "50g sugar"
+        ],
+        "Soup": [
+          "500ml water",
+          "100g sugar",
+          "Red beans"
+        ]
+      },
+      "steps": [
+        "Mash Taro: Boil taro until tender. Mash until smooth.",
+        "Make Dough: Mix taro, tapioca flour, and sugar.",
+        "Shape: Roll into small balls.",
+        "Cook: Cook balls in boiling water. They will float when done.",
+        "Make Soup: Heat water and sugar. Add red beans.",
+        "Assemble: Place taro balls in bowls.",
+        "Add Soup: Pour sweet soup over.",
+        "Serve: Serve warm."
+      ],
+      "making_tips": [
+        "The taro balls should be chewy.",
+        "This is a popular Taiwanese dessert soup.",
+        "Can be served with other toppings.",
+        "The purple color is from the taro.",
+        "Serve warm for the best texture."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Taiwanese dessert classic",
+      "better_than_store_bought": "Street versions can be tough. Homemade is softer.",
+      "hidden_nutrients": "Taro provides fiber and potassium. Red beans add protein."
+    },
+    {
+      "id": 74,
+      "name": "Winter Melon Tea",
+      "country": "Taiwan",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g winter melon",
+          "200g rock sugar",
+          "1.5 litres water"
+        ]
+      },
+      "steps": [
+        "Prepare Melon: Peel and dice winter melon.",
+        "Cook: Combine melon, water, and rock sugar.",
+        "Boil: Bring to boil, then reduce heat.",
+        "Simmer: Simmer for 45 minutes.",
+        "Strain: Strain and discard solids.",
+        "Cool: Let cool completely.",
+        "Chill: Refrigerate until cold.",
+        "Serve: Serve chilled over ice."
+      ],
+      "making_tips": [
+        "Winter melon has a mild, slightly sweet flavor.",
+        "The rock sugar gives a smooth sweetness.",
+        "This is a traditional Taiwanese drink.",
+        "Can be served hot in winter.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Taiwanese traditional drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresher.",
+      "hidden_nutrients": "Winter melon provides hydration and trace minerals."
+    },
+    {
+      "id": 75,
+      "name": "Aiyu Jelly Drink",
+      "country": "Taiwan",
+      "category": "Beverage",
+      "time": "30 minutes (plus setting)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Jelly": [
+          "20g aiyu seeds",
+          "500ml water",
+          "50g sugar"
+        ],
+        "Syrup": [
+          "Lemon juice",
+          "Sugar syrup"
+        ]
+      },
+      "steps": [
+        "Prepare Aiyu: Wrap aiyu seeds in a muslin bag.",
+        "Soak: Soak bag in water for 10 minutes.",
+        "Squeeze: Squeeze the bag to extract the gel.",
+        "Set: Let sit for 30 minutes to set.",
+        "Make Syrup: Prepare lemon syrup.",
+        "Chop Jelly: Cut the set jelly into cubes.",
+        "Assemble: Place jelly in glasses.",
+        "Add Syrup: Pour lemon syrup over.",
+        "Add Ice: Add ice cubes.",
+        "Serve: Serve chilled."
+      ],
+      "making_tips": [
+        "Aiyu jelly has a unique, slightly tart flavor.",
+        "The jelly should be soft and bouncy.",
+        "This is a popular Taiwanese summer drink.",
+        "Aiyu seeds are from a plant native to Taiwan.",
+        "Serve ice-cold for the best experience."
+      ],
+      "health_rating": 70,
+      "cultural_authenticity": "100% – Taiwanese signature drink",
+      "better_than_store_bought": "Bottled versions use artificial jelly. Homemade has real aiyu.",
+      "hidden_nutrients": "Aiyu jelly contains fiber and trace minerals."
+    }
+  ]
+}

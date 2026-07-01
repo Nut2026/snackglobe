@@ -1,0 +1,1421 @@
+{
+  "recipes": [
+    {
+      "id": 214,
+      "name": "Croissant",
+      "country": "France",
+      "category": "Snack",
+      "time": "8 hours (includes chilling and rising)",
+      "servings": "12 croissants",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "500g bread flour",
+          "60g sugar",
+          "10g salt",
+          "7g instant yeast",
+          "300ml cold water",
+          "40g unsalted butter, softened"
+        ],
+        "Butter Layer": [
+          "250g unsalted butter, cold"
+        ],
+        "Egg Wash": [
+          "1 egg",
+          "1 tbsp milk"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, sugar, salt, and yeast. Add water and softened butter.",
+        "Knead until smooth. Rest in the refrigerator for 1 hour.",
+        "Prepare Butter: Flatten cold butter into a rectangle between parchment paper.",
+        "Roll dough into a large rectangle. Place butter on one half and fold over.",
+        "Roll out the dough and fold into thirds (letter fold). Chill for 1 hour.",
+        "Repeat the rolling and folding process two more times, chilling between each.",
+        "Roll dough to 5mm thickness. Cut into triangles.",
+        "Roll each triangle from the wide end to form crescent shapes.",
+        "Place on a baking sheet and let rise for 1-2 hours.",
+        "Preheat oven to 200°C.",
+        "Brush with egg wash.",
+        "Bake for 15-18 minutes until golden and puffed."
+      ],
+      "making_tips": [
+        "Keep the butter cold at all times—this creates the flaky layers.",
+        "The dough should rest between each fold to prevent the butter from melting.",
+        "The final rise should be at room temperature until the croissants are puffy.",
+        "Don't rush the process—croissants require patience.",
+        "Serve warm, fresh from the oven."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – The iconic French pastry",
+      "better_than_store_bought": "Commercial croissants have additives. Homemade are buttery, flaky, and exquisite.",
+      "hidden_nutrients": "Eggs provide protein. Butter offers vitamin A."
+    },
+    {
+      "id": 215,
+      "name": "Macaron",
+      "country": "France",
+      "category": "Snack",
+      "time": "2 hours (plus resting)",
+      "servings": "24 macarons",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Meringue": [
+          "120g egg whites, aged",
+          "150g granulated sugar",
+          "150g powdered sugar",
+          "150g almond flour",
+          "Food coloring"
+        ],
+        "Ganache": [
+          "150g dark chocolate",
+          "150ml heavy cream",
+          "30g unsalted butter"
+        ]
+      },
+      "steps": [
+        "Sift almond flour and powdered sugar together. Set aside.",
+        "Whip egg whites until foamy. Gradually add sugar and beat to stiff peaks.",
+        "Fold the almond flour mixture into the meringue gently.",
+        "Add food coloring and fold until the batter is smooth and flows like lava.",
+        "Pipe small circles onto parchment-lined baking sheets.",
+        "Tap the baking sheets to remove air bubbles.",
+        "Let macarons rest at room temperature for 30-60 minutes until a skin forms.",
+        "Preheat oven to 150°C.",
+        "Bake for 14-16 minutes.",
+        "Cool completely before removing.",
+        "Make Ganache: Heat cream and pour over chocolate. Add butter and stir until smooth.",
+        "Pipe ganache onto one macaron and sandwich with another."
+      ],
+      "making_tips": [
+        "The eggs should be aged (left at room temperature for 24 hours).",
+        "The batter should be folded gently—overmixing ruins the texture.",
+        "The 'skin' is essential for the iconic 'feet' of the macaron.",
+        "Macarons are finicky but rewarding.",
+        "They taste better the next day after the filling softens."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – French pâtisserie icon",
+      "better_than_store_bought": "Homemade macarons have a better almond flavor and fresh ganache.",
+      "hidden_nutrients": "Almonds provide vitamin E and healthy fats."
+    },
+    {
+      "id": 216,
+      "name": "Pain au Chocolat",
+      "country": "France",
+      "category": "Snack",
+      "time": "8 hours (includes chilling and rising)",
+      "servings": "12 pastries",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "500g bread flour",
+          "60g sugar",
+          "10g salt",
+          "7g instant yeast",
+          "300ml cold water",
+          "40g unsalted butter, softened"
+        ],
+        "Butter Layer": [
+          "250g unsalted butter, cold"
+        ],
+        "Filling": [
+          "12 chocolate batons (or good dark chocolate)"
+        ],
+        "Egg Wash": [
+          "1 egg",
+          "1 tbsp milk"
+        ]
+      },
+      "steps": [
+        "Make Dough and fold butter using the same process as croissants.",
+        "After the final fold, roll dough into a large rectangle.",
+        "Cut into 12 rectangles.",
+        "Place a chocolate baton at one edge of each rectangle.",
+        "Roll the dough tightly around the chocolate.",
+        "Place on a baking sheet, seam side down.",
+        "Let rise for 1-2 hours.",
+        "Preheat oven to 200°C.",
+        "Brush with egg wash.",
+        "Bake for 15-18 minutes until golden."
+      ],
+      "making_tips": [
+        "Use high-quality chocolate batons—they should be thick enough to hold their shape.",
+        "The dough process is identical to croissants.",
+        "Don't overfill or the chocolate will leak.",
+        "The pastries should be golden and puffed.",
+        "Best served warm."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – French breakfast classic",
+      "better_than_store_bought": "Commercial versions use poor-quality chocolate. Homemade uses real chocolate.",
+      "hidden_nutrients": "Dark chocolate provides antioxidants. Eggs add protein."
+    },
+    {
+      "id": 217,
+      "name": "Crème Brûlée",
+      "country": "France",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Custard": [
+          "500ml heavy cream",
+          "1 vanilla bean (or 1 tsp vanilla paste)",
+          "5 egg yolks",
+          "100g granulated sugar"
+        ],
+        "Caramel Topping": [
+          "50g granulated sugar"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 150°C.",
+        "In a pot, heat cream with vanilla bean (split and scraped) until steaming. Remove from heat.",
+        "In a bowl, whisk egg yolks and sugar until pale.",
+        "Slowly pour hot cream into the egg mixture while whisking.",
+        "Strain the mixture through a fine sieve.",
+        "Pour into four ramekins.",
+        "Place ramekins in a baking dish with hot water (water bath).",
+        "Bake for 35-40 minutes until set but still jiggly.",
+        "Chill for at least 2 hours.",
+        "Just before serving, sprinkle sugar on top.",
+        "Caramelize with a kitchen torch until golden and crisp."
+      ],
+      "making_tips": [
+        "The water bath ensures even, gentle cooking.",
+        "The custard should be silky with no bubbles.",
+        "The sugar topping should be caramelized just before serving.",
+        "Use a torch for the best results—a broiler can work but watch carefully.",
+        "The crack of the caramel is the signature of crème brûlée."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – French dessert elegance",
+      "better_than_store_bought": "Commercial crème brûlée is often too firm. Homemade is perfectly silky.",
+      "hidden_nutrients": "Cream provides calcium. Egg yolks offer choline and vitamin D."
+    },
+    {
+      "id": 218,
+      "name": "Madeleine",
+      "country": "France",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "12 madeleines",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Batter": [
+          "150g all-purpose flour",
+          "150g unsalted butter, melted",
+          "150g granulated sugar",
+          "3 large eggs",
+          "1 tsp baking powder",
+          "1 tsp vanilla extract",
+          "Zest of 1 lemon"
+        ]
+      },
+      "steps": [
+        "In a bowl, whisk eggs and sugar until pale and thick.",
+        "Add vanilla and lemon zest.",
+        "Sift flour and baking powder together. Fold gently into the egg mixture.",
+        "Fold in melted butter.",
+        "Cover and chill the batter for 1 hour (essential for the hump).",
+        "Preheat oven to 190°C. Grease a madeleine mold.",
+        "Spoon batter into the molds, filling ¾ full.",
+        "Bake for 10-12 minutes until the hump forms and edges are golden.",
+        "Remove from the mold immediately.",
+        "Cool on a wire rack."
+      ],
+      "making_tips": [
+        "Chilling the batter creates the signature hump.",
+        "The pan should be well-greased for easy release.",
+        "Don't overfill—the batter expands.",
+        "Madeleines are best eaten the same day.",
+        "They are Proust's famous tea cake."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – French classic cake",
+      "better_than_store_bought": "Packaged madeleines are dry. Homemade are soft and buttery.",
+      "hidden_nutrients": "Eggs provide protein. Butter offers vitamin A."
+    },
+    {
+      "id": 219,
+      "name": "Café au Lait",
+      "country": "France",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 tbsp dark roast coffee",
+          "240ml hot water",
+          "240ml hot milk"
+        ]
+      },
+      "steps": [
+        "Brew strong coffee using a French press or drip method.",
+        "Heat milk until steaming (not boiling).",
+        "Pour coffee into large cups.",
+        "Add hot milk in equal parts.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "The classic French café au lait is served in a large bowl.",
+        "Milk and coffee should be hot and fresh.",
+        "The ratio is 1:1 coffee to milk.",
+        "Often served with breakfast.",
+        "This is the French version of a latte."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – French breakfast staple",
+      "better_than_store_bought": "Cafe versions can't match the simplicity of fresh-brewed.",
+      "hidden_nutrients": "Coffee provides antioxidants. Milk adds calcium."
+    },
+    {
+      "id": 220,
+      "name": "Tiramisu",
+      "country": "Italy",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "8 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Mascarpone Cream": [
+          "500g mascarpone cheese",
+          "4 egg yolks",
+          "100g granulated sugar",
+          "240ml heavy cream"
+        ],
+        "Coffee Mixture": [
+          "400ml strong brewed coffee, cooled",
+          "2 tbsp sugar (optional)"
+        ],
+        "Assembly": [
+          "300g ladyfinger cookies (savoiardi)",
+          "Unsweetened cocoa powder for dusting"
+        ]
+      },
+      "steps": [
+        "In a bowl, whisk egg yolks and sugar until pale and thick.",
+        "Add mascarpone cheese and mix until smooth.",
+        "In another bowl, whip heavy cream to stiff peaks.",
+        "Fold whipped cream into the mascarpone mixture.",
+        "Brew coffee and let cool completely. Add sugar if desired.",
+        "Dip ladyfingers quickly in the coffee—do not soak.",
+        "Layer dipped ladyfingers in a dish.",
+        "Spread half the mascarpone cream over them.",
+        "Repeat with another layer of dipped ladyfingers and cream.",
+        "Dust with cocoa powder.",
+        "Chill for at least 4 hours.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Dip ladyfingers quickly—they should be moist but not soggy.",
+        "Use high-quality mascarpone for the creamiest texture.",
+        "The coffee should be strong and cooled.",
+        "Chill thoroughly for the flavors to meld.",
+        "Dust with cocoa just before serving."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Italy's most famous dessert",
+      "better_than_store_bought": "Commercial tiramisu has stabilizers. Homemade is creamy and luxurious.",
+      "hidden_nutrients": "Eggs provide protein. Mascarpone offers calcium."
+    },
+    {
+      "id": 221,
+      "name": "Biscotti",
+      "country": "Italy",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "24 biscotti",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "300g all-purpose flour",
+          "200g granulated sugar",
+          "1 tsp baking powder",
+          "½ tsp salt",
+          "3 large eggs",
+          "1 tsp vanilla",
+          "Zest of 1 lemon",
+          "200g whole almonds, toasted"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Mix flour, sugar, baking powder, and salt.",
+        "Add eggs, vanilla, and lemon zest. Mix to a dough.",
+        "Fold in toasted almonds.",
+        "Shape dough into two logs (about 30cm long).",
+        "Place on a lined baking sheet.",
+        "Bake for 30 minutes until golden and firm.",
+        "Cool for 10 minutes.",
+        "Slice logs diagonally into 1cm thick pieces.",
+        "Arrange slices cut-side down on the baking sheet.",
+        "Bake for another 10-15 minutes until crisp.",
+        "Cool completely."
+      ],
+      "making_tips": [
+        "Biscotti are twice-baked—this gives them their signature crunch.",
+        "Toast the almonds for a deeper flavor.",
+        "They are perfect for dipping in coffee or wine.",
+        "The second bake should be until crisp but not dark.",
+        "Store in an airtight container for weeks."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Italian coffee companion",
+      "better_than_store_bought": "Commercial biscotti are often too hard. Homemade have better texture and flavor.",
+      "hidden_nutrients": "Almonds provide vitamin E and healthy fats. Eggs offer protein."
+    },
+    {
+      "id": 222,
+      "name": "Cannoli",
+      "country": "Italy",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "12 cannoli",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Shells": [
+          "250g all-purpose flour",
+          "25g sugar",
+          "½ tsp salt",
+          "50g butter or lard",
+          "1 egg",
+          "60ml marsala wine (or white wine)",
+          "Oil for frying"
+        ],
+        "Filling": [
+          "500g ricotta cheese, drained",
+          "150g powdered sugar",
+          "50g mini chocolate chips",
+          "½ tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, sugar, and salt. Cut in butter.",
+        "Add egg and wine. Knead until smooth. Rest 30 minutes.",
+        "Roll dough very thinly (2mm). Cut into circles.",
+        "Wrap dough around cannoli tubes, sealing edges with egg white.",
+        "Heat oil to 170°C.",
+        "Fry shells until golden and crisp (2-3 minutes).",
+        "Cool slightly and remove from tubes.",
+        "Make Filling: Drain ricotta overnight.",
+        "Mix ricotta, powdered sugar, chocolate chips, and vanilla.",
+        "Fill shells just before serving.",
+        "Dust with powdered sugar."
+      ],
+      "making_tips": [
+        "Ricotta must be drained well to prevent a watery filling.",
+        "Fill shells just before serving to keep them crisp.",
+        "Traditionally, cannoli are filled through the ends.",
+        "These are a Sicilian specialty.",
+        "The shells should be light and crisp."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Sicilian icon",
+      "better_than_store_bought": "Commercial cannoli are often soggy. Homemade shells are crisp, filling is fresh.",
+      "hidden_nutrients": "Ricotta provides calcium and protein. Chocolate offers antioxidants."
+    },
+    {
+      "id": 223,
+      "name": "Panna Cotta",
+      "country": "Italy",
+      "category": "Snack",
+      "time": "45 minutes (plus chilling)",
+      "servings": "6 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Custard": [
+          "500ml heavy cream",
+          "100g granulated sugar",
+          "1 vanilla bean",
+          "2 tsp powdered gelatin",
+          "60ml cold water"
+        ],
+        "Berry Sauce": [
+          "200g mixed berries",
+          "50g sugar",
+          "1 tbsp lemon juice"
+        ]
+      },
+      "steps": [
+        "Sprinkle gelatin over cold water. Let bloom for 10 minutes.",
+        "In a pot, heat cream, sugar, and vanilla bean (split) until steaming.",
+        "Remove vanilla bean. Add gelatin and stir until dissolved.",
+        "Strain into a bowl.",
+        "Pour into ramekins or molds.",
+        "Chill for at least 4 hours until set.",
+        "Make Berry Sauce: Cook berries, sugar, and lemon juice until soft.",
+        "Unmold panna cotta onto plates.",
+        "Top with berry sauce.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Panna cotta means 'cooked cream' in Italian.",
+        "The gelatin should be just set—not too firm.",
+        "Unmold by dipping ramekins in hot water for a few seconds.",
+        "The berry sauce adds a tart contrast.",
+        "Serve chilled."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Italian cream dessert",
+      "better_than_store_bought": "Commercial panna cotta has gums and stabilizers. Homemade is silky and pure.",
+      "hidden_nutrients": "Cream provides calcium. Berries add antioxidants."
+    },
+    {
+      "id": 224,
+      "name": "Espresso",
+      "country": "Italy",
+      "category": "Beverage",
+      "time": "5 minutes",
+      "servings": "2 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "30g finely ground espresso coffee",
+          "120ml water"
+        ]
+      },
+      "steps": [
+        "Use an espresso machine or Moka pot.",
+        "For a Moka pot: Fill the lower chamber with water.",
+        "Add coffee to the filter basket.",
+        "Assemble and heat on medium.",
+        "When coffee starts bubbling, remove from heat.",
+        "Pour into small cups.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "The grind should be fine but not too fine.",
+        "Water should be hot but not boiling for a Moka pot.",
+        "The crema (foam) is the sign of a good espresso.",
+        "Italian espresso is served in small cups.",
+        "It's meant to be drunk quickly."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Italy's soul in a cup",
+      "better_than_store_bought": "Coffee shops can't match the ritual of a homemade espresso.",
+      "hidden_nutrients": "Coffee provides antioxidants."
+    },
+    {
+      "id": 225,
+      "name": "Churros con Chocolate (Spanish)",
+      "country": "Spain",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "12 churros",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "250ml water",
+          "60g unsalted butter",
+          "25g sugar",
+          "½ tsp salt",
+          "150g all-purpose flour",
+          "2 large eggs"
+        ],
+        "Chocolate Sauce": [
+          "200g dark chocolate",
+          "200ml heavy cream",
+          "1 tbsp sugar"
+        ],
+        "Coating": [
+          "100g sugar",
+          "2 tsp cinnamon"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Dough: Boil water, butter, sugar, and salt. Add flour and stir.",
+        "Add eggs one at a time, beating well.",
+        "Transfer to a piping bag with a star nozzle.",
+        "Heat oil to 170°C.",
+        "Pipe dough into oil, cutting with scissors.",
+        "Fry until golden and crisp.",
+        "Drain on paper towels.",
+        "Mix sugar and cinnamon. Roll churros in the mixture.",
+        "Make Sauce: Heat cream and chocolate until smooth.",
+        "Serve warm with the chocolate sauce."
+      ],
+      "making_tips": [
+        "Spanish churros are traditionally eaten with thick chocolate.",
+        "The chocolate sauce should be thick and rich.",
+        "Use a star nozzle for the signature ridges.",
+        "Best served fresh and hot.",
+        "This is the Spanish breakfast treat."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Spain's iconic treat",
+      "better_than_store_bought": "Commercial churros are often frozen. Homemade are fresh and crisp.",
+      "hidden_nutrients": "Dark chocolate provides antioxidants. Eggs offer protein."
+    },
+    {
+      "id": 226,
+      "name": "Turrón (Spanish Nougat)",
+      "country": "Spain",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "300g honey",
+          "200g granulated sugar",
+          "2 egg whites",
+          "300g whole almonds, toasted",
+          "1 tsp vanilla",
+          "Zest of 1 lemon",
+          "Wafer paper (optional)"
+        ]
+      },
+      "steps": [
+        "Toast almonds lightly.",
+        "In a heavy pot, combine honey, sugar, and 60ml water. Heat to 150°C.",
+        "In a separate bowl, beat egg whites to soft peaks.",
+        "Slowly pour hot syrup into egg whites while beating.",
+        "Add almonds, vanilla, and lemon zest.",
+        "Continue beating until the mixture thickens.",
+        "Pour into a mold lined with wafer paper.",
+        "Press firmly.",
+        "Let cool completely.",
+        "Cut into pieces."
+      ],
+      "making_tips": [
+        "Turrón is a Spanish Christmas tradition.",
+        "The temperature is critical—use a candy thermometer.",
+        "Work quickly as it sets fast.",
+        "There are two types: hard (Alicante) and soft (Jijona).",
+        "The wafer paper is traditional but optional."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Spanish Christmas tradition",
+      "better_than_store_bought": "Commercial turrón has additives. Homemade is pure honey and almond flavor.",
+      "hidden_nutrients": "Almonds provide vitamin E and healthy fats. Honey has trace minerals."
+    },
+    {
+      "id": 227,
+      "name": "Horchata de Chufa (Spanish)",
+      "country": "Spain",
+      "category": "Beverage",
+      "time": "8 hours (includes soaking)",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "250g tiger nuts (chufas)",
+          "1 litre water",
+          "100g sugar",
+          "1 cinnamon stick"
+        ]
+      },
+      "steps": [
+        "Rinse tiger nuts and soak in water overnight.",
+        "Drain and rinse again.",
+        "Blend tiger nuts with 500ml fresh water until smooth.",
+        "Strain through a cheesecloth or nut milk bag.",
+        "Add remaining water, sugar, and cinnamon.",
+        "Stir to dissolve sugar.",
+        "Chill thoroughly.",
+        "Serve cold over ice."
+      ],
+      "making_tips": [
+        "Horchata is Spain's favorite summer drink, especially from Valencia.",
+        "Tiger nuts should be soaked thoroughly.",
+        "Straining is essential for a smooth drink.",
+        "The cinnamon gives it a lovely warmth.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Spanish summer classic",
+      "better_than_store_bought": "Bottled horchata has additives. Homemade is pure and creamy.",
+      "hidden_nutrients": "Tiger nuts provide fiber and healthy fats. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 228,
+      "name": "Soft Pretzels (German)",
+      "country": "Germany",
+      "category": "Snack",
+      "time": "2 hours (includes rising)",
+      "servings": "12 pretzels",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "500g bread flour",
+          "7g instant yeast",
+          "50g sugar",
+          "1 tsp salt",
+          "300ml warm water",
+          "50g unsalted butter, melted"
+        ],
+        "Lye Bath": [
+          "2 litres water",
+          "2 tbsp baking soda"
+        ],
+        "Topping": [
+          "Coarse salt",
+          "Melted butter"
+        ]
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, and salt. Add water and butter. Knead until smooth.",
+        "Cover and let rise 1 hour.",
+        "Punch down dough. Divide into 12 pieces.",
+        "Roll each into a rope and shape into a pretzel.",
+        "Preheat oven to 220°C.",
+        "Make Lye Bath: Boil water with baking soda.",
+        "Dip each pretzel in the boiling water for 30 seconds.",
+        "Place on a baking sheet. Sprinkle with salt.",
+        "Bake for 12-15 minutes until golden.",
+        "Brush with melted butter."
+      ],
+      "making_tips": [
+        "The baking soda bath gives pretzels their signature crust.",
+        "Don't skip the bath—it's essential.",
+        "The pretzels should be golden brown.",
+        "Serve warm with butter.",
+        "German pretzels are a beer garden favorite."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – German baking tradition",
+      "better_than_store_bought": "Commercial pretzels are often dry. Homemade are soft and fresh.",
+      "hidden_nutrients": "Flour provides carbohydrates. Butter offers vitamin A."
+    },
+    {
+      "id": 229,
+      "name": "Apfelstrudel (Apple Strudel)",
+      "country": "Germany/Austria",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "8 slices",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "250g all-purpose flour",
+          "1 egg",
+          "2 tbsp vegetable oil",
+          "Pinch of salt",
+          "120ml warm water"
+        ],
+        "Filling": [
+          "6-8 apples, peeled and sliced",
+          "100g sugar",
+          "100g breadcrumbs",
+          "50g raisins",
+          "1 tsp cinnamon",
+          "Zest of 1 lemon",
+          "100g butter, melted"
+        ],
+        "Topping": [
+          "Powdered sugar"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Mix flour, egg, oil, salt, and water. Knead until smooth. Rest 1 hour.",
+        "Make Filling: Mix apples, sugar, cinnamon, raisins, and lemon zest.",
+        "Roll pastry as thin as possible on a floured cloth.",
+        "Sprinkle breadcrumbs over the pastry.",
+        "Spread filling over the bottom third.",
+        "Fold sides over and roll up using the cloth.",
+        "Place on a baking sheet. Brush with melted butter.",
+        "Bake at 190°C for 40-45 minutes until golden.",
+        "Dust with powdered sugar.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "The pastry must be rolled paper-thin—this takes practice.",
+        "Breadcrumbs absorb juice and prevent sogginess.",
+        "Strudel is originally from Austria but beloved in Germany.",
+        "Serve warm with vanilla sauce.",
+        "The powdered sugar is a must."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – German-Austrian classic",
+      "better_than_store_bought": "Commercial strudel is often soggy. Homemade has crisp pastry and fresh apple filling.",
+      "hidden_nutrients": "Apples provide fiber and vitamin C. Raisins offer iron."
+    },
+    {
+      "id": 230,
+      "name": "Scones with Jam (British)",
+      "country": "United Kingdom",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "8 scones",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Dough": [
+          "350g self-raising flour",
+          "1 tsp baking powder",
+          "80g unsalted butter, cold",
+          "50g sugar",
+          "240ml milk",
+          "1 egg (for egg wash)"
+        ],
+        "Toppings": [
+          "Strawberry jam",
+          "Clotted cream"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 220°C.",
+        "Sift flour and baking powder into a bowl.",
+        "Cut butter into the flour until it resembles breadcrumbs.",
+        "Add sugar and mix.",
+        "Gradually add milk and mix to a soft dough.",
+        "Turn onto a floured surface and knead gently.",
+        "Roll to 2cm thickness. Cut into rounds.",
+        "Place on a baking sheet.",
+        "Brush with egg wash.",
+        "Bake for 12-15 minutes until golden.",
+        "Serve with jam and clotted cream."
+      ],
+      "making_tips": [
+        "Handle the dough gently for a light texture.",
+        "Don't overwork the dough or the scones will be tough.",
+        "The debate over jam vs cream first is classic.",
+        "Serve warm, fresh from the oven.",
+        "This is the British tea-time tradition."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – British tea-time icon",
+      "better_than_store_bought": "Commercial scones can be dry. Homemade are light and buttery.",
+      "hidden_nutrients": "Milk provides calcium. Jam offers antioxidants."
+    },
+    {
+      "id": 231,
+      "name": "English Breakfast Tea",
+      "country": "United Kingdom",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 English breakfast tea bags (or 2 tsp loose leaf)",
+          "500ml boiling water",
+          "Milk (to taste)",
+          "Sugar (to taste)"
+        ]
+      },
+      "steps": [
+        "Boil fresh water.",
+        "Warm the teapot with a little boiling water, then discard.",
+        "Add tea bags or loose tea.",
+        "Pour boiling water over the tea.",
+        "Steep for 3-5 minutes.",
+        "Strain into cups.",
+        "Add milk and sugar to taste.",
+        "Serve hot."
+      ],
+      "making_tips": [
+        "Use fresh, cold water—never reboil.",
+        "The tea should be strong enough to taste through the milk.",
+        "Milk is added after the tea.",
+        "This is the classic British cuppa.",
+        "Steep for exactly 3 minutes for the perfect brew."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – The great British brew",
+      "better_than_store_bought": "Tea bags from cafes can't match a properly brewed pot.",
+      "hidden_nutrients": "Tea provides antioxidants. Milk adds calcium."
+    },
+    {
+      "id": 232,
+      "name": "Baklava (Greek)",
+      "country": "Greece",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "24 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "1 packet phyllo pastry (about 20 sheets)",
+          "250g unsalted butter, melted"
+        ],
+        "Filling": [
+          "400g walnuts (or a mix of nuts), finely chopped",
+          "150g sugar",
+          "1 tsp cinnamon"
+        ],
+        "Syrup": [
+          "200g sugar",
+          "200ml water",
+          "1 tbsp honey",
+          "1 cinnamon stick",
+          "1 lemon peel"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 160°C.",
+        "Mix nuts, sugar, and cinnamon.",
+        "Butter a baking dish.",
+        "Layer 10 sheets of phyllo, brushing each with butter.",
+        "Spread half the nut mixture.",
+        "Layer 5 more sheets with butter.",
+        "Spread remaining nut mixture.",
+        "Top with remaining phyllo sheets, buttering each.",
+        "Cut into diamond shapes before baking.",
+        "Bake for 45-50 minutes until golden.",
+        "Make Syrup: Boil sugar, water, honey, cinnamon, and lemon for 15 minutes.",
+        "Pour hot syrup over the baked baklava.",
+        "Let soak for several hours.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Phyllo pastry dries out quickly—cover with a damp cloth.",
+        "The syrup should be hot, the baklava hot—this is essential.",
+        "Let it soak overnight for the best results.",
+        "The nuts should be finely chopped for texture.",
+        "Greece claims baklava as their own."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Greek Mediterranean classic",
+      "better_than_store_bought": "Commercial baklava is often dry. Homemade is syrup-soaked and nutty.",
+      "hidden_nutrients": "Walnuts provide healthy fats and omega-3s. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 233,
+      "name": "Loukoumades",
+      "country": "Greece",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "7g instant yeast",
+          "50g sugar",
+          "½ tsp salt",
+          "300ml warm water",
+          "1 tsp vanilla"
+        ],
+        "Syrup": [
+          "200g honey",
+          "100ml water",
+          "1 cinnamon stick"
+        ],
+        "Topping": [
+          "Ground cinnamon",
+          "Chopped walnuts"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, and salt. Add warm water and vanilla.",
+        "Beat until smooth and sticky. Let rise 1 hour.",
+        "Heat oil to 170°C.",
+        "Using a spoon, drop small spoonfuls of dough into hot oil.",
+        "Fry until golden and puffed (2-3 minutes).",
+        "Drain on paper towels.",
+        "Make Syrup: Heat honey, water, and cinnamon.",
+        "Drizzle syrup over the warm loukoumades.",
+        "Sprinkle with cinnamon and walnuts.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "The batter should be thick and sticky.",
+        "Don't overcrowd the fryer.",
+        "These are Greek honey doughnuts.",
+        "Traditionally served during celebrations.",
+        "Best served fresh."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Greek honey doughnut",
+      "better_than_store_bought": "Street versions can be greasy. Homemade are light and fragrant.",
+      "hidden_nutrients": "Walnuts provide healthy fats. Honey has antibacterial properties."
+    },
+    {
+      "id": 234,
+      "name": "Greek Frappe",
+      "country": "Greece",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 tsp instant coffee (or Greek frappe coffee)",
+          "100ml cold water",
+          "Sugar (to taste)",
+          "120ml cold milk (optional)",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "In a shaker or jar, combine coffee, water, and sugar.",
+        "Shake vigorously for 30 seconds until frothy.",
+        "Pour into tall glasses.",
+        "Add ice cubes.",
+        "Add cold milk if desired.",
+        "Serve with a straw."
+      ],
+      "making_tips": [
+        "The shake creates the signature foam.",
+        "Frappe is Greece's favorite iced coffee.",
+        "It should be frothy and cold.",
+        "Sugar is traditionally added to the coffee before shaking.",
+        "Serve with a tall glass and straw."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Greece's national coffee",
+      "better_than_store_bought": "Cafe versions can't match the frothy homemade version.",
+      "hidden_nutrients": "Coffee provides antioxidants. Milk adds calcium."
+    },
+    {
+      "id": 235,
+      "name": "Stroopwafel (Dutch)",
+      "country": "Netherlands",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "12 stroopwafels",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "300g all-purpose flour",
+          "100g unsalted butter, softened",
+          "100g granulated sugar",
+          "1 large egg",
+          "1 tsp yeast",
+          "1 tsp cinnamon",
+          "Pinch of salt",
+          "60ml warm milk"
+        ],
+        "Syrup": [
+          "200g dark corn syrup (or golden syrup)",
+          "100g brown sugar",
+          "60g unsalted butter"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, sugar, yeast, cinnamon, and salt.",
+        "Add butter, egg, and milk. Knead until smooth.",
+        "Cover and rest 1 hour.",
+        "Make Syrup: Heat syrup, brown sugar, and butter until combined. Keep warm.",
+        "Divide dough into 24 small balls.",
+        "Preheat a waffle iron.",
+        "Press two balls together to form one waffle.",
+        "Cook for 1 minute until golden.",
+        "Carefully split the waffle in half.",
+        "Spread warm syrup on one half and top with the other.",
+        "Press gently to seal.",
+        "Cool on a rack."
+      ],
+      "making_tips": [
+        "A waffle iron is essential for authentic stroopwafels.",
+        "The waffles should be thin and crisp.",
+        "Splitting the waffle while hot is the tricky part.",
+        "The syrup should be warm for spreading.",
+        "Traditionally, placed on a cup of coffee to soften."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Dutch sweet icon",
+      "better_than_store_bought": "Commercial stroopwafels can be stale. Homemade are fresh and caramel-filled.",
+      "hidden_nutrients": "Eggs provide protein. Syrup offers quick energy."
+    },
+    {
+      "id": 236,
+      "name": "Dutch Hot Chocolate",
+      "country": "Netherlands",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml milk",
+          "100g dark Dutch cocoa powder",
+          "50g sugar",
+          "Whipped cream",
+          "Cinnamon or chocolate shavings"
+        ]
+      },
+      "steps": [
+        "In a pot, whisk cocoa powder, sugar, and a little cold milk to a paste.",
+        "Gradually add remaining milk while whisking.",
+        "Heat over medium heat until hot—do not boil.",
+        "Pour into cups.",
+        "Top with whipped cream.",
+        "Sprinkle with cinnamon or chocolate shavings.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Dutch cocoa is extra rich and dark.",
+        "Don't boil the milk—scald it gently.",
+        "This is a winter favorite in the Netherlands.",
+        "The whipped cream is essential.",
+        "Serve with speculaas cookies."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Dutch winter favorite",
+      "better_than_store_bought": "Cafe versions use syrups. Homemade uses real Dutch cocoa.",
+      "hidden_nutrients": "Milk provides calcium. Cocoa offers antioxidants."
+    },
+    {
+      "id": 237,
+      "name": "Pastel de Nata (Portuguese Custard Tart)",
+      "country": "Portugal",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "12 tarts",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "300g all-purpose flour",
+          "150g unsalted butter, cold",
+          "1 tsp salt",
+          "120ml cold water"
+        ],
+        "Custard": [
+          "500ml milk",
+          "200g sugar",
+          "6 egg yolks",
+          "2 tbsp cornstarch",
+          "1 lemon peel",
+          "1 cinnamon stick"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Rub butter into flour and salt. Add water. Rest 30 minutes.",
+        "Roll pastry and fold into layers. Rest again.",
+        "Make Custard: Heat milk, sugar, lemon peel, and cinnamon until steaming.",
+        "Remove peel and cinnamon.",
+        "In a bowl, whisk egg yolks and cornstarch.",
+        "Slowly pour hot milk into the egg mixture.",
+        "Return to the pot and cook until thick.",
+        "Preheat oven to 250°C.",
+        "Roll pastry thinly and line tart tins.",
+        "Fill with custard.",
+        "Bake for 12-15 minutes until the tops are charred and blistered.",
+        "Cool slightly before removing."
+      ],
+      "making_tips": [
+        "The pastry should be flaky and thin.",
+        "The filling should be smooth and silky.",
+        "The charred spots are the hallmark of pastel de nata.",
+        "Serve warm with a dusting of cinnamon.",
+        "These are from Belém, Lisbon."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Portugal's most famous pastry",
+      "better_than_store_bought": "Commercial tarts are often dry. Homemade have the signature blister and custard.",
+      "hidden_nutrients": "Egg yolks provide protein and choline. Milk offers calcium."
+    },
+    {
+      "id": 238,
+      "name": "Arroz Doce (Portuguese Rice Pudding)",
+      "country": "Portugal",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "6 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g short-grain rice",
+          "1 litre milk",
+          "200g sugar",
+          "1 cinnamon stick",
+          "2 lemon peels",
+          "4 egg yolks"
+        ],
+        "Topping": [
+          "Ground cinnamon"
+        ]
+      },
+      "steps": [
+        "Rinse rice.",
+        "In a pot, combine rice, milk, sugar, cinnamon stick, and lemon peel.",
+        "Cook over medium heat, stirring frequently.",
+        "Simmer for 40-45 minutes until rice is tender.",
+        "Remove cinnamon and lemon peel.",
+        "In a bowl, whisk egg yolks.",
+        "Temper yolks with a little hot rice mixture.",
+        "Fold back into the pot.",
+        "Cook for another 5 minutes.",
+        "Pour into a dish.",
+        "Sprinkle with cinnamon.",
+        "Serve warm or chilled."
+      ],
+      "making_tips": [
+        "Arroz doce is Portugal's comfort dessert.",
+        "Stir constantly to prevent sticking.",
+        "The egg yolks make it rich.",
+        "Traditionally served at Christmas.",
+        "Serve with a cross of cinnamon on top."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Portuguese comfort dessert",
+      "better_than_store_bought": "Canned rice pudding can't compare. Homemade is creamy and comforting.",
+      "hidden_nutrients": "Milk provides calcium. Eggs offer protein."
+    },
+    {
+      "id": 239,
+      "name": "Baklava (Turkish)",
+      "country": "Turkey",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "24 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "1 packet phyllo pastry",
+          "250g unsalted butter, melted"
+        ],
+        "Filling": [
+          "400g pistachios, finely ground"
+        ],
+        "Syrup": [
+          "200g sugar",
+          "200ml water",
+          "1 tbsp lemon juice"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 160°C.",
+        "Butter a baking dish.",
+        "Layer 10 phyllo sheets, brushing each with butter.",
+        "Spread a layer of pistachios.",
+        "Layer 5 more phyllo sheets.",
+        "Spread remaining pistachios.",
+        "Top with remaining phyllo sheets.",
+        "Cut into diamond shapes.",
+        "Bake for 45-50 minutes until golden.",
+        "Make Syrup: Boil sugar, water, and lemon juice for 15 minutes.",
+        "Pour syrup over the hot baklava.",
+        "Let soak for several hours.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Turkish baklava uses pistachios—it's the signature.",
+        "The syrup should be cool; the baklava hot.",
+        "The diamond cut is traditional.",
+        "Turkey and Greece both claim baklava.",
+        "Serve with Turkish coffee."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Turkish sweet delight",
+      "better_than_store_bought": "Commercial baklava often uses peanuts. Homemade uses real pistachios.",
+      "hidden_nutrients": "Pistachios provide healthy fats and protein."
+    },
+    {
+      "id": 240,
+      "name": "Lokum (Turkish Delight)",
+      "country": "Turkey",
+      "category": "Snack",
+      "time": "2 hours (plus setting)",
+      "servings": "25 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Main": [
+          "500g granulated sugar",
+          "500ml water",
+          "100g cornstarch",
+          "1 tsp cream of tartar",
+          "1 tbsp rose water",
+          "100g pistachios, chopped",
+          "Powdered sugar for dusting"
+        ]
+      },
+      "steps": [
+        "In a pot, dissolve sugar in 250ml water. Bring to boil and add cornstarch mixture.",
+        "Dissolve cornstarch in remaining water with cream of tartar.",
+        "Slowly add to the sugar syrup, stirring constantly.",
+        "Cook for 30-40 minutes until thick and translucent.",
+        "Add rose water and pistachios.",
+        "Pour into a lined and greased pan.",
+        "Let set for 2-3 hours.",
+        "Cut into squares.",
+        "Dust with powdered sugar.",
+        "Store in an airtight container."
+      ],
+      "making_tips": [
+        "Lokum means 'mouthful' in Turkish.",
+        "This is a labor of love—stirring takes patience.",
+        "The consistency should be soft and chewy.",
+        "Rose water is the classic flavor.",
+        "Dust generously with powdered sugar to prevent sticking."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Turkish iconic candy",
+      "better_than_store_bought": "Commercial lokum has gums. Homemade is soft and authentic.",
+      "hidden_nutrients": "Pistachios provide healthy fats. Rose water has trace antioxidants."
+    },
+    {
+      "id": 241,
+      "name": "Turkish Coffee",
+      "country": "Turkey",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "2 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "2 tbsp very finely ground Turkish coffee",
+          "200ml cold water",
+          "2 tsp sugar (to taste)",
+          "1 cardamom pod (optional)"
+        ]
+      },
+      "steps": [
+        "Combine coffee, water, sugar, and cardamom in a cezve (Turkish coffee pot).",
+        "Stir gently.",
+        "Heat over medium heat until it foams.",
+        "Remove from heat just before boiling over.",
+        "Allow foam to settle.",
+        "Return to heat and foam again.",
+        "Pour into small cups, distributing the foam.",
+        "Let the grounds settle for 1 minute.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "The coffee must be very finely ground.",
+        "The foam is the sign of perfect Turkish coffee.",
+        "Traditionally, served with a glass of water.",
+        "The grounds should settle before drinking.",
+        "This is an UNESCO intangible cultural heritage."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Turkish cultural treasure",
+      "better_than_store_bought": "The ritual is everything—no cafe can replicate this.",
+      "hidden_nutrients": "Coffee provides antioxidants. Cardamom aids digestion."
+    },
+    {
+      "id": 242,
+      "name": "Medovik (Russian Honey Cake)",
+      "country": "Russia",
+      "category": "Snack",
+      "time": "2 hours (plus chilling)",
+      "servings": "10 slices",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Cake Layers": [
+          "300g all-purpose flour",
+          "150g sugar",
+          "150g honey",
+          "100g unsalted butter",
+          "2 large eggs",
+          "1 tsp baking soda"
+        ],
+        "Cream": [
+          "500g sour cream",
+          "200g powdered sugar",
+          "1 tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Make Layers: Melt butter, sugar, and honey. Cool slightly.",
+        "Add eggs, baking soda, and flour. Mix to dough.",
+        "Divide dough into 8 pieces.",
+        "Roll each piece into a thin circle.",
+        "Bake each layer for 5-7 minutes until golden.",
+        "Trim layers to size.",
+        "Make Cream: Beat sour cream, powdered sugar, and vanilla.",
+        "Assemble: Stack layers with cream between each.",
+        "Cover the whole cake with cream.",
+        "Crush the trimmings and press onto the sides.",
+        "Chill for at least 4 hours."
+      ],
+      "making_tips": [
+        "Medovik is Russia's favorite cake.",
+        "The layers should be thin and crisp.",
+        "The cream softens the layers as it chills.",
+        "Crushed trimmings are traditional decoration.",
+        "It's better the next day."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Russian beloved cake",
+      "better_than_store_bought": "Commercial medovik is often dry. Homemade is moist and honey-scented.",
+      "hidden_nutrients": "Sour cream provides calcium. Honey has trace minerals."
+    },
+    {
+      "id": 243,
+      "name": "Kvass (Sweetened Fermented Rye Drink)",
+      "country": "Russia",
+      "category": "Beverage",
+      "time": "2 hours (plus fermentation)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "200g rye bread, toasted",
+          "1 litre water",
+          "100g sugar",
+          "1 tbsp raisins",
+          "7g active dry yeast (or starter)"
+        ]
+      },
+      "steps": [
+        "Toast rye bread until dark and crisp.",
+        "Place bread in a large jar. Add water, sugar, and raisins.",
+        "Add yeast and stir.",
+        "Cover and let ferment for 24-48 hours at room temperature.",
+        "Strain the liquid.",
+        "Chill thoroughly.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Kvass is Russia's traditional summer drink.",
+        "The fermentation creates a slight fizz.",
+        "It's mildly sweet and tangy.",
+        "Raisins help the fermentation.",
+        "Traditionally drunk as a thirst-quencher."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Russian traditional drink",
+      "better_than_store_bought": "Bottled kvass has preservatives. Homemade is effervescent and fresh.",
+      "hidden_nutrients": "Rye bread provides B vitamins. The drink contains probiotics."
+    },
+    {
+      "id": 244,
+      "name": "Blini with Jam (Russian Pancakes)",
+      "country": "Russia",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "12 blini",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Batter": [
+          "200g all-purpose flour",
+          "2 large eggs",
+          "500ml milk",
+          "50g sugar",
+          "1 tsp salt",
+          "2 tbsp vegetable oil"
+        ],
+        "Toppings": [
+          "Sour cream",
+          "Strawberry jam",
+          "Butter"
+        ]
+      },
+      "steps": [
+        "Whisk eggs, sugar, and salt.",
+        "Add flour alternately with milk.",
+        "Whisk until smooth batter.",
+        "Add oil and mix.",
+        "Heat a non-stick pan.",
+        "Pour a ladle of batter and swirl.",
+        "Cook until bubbles appear, then flip.",
+        "Cook other side briefly.",
+        "Serve with sour cream and jam."
+      ],
+      "making_tips": [
+        "Blini are thin Russian pancakes.",
+        "The batter should be thin and pourable.",
+        "They are traditionally served with sour cream.",
+        "Jam adds a sweet touch.",
+        "These are often eaten during Maslenitsa (butter festival)."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Russian pancake tradition",
+      "better_than_store_bought": "Homemade blini are fresh and delicate.",
+      "hidden_nutrients": "Eggs provide protein. Milk offers calcium."
+    }
+  ]
+}

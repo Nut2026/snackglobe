@@ -1,0 +1,1053 @@
+{
+  "recipes": [
+    {
+      "id": 245,
+      "name": "ANZAC Biscuits",
+      "country": "Australia",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "24 biscuits",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "150g rolled oats",
+          "100g desiccated coconut",
+          "150g all-purpose flour",
+          "200g brown sugar",
+          "125g unsalted butter",
+          "2 tbsp golden syrup",
+          "1 tsp baking soda",
+          "2 tbsp boiling water"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 160°C. Line baking sheets with parchment paper.",
+        "In a bowl, mix oats, coconut, flour, and sugar.",
+        "In a saucepan, melt butter and golden syrup together.",
+        "Dissolve baking soda in boiling water and add to the butter mixture.",
+        "Pour the wet mixture into the dry ingredients and mix well.",
+        "Roll tablespoon-sized portions into balls and place on baking sheets.",
+        "Flatten slightly with a fork.",
+        "Bake for 18-20 minutes until golden.",
+        "Cool on the baking sheet for 5 minutes, then transfer to a wire rack."
+      ],
+      "making_tips": [
+        "ANZAC biscuits were originally sent to soldiers in World War I.",
+        "They contain no eggs so they kept well during transport.",
+        "The biscuits should be chewy in the center and crisp at the edges.",
+        "Golden syrup is essential for the authentic flavor.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Australian wartime tradition",
+      "better_than_store_bought": "Commercial ANZAC biscuits are often too sweet. Homemade have the perfect texture and oat flavor.",
+      "hidden_nutrients": "Oats provide fiber and B vitamins. Coconut offers healthy fats."
+    },
+    {
+      "id": 246,
+      "name": "Lamingtons",
+      "country": "Australia",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "12 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cake": [
+          "200g unsalted butter, softened",
+          "200g sugar",
+          "4 large eggs",
+          "1 tsp vanilla",
+          "300g self-raising flour",
+          "120ml milk"
+        ],
+        "Chocolate Coating": [
+          "400g icing sugar",
+          "60g cocoa powder",
+          "150ml boiling water",
+          "30g unsalted butter, melted"
+        ],
+        "Coating": [
+          "200g desiccated coconut"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C. Grease a 20x30cm baking pan.",
+        "Make Cake: Beat butter and sugar until fluffy. Add eggs one at a time.",
+        "Add vanilla. Fold in flour alternately with milk.",
+        "Pour into the pan and bake for 25-30 minutes.",
+        "Cool completely. Cut into 12 squares.",
+        "Make Chocolate Coating: Sift icing sugar and cocoa. Add boiling water and butter. Mix until smooth.",
+        "Dip each cake square into the chocolate coating.",
+        "Roll immediately in desiccated coconut.",
+        "Place on a wire rack to set.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "The cake should be slightly dry to absorb the chocolate coating.",
+        "Work quickly—the chocolate sets fast.",
+        "Coconut should be fine and fresh.",
+        "Lamingtons are an Australian icon.",
+        "Can be filled with jam or cream."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Australian national cake",
+      "better_than_store_bought": "Commercial lamingtons are often dry. Homemade are fresh and chocolatey.",
+      "hidden_nutrients": "Cocoa provides antioxidants. Coconut offers healthy fats."
+    },
+    {
+      "id": 247,
+      "name": "Pavlova",
+      "country": "Australia/New Zealand",
+      "category": "Snack",
+      "time": "2 hours (includes cooling)",
+      "servings": "8 servings",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Meringue": [
+          "4 large egg whites",
+          "250g granulated sugar",
+          "1 tsp white vinegar",
+          "1 tsp cornstarch",
+          "1 tsp vanilla"
+        ],
+        "Topping": [
+          "300ml heavy cream",
+          "2 tbsp powdered sugar",
+          "Mixed fresh fruit (passionfruit, strawberries, kiwi)"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 150°C. Line a baking sheet with parchment.",
+        "Beat egg whites until stiff peaks form.",
+        "Gradually add sugar, beating until thick and glossy.",
+        "Fold in vinegar, cornstarch, and vanilla.",
+        "Spoon onto the baking sheet into a round mound.",
+        "Spread into a circle, creating a slight well in the center.",
+        "Reduce oven temperature to 120°C.",
+        "Bake for 1 hour 15 minutes.",
+        "Turn off oven and leave pavlova inside to cool completely.",
+        "Whip cream with powdered sugar to soft peaks.",
+        "Top pavlova with cream and fresh fruit.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "The vinegar and cornstarch give pavlova its marshmallow center.",
+        "Don't open the oven door during baking.",
+        "The pavlova should be crisp on the outside and soft inside.",
+        "The debate between Australia and New Zealand over its origin continues.",
+        "Top with passionfruit for the classic presentation."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – ANZAC dessert icon",
+      "better_than_store_bought": "Store-bought pavlova is often too crisp. Homemade has the perfect marshmallow interior.",
+      "hidden_nutrients": "Egg whites provide protein. Fresh fruit adds vitamins and antioxidants."
+    },
+    {
+      "id": 248,
+      "name": "Fairy Bread",
+      "country": "Australia",
+      "category": "Snack",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 slices white bread",
+          "60g unsalted butter, softened",
+          "50g hundreds and thousands (rainbow sprinkles)"
+        ]
+      },
+      "steps": [
+        "Spread butter generously on each slice of bread.",
+        "Sprinkle hundreds and thousands over the buttered surface.",
+        "Press gently to make the sprinkles stick.",
+        "Cut into triangles or fingers.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Fairy bread is Australia's iconic children's party food.",
+        "White bread is traditional—use the freshest bread.",
+        "The butter should be soft enough to spread but not melted.",
+        "The sprinkles must be round (hundreds and thousands).",
+        "Never use any other type of sprinkle—this is law."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Australian childhood icon",
+      "better_than_store_bought": "This is a homemade classic that can't be bought.",
+      "hidden_nutrients": "Butter provides vitamin A. The dish is a nostalgic treat."
+    },
+    {
+      "id": 249,
+      "name": "Flat White",
+      "country": "Australia/New Zealand",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "4 tbsp freshly ground espresso coffee",
+          "240ml hot water",
+          "240ml milk"
+        ]
+      },
+      "steps": [
+        "Brew a strong espresso using a machine or stovetop pot.",
+        "Heat milk until steaming. Froth until microfoam forms.",
+        "Pour espresso into cups.",
+        "Pour steamed milk over the espresso, holding back the foam.",
+        "Top with a thin layer of microfoam.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "The flat white has a thin layer of microfoam—not thick like a latte.",
+        "The coffee should be strong and rich.",
+        "The milk should be velvety, not foamy.",
+        "Originating in Australia and New Zealand.",
+        "A true flat white is served in a tulip cup."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Aussie coffee culture",
+      "better_than_store_bought": "Cafe versions often use too much foam. Homemade has the perfect balance.",
+      "hidden_nutrients": "Coffee provides antioxidants. Milk adds calcium."
+    },
+    {
+      "id": 250,
+      "name": "Lemon Lime Bitters",
+      "country": "Australia",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 lemon",
+          "1 lime",
+          "50ml simple syrup",
+          "500ml soda water",
+          "8 drops aromatic bitters",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice lemon and lime.",
+        "In a shaker, combine citrus juice and simple syrup.",
+        "Shake briefly.",
+        "Pour into glasses filled with ice.",
+        "Top with soda water.",
+        "Add bitters on top.",
+        "Garnish with lemon and lime slices.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Aromatic bitters are essential—this is what makes it a 'bitters' drink.",
+        "Lemon lime bitters is Australia's pub favorite.",
+        "The non-alcoholic version is just as popular.",
+        "Use fresh citrus for the best flavor.",
+        "The bitters should be added last."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Australian pub classic",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresh and balanced.",
+      "hidden_nutrients": "Lemons and limes provide vitamin C."
+    },
+    {
+      "id": 251,
+      "name": "Afghan Cookies (New Zealand)",
+      "country": "New Zealand",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "20 cookies",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Cookies": [
+          "200g all-purpose flour",
+          "50g cocoa powder",
+          "200g butter, softened",
+          "150g sugar",
+          "100g cornflakes, crushed",
+          "1 tsp vanilla"
+        ],
+        "Icing": [
+          "200g icing sugar",
+          "30g cocoa powder",
+          "60g butter, melted",
+          "2 tbsp milk"
+        ],
+        "Topping": [
+          "Walnut halves"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C. Line baking sheets.",
+        "Cream butter and sugar until fluffy. Add vanilla.",
+        "Sift flour and cocoa. Add to butter mixture.",
+        "Fold in crushed cornflakes.",
+        "Roll into balls and place on baking sheets.",
+        "Flatten slightly.",
+        "Bake for 15-18 minutes.",
+        "Cool completely.",
+        "Make Icing: Mix icing sugar, cocoa, butter, and milk until smooth.",
+        "Spread icing on each cookie.",
+        "Top with a walnut half."
+      ],
+      "making_tips": [
+        "Afghan cookies are a New Zealand icon.",
+        "Cornflakes give them their unique texture.",
+        "The icing should be thick and glossy.",
+        "Each cookie must have a walnut half on top.",
+        "They are a Kiwi baking classic."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – New Zealand baking icon",
+      "better_than_store_bought": "Commercial versions can't match the homemade chocolate-crunch texture.",
+      "hidden_nutrients": "Walnuts provide healthy fats and omega-3s. Cocoa offers antioxidants."
+    },
+    {
+      "id": 252,
+      "name": "Hokey Pokey Ice Cream",
+      "country": "New Zealand",
+      "category": "Snack",
+      "time": "30 minutes (plus freezing)",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Ice Cream Base": [
+          "500ml heavy cream",
+          "1 can (395g) sweetened condensed milk",
+          "2 tsp vanilla"
+        ],
+        "Hokey Pokey (Honeycomb)": [
+          "150g sugar",
+          "50ml golden syrup",
+          "2 tsp baking soda"
+        ]
+      },
+      "steps": [
+        "Make Hokey Pokey: Heat sugar and golden syrup in a pot until dissolved.",
+        "Boil until it turns golden and reaches 150°C.",
+        "Remove from heat. Add baking soda and stir vigorously—it will foam.",
+        "Pour onto a baking sheet. Cool and break into pieces.",
+        "Make Ice Cream: Whip heavy cream to soft peaks.",
+        "Fold in condensed milk and vanilla.",
+        "Fold in the hokey pokey pieces.",
+        "Pour into a container and freeze for at least 4 hours.",
+        "Serve scoops of the ice cream."
+      ],
+      "making_tips": [
+        "Hokey pokey is the Kiwi name for honeycomb.",
+        "The baking soda creates the bubbles.",
+        "Work quickly when adding baking soda—it sets fast.",
+        "The ice cream should be creamy with crunchy honeycomb.",
+        "A New Zealand summer favorite."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – New Zealand favorite",
+      "better_than_store_bought": "Commercial hokey pokey ice cream often lacks crunchy bits. Homemade has generous pieces.",
+      "hidden_nutrients": "Cream provides calcium. The dish is a treat."
+    },
+    {
+      "id": 253,
+      "name": "Kiwi Limeade",
+      "country": "New Zealand",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 kiwifruit, peeled",
+          "4 limes",
+          "100g sugar",
+          "750ml soda water",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Blend kiwifruit until smooth.",
+        "Juice limes.",
+        "Combine kiwi puree, lime juice, and sugar.",
+        "Stir until sugar dissolves.",
+        "Strain if desired.",
+        "Pour into glasses with ice.",
+        "Top with soda water.",
+        "Garnish with kiwi and lime slices."
+      ],
+      "making_tips": [
+        "The kiwi should be ripe and sweet.",
+        "This is a refreshing Kiwi summer drink.",
+        "Adjust sweetness to taste.",
+        "The drink should be bright green.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – New Zealand summer refresher",
+      "better_than_store_bought": "Bottled limeade has preservatives. Homemade is fresh and vibrant.",
+      "hidden_nutrients": "Kiwifruit provides vitamin C and fiber. Limes offer additional vitamin C."
+    },
+    {
+      "id": 254,
+      "name": "Cassava Cake (Fiji)",
+      "country": "Fiji",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g cassava, peeled and grated",
+          "1 can (400ml) coconut milk",
+          "200g sugar",
+          "2 large eggs",
+          "1 tsp vanilla",
+          "½ tsp salt"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C. Grease a baking dish.",
+        "Squeeze excess liquid from grated cassava.",
+        "In a bowl, combine cassava, coconut milk, sugar, eggs, vanilla, and salt.",
+        "Mix well.",
+        "Pour into the prepared dish.",
+        "Bake for 45-50 minutes until golden and set.",
+        "Let cool completely.",
+        "Cut into squares.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Cassava must be squeezed well to remove moisture.",
+        "This is a Fijian dessert favorite.",
+        "The texture should be soft and pudding-like.",
+        "Coconut milk is essential for the island flavor.",
+        "Serve with fresh fruit."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Fijian island dessert",
+      "better_than_store_bought": "This traditional pudding is best made fresh.",
+      "hidden_nutrients": "Cassava provides carbohydrates. Coconut offers healthy fats."
+    },
+    {
+      "id": 255,
+      "name": "Coconut Balls (Fiji)",
+      "country": "Fiji",
+      "category": "Snack",
+      "time": "30 minutes (plus chilling)",
+      "servings": "15 balls",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "300g desiccated coconut",
+          "1 can (395g) sweetened condensed milk",
+          "1 tbsp fresh ginger, grated",
+          "1 tsp vanilla"
+        ]
+      },
+      "steps": [
+        "In a bowl, combine coconut, condensed milk, ginger, and vanilla.",
+        "Mix well until it forms a thick paste.",
+        "Chill for 30 minutes.",
+        "Roll into small balls.",
+        "Roll in extra coconut.",
+        "Chill until firm.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "The ginger gives Fijian coconut candy its unique warmth.",
+        "Chill the mixture before rolling.",
+        "These are an island favorite.",
+        "They should be sweet and coconutty.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Fijian coconut candy",
+      "better_than_store_bought": "Commercial versions have additives. Homemade have real ginger and coconut.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber. Ginger aids digestion."
+    },
+    {
+      "id": 256,
+      "name": "Fijian Kava (Non-Alcoholic)",
+      "country": "Fiji",
+      "category": "Beverage",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "50g kava root powder",
+          "500ml water (room temperature)",
+          "Sugar or honey to taste"
+        ]
+      },
+      "steps": [
+        "Place kava powder in a cloth bag or strainer.",
+        "Knead and squeeze the bag in room temperature water for 15 minutes.",
+        "The water will turn cloudy and milky.",
+        "Strain into a bowl.",
+        "Add sugar or honey to sweeten.",
+        "Chill thoroughly.",
+        "Serve in coconut shells."
+      ],
+      "making_tips": [
+        "Kava is a traditional Fijian drink used in ceremony.",
+        "The drink has a peppery, earthy taste.",
+        "Sweetening makes it more palatable.",
+        "It should be consumed immediately.",
+        "In Fiji, it's drunk from coconut shell cups."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Fijian ceremonial drink",
+      "better_than_store_bought": "Bottled kava is less authentic. Freshly prepared is the traditional way.",
+      "hidden_nutrients": "Kava has relaxing properties. Sweetener adds energy."
+    },
+    {
+      "id": 257,
+      "name": "Cassava Puddings (Solomon Islands)",
+      "country": "Solomon Islands",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g cassava, peeled and grated",
+          "400ml coconut milk",
+          "150g sugar",
+          "2 eggs",
+          "1 tsp vanilla",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Squeeze excess liquid from cassava.",
+        "Mix cassava, coconut milk, sugar, eggs, vanilla, and salt.",
+        "Pour into a greased baking dish.",
+        "Bake for 45-50 minutes.",
+        "Cool completely.",
+        "Cut into squares.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "The pudding should be soft and slightly chewy.",
+        "Coconut milk is the key island ingredient.",
+        "This is a Solomon Islands staple.",
+        "Can be served warm or chilled.",
+        "Often eaten as a snack."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Solomon Island pudding",
+      "better_than_store_bought": "Freshly made island pudding is far superior.",
+      "hidden_nutrients": "Cassava provides carbohydrates. Coconut offers healthy fats."
+    },
+    {
+      "id": 258,
+      "name": "Solomon Tea (Ginger Lemon Tea)",
+      "country": "Solomon Islands",
+      "category": "Beverage",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 inch fresh ginger, grated",
+          "4 tea bags (black tea)",
+          "1 litre water",
+          "2 lemons",
+          "100g sugar or honey"
+        ]
+      },
+      "steps": [
+        "Boil water with grated ginger for 10 minutes.",
+        "Add tea bags and steep for 5 minutes.",
+        "Remove tea bags.",
+        "Add lemon juice and sugar.",
+        "Stir until sugar dissolves.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Solomon tea is a comforting island drink.",
+        "The ginger gives it a warming kick.",
+        "Fresh lemons are essential.",
+        "Honey can be used instead of sugar.",
+        "This is served year-round."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Solomon Island favorite",
+      "better_than_store_bought": "Bottled versions can't match the fresh ginger and lemon flavor.",
+      "hidden_nutrients": "Ginger aids digestion. Lemons provide vitamin C."
+    },
+    {
+      "id": 259,
+      "name": "Pudding de Taro (Vanuatu)",
+      "country": "Vanuatu",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "8 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g taro, peeled and grated",
+          "400ml coconut milk",
+          "150g sugar",
+          "2 eggs",
+          "1 tsp vanilla",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Squeeze excess liquid from grated taro.",
+        "Mix taro, coconut milk, sugar, eggs, vanilla, and salt.",
+        "Pour into a greased baking dish.",
+        "Bake for 45-50 minutes.",
+        "Cool completely.",
+        "Cut into squares.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Taro pudding is a Vanuatu staple.",
+        "The texture should be soft and coconutty.",
+        "This is a traditional island dessert.",
+        "Can be served with fresh fruit.",
+        "A common snack throughout the Pacific."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Vanuatu traditional pudding",
+      "better_than_store_bought": "Island-style pudding is best when freshly baked.",
+      "hidden_nutrients": "Taro provides fiber and potassium. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 260,
+      "name": "Lime Squash (Vanuatu)",
+      "country": "Vanuatu",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "6 limes",
+          "200g sugar",
+          "500ml water",
+          "500ml soda water",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice limes.",
+        "In a pitcher, combine lime juice, sugar, and water.",
+        "Stir until sugar dissolves.",
+        "Chill thoroughly.",
+        "To serve, fill glasses with ice.",
+        "Pour lime mixture ¾ full.",
+        "Top with soda water.",
+        "Garnish with lime slices."
+      ],
+      "making_tips": [
+        "Lime squash is a refreshing Vanuatu drink.",
+        "Adjust sweetness to taste.",
+        "The soda water adds fizz.",
+        "Serve ice-cold.",
+        "A great refresher in tropical heat."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Vanuatu street drink",
+      "better_than_store_bought": "Freshly made lime squash is far superior to bottled versions.",
+      "hidden_nutrients": "Limes provide vitamin C."
+    },
+    {
+      "id": 261,
+      "name": "Panikeke (Samoan Doughnuts)",
+      "country": "Samoa",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (includes rising)",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "7g instant yeast",
+          "50g sugar",
+          "½ tsp salt",
+          "250ml warm water",
+          "1 egg",
+          "2 tbsp coconut milk (optional)"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ],
+        "Coating": [
+          "Powdered sugar"
+        ]
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, and salt.",
+        "Add warm water, egg, and coconut milk if using.",
+        "Knead until smooth and elastic.",
+        "Cover and let rise 1 hour.",
+        "Punch down dough. Divide into 15 pieces.",
+        "Shape each into a ball and flatten slightly.",
+        "Heat oil to 170°C.",
+        "Fry until golden and puffed, turning once.",
+        "Drain on paper towels.",
+        "Dust with powdered sugar.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Panikeke is Samoa's favorite sweet bread.",
+        "The dough should be soft and light.",
+        "Coconut milk adds island flavor.",
+        "They are often eaten with tea.",
+        "Best served fresh."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Samoan island favorite",
+      "better_than_store_bought": "Fresh panikeke is a Pacific island treat.",
+      "hidden_nutrients": "Egg provides protein. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 262,
+      "name": "Koko Samoan (Samoan Cocoa)",
+      "country": "Samoa",
+      "category": "Beverage",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 tbsp Samoan cocoa powder (or dark cocoa)",
+          "500ml water",
+          "1 can (400ml) coconut milk",
+          "100g sugar",
+          "1 vanilla bean (or 1 tsp vanilla)"
+        ]
+      },
+      "steps": [
+        "In a pot, combine cocoa powder and water.",
+        "Heat while whisking until it comes to a boil.",
+        "Add coconut milk, sugar, and vanilla.",
+        "Whisk until hot and combined.",
+        "Strain if desired.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Koko Samoa is a thick, rich drinking chocolate.",
+        "Coconut milk is essential for the Samoan version.",
+        "It's traditionally served at breakfast.",
+        "The cocoa is not overly sweet.",
+        "A comforting island beverage."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Samoan breakfast drink",
+      "better_than_store_bought": "Bottled versions can't match the rich, coconutty flavor.",
+      "hidden_nutrients": "Cocoa provides antioxidants. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 263,
+      "name": "Fa'ausi (Samoan Coconut Pudding)",
+      "country": "Samoa",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "6 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "400ml coconut cream",
+          "200g brown sugar",
+          "4 tbsp cornstarch",
+          "1 tsp vanilla",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "In a pot, combine coconut cream, brown sugar, and salt.",
+        "Dissolve cornstarch in a little water.",
+        "Add to the pot and whisk.",
+        "Cook over medium heat, stirring constantly.",
+        "Continue until thick and glossy.",
+        "Add vanilla.",
+        "Pour into a dish.",
+        "Chill until set.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Fa'ausi is a rich Samoan coconut pudding.",
+        "It should be thick and creamy.",
+        "The caramel flavor from brown sugar is key.",
+        "Serve cold for the best texture.",
+        "A traditional Samoan dessert."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Samoan coconut pudding",
+      "better_than_store_bought": "This is a traditional island dessert made fresh.",
+      "hidden_nutrients": "Coconut cream provides healthy fats. Brown sugar offers trace minerals."
+    },
+    {
+      "id": 264,
+      "name": "Otai (Tongan Watermelon Drink)",
+      "country": "Tonga",
+      "category": "Beverage",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500g watermelon, deseeded",
+          "400ml coconut milk",
+          "100g sugar",
+          "Ice cubes",
+          "Fresh mint for garnish"
+        ]
+      },
+      "steps": [
+        "Mash or blend watermelon until it's chunky but not pureed.",
+        "Add coconut milk and sugar.",
+        "Stir until sugar dissolves.",
+        "Add ice cubes.",
+        "Garnish with mint.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Otai is Tonga's national drink.",
+        "The watermelon should be very ripe.",
+        "The texture should be chunky, not smooth.",
+        "It's a sweet, refreshing tropical drink.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Tonga's national drink",
+      "better_than_store_bought": "This is a fresh drink that can't be bottled.",
+      "hidden_nutrients": "Watermelon provides hydration and vitamin C. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 265,
+      "name": "Manioke (Tongan Cassava Pudding)",
+      "country": "Tonga",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "8 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g cassava, peeled and grated",
+          "400ml coconut milk",
+          "150g sugar",
+          "2 eggs",
+          "1 tsp vanilla",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Squeeze excess liquid from cassava.",
+        "Mix cassava, coconut milk, sugar, eggs, vanilla, and salt.",
+        "Pour into a greased baking dish.",
+        "Bake for 45-50 minutes.",
+        "Cool completely.",
+        "Cut into squares.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Manioke is a Tongan cassava pudding.",
+        "It's a staple dessert across the Pacific.",
+        "The coconut milk is essential.",
+        "Serve with fresh fruit.",
+        "A comforting island dish."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Tongan classic pudding",
+      "better_than_store_bought": "Freshly made manoke is the best.",
+      "hidden_nutrients": "Cassava provides carbohydrates. Coconut offers healthy fats."
+    },
+    {
+      "id": 266,
+      "name": "Bwabwai (Kiribati Coconut Dessert)",
+      "country": "Kiribati",
+      "category": "Snack",
+      "time": "1 hour (plus fermentation)",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "2 young coconuts",
+          "200g sugar",
+          "Pinch of salt",
+          "Pandan leaves (optional)"
+        ]
+      },
+      "steps": [
+        "Crack coconuts and scrape the meat.",
+        "Grate the coconut meat finely.",
+        "Mix coconut, sugar, and salt.",
+        "Let ferment for 1-2 days (traditional method).",
+        "Alternatively, cook immediately.",
+        "Cook over low heat until thick.",
+        "Pour into a dish.",
+        "Chill and serve."
+      ],
+      "making_tips": [
+        "Bwabwai is a traditional Kiribati coconut dessert.",
+        "The fermentation gives it a unique flavor.",
+        "The fresh method is quicker and sweeter.",
+        "This is a labor of love in Kiribati.",
+        "Serve cold."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Kiribati tradition",
+      "better_than_store_bought": "This is a traditional island dessert made fresh.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber."
+    },
+    {
+      "id": 267,
+      "name": "Pandanus Drink (Kiribati)",
+      "country": "Kiribati",
+      "category": "Beverage",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g pandanus leaves (or pandanus paste)",
+          "1 litre water",
+          "100g sugar",
+          "1 lime"
+        ]
+      },
+      "steps": [
+        "If using leaves, bruise and boil in water for 20 minutes.",
+        "Strain the liquid.",
+        "Add sugar and lime juice.",
+        "Stir to dissolve.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Pandanus gives a distinctive island flavor.",
+        "The drink is sweet and fragrant.",
+        "Pandanus is a staple flavor across the Pacific.",
+        "Serve ice-cold.",
+        "A refreshing island drink."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Kiribati flavor",
+      "better_than_store_bought": "Fresh pandanus drink is a unique island experience.",
+      "hidden_nutrients": "Pandanus provides trace nutrients. Lime offers vitamin C."
+    },
+    {
+      "id": 268,
+      "name": "Rukau (Cook Islands Taro Leaves)",
+      "country": "Cook Islands",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "6 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g taro leaves, washed",
+          "400ml coconut milk",
+          "100g sugar",
+          "1 onion, chopped (optional sweet version)"
+        ]
+      },
+      "steps": [
+        "Remove stems from taro leaves.",
+        "Layer leaves in a pot.",
+        "Add coconut milk and sugar.",
+        "Cover and cook over low heat for 30-40 minutes.",
+        "The leaves will wilt and cook down.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Rukau is a traditional Cook Islands dish.",
+        "Taro leaves are the main ingredient.",
+        "This sweet version is a dessert.",
+        "Coconut milk is essential.",
+        "Serve with breadfruit or rice."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Cook Islands tradition",
+      "better_than_store_bought": "This traditional dish is best homemade.",
+      "hidden_nutrients": "Taro leaves provide iron and calcium. Coconut offers healthy fats."
+    },
+    {
+      "id": 269,
+      "name": "Poke (Cook Islands Coconut Pudding)",
+      "country": "Cook Islands",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "6 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "400ml coconut cream",
+          "200g sugar",
+          "50g cornstarch",
+          "1 tsp vanilla",
+          "Fresh fruit (banana, pawpaw, or pineapple)"
+        ]
+      },
+      "steps": [
+        "Dissolve cornstarch in a little water.",
+        "In a pot, combine coconut cream, sugar, and salt.",
+        "Add cornstarch and cook over medium heat.",
+        "Stir constantly until thick and glossy.",
+        "Add vanilla.",
+        "Pour into a dish.",
+        "Chill until set.",
+        "Top with fresh fruit.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Poke is a Cook Islands coconut pudding.",
+        "It's similar to other Pacific puddings.",
+        "Fresh fruit is essential on top.",
+        "The texture should be silky and set.",
+        "A simple and satisfying dessert."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Cook Islands favorite",
+      "better_than_store_bought": "Freshly made poke with tropical fruit is unbeatable.",
+      "hidden_nutrients": "Coconut cream provides healthy fats. Fresh fruit adds vitamins."
+    },
+    {
+      "id": 270,
+      "name": "Tropical Fruit Punch (Cook Islands)",
+      "country": "Cook Islands",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 passionfruits",
+          "1 pineapple, peeled and chopped",
+          "2 oranges",
+          "100g sugar",
+          "500ml soda water",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice oranges and passionfruit.",
+        "Blend pineapple with a little water and strain.",
+        "Combine all juices and sugar.",
+        "Stir until sugar dissolves.",
+        "Chill thoroughly.",
+        "Serve over ice.",
+        "Top with soda water.",
+        "Garnish with fruit slices."
+      ],
+      "making_tips": [
+        "This is the Cook Islands tropical punch.",
+        "Passionfruit gives it signature island flavor.",
+        "The pineapple should be sweet and ripe.",
+        "Serve ice-cold.",
+        "A refreshing taste of the Pacific."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Island hospitality",
+      "better_than_store_bought": "Homemade punch uses real tropical fruit, not syrup.",
+      "hidden_nutrients": "Passionfruit and pineapple provide vitamin C. Oranges add additional vitamin C."
+    }
+  ]
+}

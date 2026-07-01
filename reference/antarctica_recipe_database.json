@@ -1,0 +1,288 @@
+{
+  "recipes": [
+    {
+      "id": 301,
+      "name": "Sledging Biscuits",
+      "country": "Antarctica",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "24 biscuits",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "400g whole wheat flour (or all-purpose flour)",
+          "1 tsp salt",
+          "180ml water (approximately)",
+          "2 tbsp butter or lard (optional, for richness)"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 150°C.",
+        "In a bowl, mix flour and salt.",
+        "Gradually add water while mixing until a stiff dough forms.",
+        "Knead the dough until smooth and dense (5 minutes).",
+        "Roll the dough out to about 1cm thickness.",
+        "Cut into 5x5cm squares or rectangles.",
+        "Prick each biscuit several times with a fork to prevent puffing.",
+        "Place on a baking sheet.",
+        "Bake for 45-50 minutes until hard, dry, and lightly golden.",
+        "Let cool completely.",
+        "Store in an airtight container—these will keep for months."
+      ],
+      "making_tips": [
+        "Traditional sledging biscuits were unleavened and cooked twice to remove all moisture.",
+        "The biscuits should be rock-hard and very dry—this prevents spoilage.",
+        "Pricking with a fork is essential to keep them flat.",
+        "Explorers ate these with butter, cheese, or pemmican.",
+        "To serve, they were often crumbled into hoosh or softened with hot water."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Antarctic exploration staple",
+      "better_than_store_bought": "These are survival biscuits, designed for extreme conditions—commercial crackers are softer and less durable.",
+      "hidden_nutrients": "Whole wheat flour provides fiber and B vitamins. The biscuits are simple, enduring energy."
+    },
+    {
+      "id": 302,
+      "name": "Pemmican (Traditional Energy Bar)",
+      "country": "Antarctica",
+      "category": "Snack",
+      "time": "3 hours (plus drying)",
+      "servings": "20 bars",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Main": [
+          "500g lean beef or bison, thinly sliced",
+          "250g rendered beef suet (or tallow)",
+          "50g dried berries (cranberries or blueberries, optional)",
+          "Salt to taste"
+        ]
+      },
+      "steps": [
+        "Dry the meat: Place sliced meat in a dehydrator or oven at 70°C for 8-10 hours until completely dry and brittle.",
+        "Grind the dried meat into a fine powder using a food processor.",
+        "Melt the rendered suet or tallow over low heat until liquid.",
+        "In a bowl, combine the ground meat powder, melted fat, and dried berries.",
+        "Mix thoroughly until it forms a paste.",
+        "Press the mixture into a greased pan or mold.",
+        "Chill until firm.",
+        "Cut into bars.",
+        "Wrap in parchment paper.",
+        "Store in a cool, dry place—pemmican lasts for years."
+      ],
+      "making_tips": [
+        "The meat must be completely dried—any moisture will cause spoilage.",
+        "Traditional pemmican uses equal parts meat and fat by weight.",
+        "This was the ultimate survival food for polar explorers.",
+        "The fat provides energy, the meat provides protein.",
+        "Pemmican was often eaten frozen or crumbled into hoosh."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Polar exploration energy source",
+      "better_than_store_bought": "Commercial energy bars have sugar and preservatives. Pemmican is pure meat and fat—real survival food.",
+      "hidden_nutrients": "Meat provides complete protein and iron. Fat offers dense energy. Berries add vitamin C."
+    },
+    {
+      "id": 303,
+      "name": "Hoosh (Explorer's Stew)",
+      "country": "Antarctica",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g pemmican (or substitute with beef jerky powder + tallow)",
+          "8 sledging biscuits (or hardtack)",
+          "800ml water (melted snow)",
+          "Salt to taste"
+        ]
+      },
+      "steps": [
+        "Crush the sledging biscuits into small pieces.",
+        "If using pemmican, chop it into small chunks.",
+        "Bring water to a boil in a pot.",
+        "Add the pemmican and simmer for 5 minutes.",
+        "Add the crushed biscuits.",
+        "Simmer for 10-15 minutes, stirring frequently.",
+        "The mixture will thicken into a porridge-like stew.",
+        "Season with salt.",
+        "Serve hot in bowls."
+      ],
+      "making_tips": [
+        "Hoosh was the daily dinner of polar explorers.",
+        "The porridge should be thick and hearty.",
+        "Explorers often added extra fat for energy.",
+        "It was cooked on a small stove inside the tent.",
+        "Hoosh is simple, hot, and sustaining."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Antarctic expedition staple",
+      "better_than_store_bought": "This is survival food—simple, nutritious, and designed for extreme conditions.",
+      "hidden_nutrients": "Pemmican provides protein and fat. Biscuits add carbohydrates for energy."
+    },
+    {
+      "id": 304,
+      "name": "Bannock (Explorer's Flatbread)",
+      "country": "Antarctica",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "4 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "250g all-purpose flour",
+          "1 tsp baking powder (optional)",
+          "½ tsp salt",
+          "2 tbsp butter, lard, or oil",
+          "180ml cold water"
+        ]
+      },
+      "steps": [
+        "Mix flour, baking powder, and salt in a bowl.",
+        "Cut in the fat until crumbly.",
+        "Add water gradually, mixing to a soft dough.",
+        "Knead gently on a floured surface.",
+        "Shape into a flat round, about 2cm thick.",
+        "Heat a heavy pan or griddle over a fire or stove.",
+        "Place the bannock in the pan.",
+        "Cook for 8-10 minutes per side until golden and cooked through.",
+        "Serve warm with butter, jam, or pemmican."
+      ],
+      "making_tips": [
+        "Explorers cooked bannock in a frying pan over a Primus stove.",
+        "It could be wrapped around a stick and cooked over a fire.",
+        "Bannock doesn't require yeast, making it easy in the field.",
+        "The fat keeps it moist and adds energy.",
+        "This was a comforting fresh bread in Antarctica."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Polar exploration bread",
+      "better_than_store_bought": "Fresh bannock was a luxury for explorers—commercial bread is softer and less durable.",
+      "hidden_nutrients": "Flour provides carbohydrates. Fat adds energy and vitamin A."
+    },
+    {
+      "id": 305,
+      "name": "Frozen Fruit Cake (Explorer's Cake)",
+      "country": "Antarctica",
+      "category": "Snack",
+      "time": "2 hours (plus cooling)",
+      "servings": "1 cake (12 slices)",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cake": [
+          "300g all-purpose flour",
+          "200g sugar",
+          "200g unsalted butter",
+          "4 large eggs",
+          "1 tsp baking powder",
+          "1 tsp cinnamon",
+          "½ tsp nutmeg",
+          "300g mixed dried fruits (raisins, currants, candied peel)",
+          "100g chopped walnuts or almonds",
+          "100ml brandy or rum (for preservation)"
+        ],
+        "Soaking": [
+          "Extra brandy or rum for feeding"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 150°C.",
+        "Cream butter and sugar until fluffy.",
+        "Add eggs one at a time, beating well.",
+        "Sift flour, baking powder, and spices together.",
+        "Fold dry ingredients into the butter mixture.",
+        "Fold in dried fruits and nuts.",
+        "Add brandy and mix well.",
+        "Pour into a lined cake tin.",
+        "Bake for 1.5-2 hours until a skewer comes out clean.",
+        "Cool completely.",
+        "Poke holes in the cake and feed with more brandy.",
+        "Wrap in alcohol-soaked cheesecloth and then in foil."
+      ],
+      "making_tips": [
+        "The alcohol preserves the fruitcake for years.",
+        "Fruitcake was a staple of polar expeditions.",
+        "It was sometimes served frozen.",
+        "Explorers celebrated special occasions with fruitcake.",
+        "The cake improves with age."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Antarctic celebration treat",
+      "better_than_store_bought": "Explorers' fruitcake was a luxury item—homemade is far superior.",
+      "hidden_nutrients": "Dried fruits provide iron and fiber. Nuts offer healthy fats."
+    },
+    {
+      "id": 306,
+      "name": "Scotch Whisky (Antarctic Tradition)",
+      "country": "Antarctica",
+      "category": "Beverage",
+      "time": "5 minutes",
+      "servings": "1 serving",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "50ml good quality Scotch whisky",
+          "Optional: a splash of water"
+        ]
+      },
+      "steps": [
+        "Pour whisky into a glass.",
+        "Add a splash of water if desired.",
+        "Serve neat or with a small amount of water.",
+        "Sip slowly to warm the body."
+      ],
+      "making_tips": [
+        "Scotch was carried on many polar expeditions for morale and warmth.",
+        "Ernest Shackleton's whisky was famously recovered from the ice.",
+        "The whisky should be high quality—the best was taken on expeditions.",
+        "A small amount of water 'opens' the whisky's flavors.",
+        "The tradition lives on in modern Antarctic stations."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Polar explorer tradition",
+      "better_than_store_bought": "An authentic Antarctic dram is best enjoyed in good company.",
+      "hidden_nutrients": "Whisky provides warmth and antioxidants."
+    },
+    {
+      "id": 307,
+      "name": "Glühwein (Mulled Wine)",
+      "country": "Antarctica",
+      "category": "Beverage",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main (Non-Alcoholic)": [
+          "750ml red grape juice",
+          "100ml orange juice",
+          "2 cinnamon sticks",
+          "4 cloves",
+          "4 cardamom pods",
+          "1 star anise",
+          "Orange peel strips",
+          "50g sugar (or to taste)"
+        ]
+      },
+      "steps": [
+        "In a pot, combine grape juice, orange juice, and all spices.",
+        "Add orange peel and sugar.",
+        "Heat gently over low heat—do not boil.",
+        "Simmer for 15-20 minutes to infuse flavors.",
+        "Strain into mugs.",
+        "Serve warm.",
+        "Garnish with a cinnamon stick or orange slice."
+      ],
+      "making_tips": [
+        "Midwinter Day (June 21) is celebrated in Antarctic stations with Glühwein.",
+        "The drink should be served warm, not hot.",
+        "The spices are traditional European mulled wine flavors.",
+        "Non-alcoholic versions are often served at German and French stations.",
+        "It warms the body and lifts morale during the dark winter."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Antarctic Midwinter tradition",
+      "better_than_store_bought": "Bottled mulled wine is less aromatic. Homemade allows control over spices.",
+      "hidden_nutrients": "Grape juice provides antioxidants. Cinnamon aids blood sugar regulation."
+    }
+  ]
+}

@@ -1,0 +1,1369 @@
+{
+  "recipes": [
+    {
+      "id": 271,
+      "name": "Künefe",
+      "country": "Turkey",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "8 servings",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "500g shredded phyllo dough (kataifi)",
+          "250g unsalted butter, melted",
+          "300g unsalted cheese (mozzarella or akkawi)"
+        ],
+        "Syrup": [
+          "300g sugar",
+          "300ml water",
+          "1 tsp lemon juice",
+          "1 tsp rosewater (optional)"
+        ],
+        "Topping": [
+          "100g pistachios, ground"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water with lemon juice for 15 minutes. Add rosewater. Cool.",
+        "Preheat oven to 180°C.",
+        "Shred kataifi dough into smaller pieces using your hands.",
+        "Pour melted butter over the dough and mix well.",
+        "Press half the dough into a baking dish, packing firmly.",
+        "Spread cheese evenly over the dough.",
+        "Top with the remaining dough, pressing down gently.",
+        "Bake for 30-40 minutes until golden and crisp.",
+        "Invert onto a serving plate or pour syrup directly over the top.",
+        "Sprinkle with ground pistachios.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "The kataifi should be shredded as fine as possible for the best texture.",
+        "Use a cheese that melts well but holds its shape.",
+        "The syrup should be cold when poured over the hot künefe.",
+        "Serve immediately to maintain the crisp pastry.",
+        "Künefe is best eaten fresh from the oven."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Turkish sweet classic",
+      "better_than_store_bought": "Commercial künefe is often soggy. Homemade has the perfect crisp pastry and stringy cheese.",
+      "hidden_nutrients": "Cheese provides calcium and protein. Pistachios offer healthy fats."
+    },
+    {
+      "id": 272,
+      "name": "Şekerpare",
+      "country": "Turkey",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "20 cookies",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cookies": [
+          "250g all-purpose flour",
+          "150g semolina",
+          "250g unsalted butter, softened",
+          "100g powdered sugar",
+          "1 egg",
+          "1 tsp baking powder",
+          "1 tsp vanilla"
+        ],
+        "Syrup": [
+          "300g sugar",
+          "300ml water",
+          "1 tsp lemon juice"
+        ],
+        "Topping": [
+          "20 blanched almonds"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water with lemon juice for 15 minutes. Cool.",
+        "Preheat oven to 170°C.",
+        "In a bowl, cream butter and sugar until fluffy.",
+        "Add egg and vanilla.",
+        "Mix flour, semolina, and baking powder. Add to the butter mixture.",
+        "Knead into a soft dough.",
+        "Roll into small balls and flatten slightly.",
+        "Press an almond into the center of each.",
+        "Place on a baking sheet.",
+        "Bake for 25-30 minutes until golden.",
+        "Pour cold syrup over the hot cookies.",
+        "Let absorb for 1 hour.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Semolina gives şekerpare its signature texture.",
+        "The syrup must be cold when poured over the hot cookies.",
+        "Don't overbake—they should be golden, not dark.",
+        "The almond in the center is traditional.",
+        "These cookies improve after resting in the syrup."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Turkish coffee companion",
+      "better_than_store_bought": "Commercial şekerpare is often dry. Homemade is syrup-soaked and tender.",
+      "hidden_nutrients": "Almonds provide vitamin E and healthy fats. Semolina offers B vitamins."
+    },
+    {
+      "id": 273,
+      "name": "Sütlaç (Turkish Rice Pudding)",
+      "country": "Turkey",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (plus chilling)",
+      "servings": "6 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "200g short-grain rice",
+          "1 litre milk",
+          "200g sugar",
+          "1 tbsp cornstarch",
+          "1 tsp vanilla"
+        ],
+        "Topping": [
+          "Ground cinnamon"
+        ]
+      },
+      "steps": [
+        "Rinse rice and soak in water for 30 minutes.",
+        "Drain rice and place in a pot with 500ml water.",
+        "Cook until rice is soft and water is absorbed.",
+        "Add milk and sugar, stirring constantly.",
+        "Dissolve cornstarch in a little water and add to the pot.",
+        "Simmer for 15-20 minutes until thickened.",
+        "Add vanilla.",
+        "Pour into individual bowls.",
+        "Chill for at least 2 hours.",
+        "Sprinkle with cinnamon.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "The rice should be very soft before adding milk.",
+        "Stir constantly to prevent sticking.",
+        "The pudding thickens as it cools.",
+        "Serve in small clay bowls for the traditional presentation.",
+        "A favorite across Turkey and the Middle East."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Turkish comfort dessert",
+      "better_than_store_bought": "Commercial rice pudding is often watery. Homemade is thick, creamy, and comforting.",
+      "hidden_nutrients": "Milk provides calcium. Rice offers carbohydrates. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 274,
+      "name": "Boza (Turkish Fermented Millet Drink)",
+      "country": "Turkey",
+      "category": "Beverage",
+      "time": "2 hours (plus fermentation)",
+      "servings": "4 servings",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Main": [
+          "300g millet flour (or coarse bulgur)",
+          "1.5 litres water",
+          "200g sugar",
+          "1 tbsp yogurt (as a starter)"
+        ],
+        "Toppings": [
+          "Roasted chickpeas",
+          "Ground cinnamon"
+        ]
+      },
+      "steps": [
+        "Mix millet flour with water to form a thin batter.",
+        "Cook over medium heat, stirring constantly, until thickened (about 30 minutes).",
+        "Let cool to lukewarm.",
+        "Add sugar and yogurt starter.",
+        "Cover and let ferment for 24-48 hours at room temperature.",
+        "Stir occasionally.",
+        "The boza should be slightly tangy and fizzy.",
+        "Chill thoroughly.",
+        "Serve in glasses.",
+        "Top with roasted chickpeas and cinnamon."
+      ],
+      "making_tips": [
+        "Boza is a traditional Turkish winter drink.",
+        "Fermentation time varies depending on temperature.",
+        "The drink should be tangy but not sour.",
+        "Roasted chickpeas and cinnamon are essential toppings.",
+        "It is served in brass cups in Istanbul."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Turkish ancient drink",
+      "better_than_store_bought": "Bottled boza has preservatives. Homemade is effervescent and authentic.",
+      "hidden_nutrients": "Millet provides B vitamins and fiber. The drink contains probiotics."
+    },
+    {
+      "id": 275,
+      "name": "Gaz (Iranian Nougat)",
+      "country": "Iran",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (plus setting)",
+      "servings": "24 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Main": [
+          "300g sugar",
+          "100ml water",
+          "100ml glucose syrup",
+          "2 egg whites",
+          "1 tsp rosewater",
+          "250g pistachios",
+          "200g sap of Persian manna plant (or substitute with gum arabic)"
+        ]
+      },
+      "steps": [
+        "In a pot, combine sugar, water, and glucose syrup. Heat to 120°C.",
+        "In a stand mixer, beat egg whites until stiff.",
+        "Slowly pour the hot syrup into the egg whites while beating.",
+        "Add rosewater.",
+        "Continue beating until thick and glossy.",
+        "Add the manna sap (or gum arabic dissolved in a little water).",
+        "Fold in pistachios.",
+        "Pour into a lined pan and press down firmly.",
+        "Let set for 2-3 hours.",
+        "Cut into pieces.",
+        "Dust with powdered sugar."
+      ],
+      "making_tips": [
+        "Gaz is Iran's most famous nougat.",
+        "The manna sap gives it a unique texture.",
+        "A candy thermometer is essential.",
+        "The pistachios should be high quality.",
+        "Traditionally served with Persian tea."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Persian nougat classic",
+      "better_than_store_bought": "Commercial gaz often uses substitutes. Homemade has authentic ingredients.",
+      "hidden_nutrients": "Pistachios provide healthy fats and protein. Egg whites offer protein."
+    },
+    {
+      "id": 276,
+      "name": "Faloodeh (Persian Rosewater Ice)",
+      "country": "Iran",
+      "category": "Snack",
+      "time": "1 hour (plus freezing)",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Ice Base": [
+          "300g sugar",
+          "600ml water",
+          "1 tbsp rosewater",
+          "1 tbsp lime juice"
+        ],
+        "Noodles": [
+          "100g rice vermicelli noodles"
+        ],
+        "Garnish": [
+          "Sour cherry syrup",
+          "Ground pistachios"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water until dissolved. Add rosewater and lime juice. Cool.",
+        "Cook rice noodles according to package instructions. Cool and cut into small pieces.",
+        "Combine the cooled syrup and noodles.",
+        "Place in the freezer.",
+        "Stir every 30 minutes for 2-3 hours to prevent ice crystals.",
+        "The mixture should be slushy and semi-frozen.",
+        "Serve in glasses.",
+        "Top with sour cherry syrup and pistachios."
+      ],
+      "making_tips": [
+        "Faloodeh is Iran's signature summer dessert.",
+        "The stirring is essential for the right texture.",
+        "Rosewater is the key flavor.",
+        "Sour cherry syrup is the traditional topping.",
+        "This is a refreshing Persian dessert."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Iranian iconic dessert",
+      "better_than_store_bought": "Commercial faloodeh often lacks real rosewater. Homemade has authentic flavor.",
+      "hidden_nutrients": "Pistachios provide healthy fats. Sour cherry syrup offers trace vitamins."
+    },
+    {
+      "id": 277,
+      "name": "Sholeh Zard (Persian Saffron Pudding)",
+      "country": "Iran",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "8 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pudding": [
+          "250g short-grain rice",
+          "1.5 litres water",
+          "1 litre milk",
+          "300g sugar",
+          "½ tsp saffron threads",
+          "1 tbsp rosewater",
+          "2 tbsp butter",
+          "1 tsp cinnamon"
+        ],
+        "Garnish": [
+          "Slivered almonds",
+          "Ground cinnamon",
+          "Dried barberries (optional)"
+        ]
+      },
+      "steps": [
+        "Rinse rice and soak in water for 30 minutes.",
+        "In a large pot, cook rice in water until very soft (about 30 minutes).",
+        "Add milk, sugar, and saffron (ground and dissolved in a little hot water).",
+        "Cook over low heat, stirring frequently, until thickened.",
+        "Add rosewater, butter, and cinnamon.",
+        "Cook for another 15 minutes.",
+        "Pour into a serving dish.",
+        "Decorate with slivered almonds in a pattern.",
+        "Sprinkle with cinnamon.",
+        "Serve warm or chilled."
+      ],
+      "making_tips": [
+        "Sholeh zard is a celebratory Persian dessert.",
+        "The rice must be very soft and broken down.",
+        "Saffron gives the golden color and distinct flavor.",
+        "The decoration is as important as the taste.",
+        "Often served at weddings and celebrations."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Persian celebration dessert",
+      "better_than_store_bought": "This traditional Persian dessert is best homemade.",
+      "hidden_nutrients": "Milk provides calcium. Saffron offers antioxidants. Almonds add vitamin E."
+    },
+    {
+      "id": 278,
+      "name": "Sekanjebin (Persian Mint & Vinegar Drink)",
+      "country": "Iran",
+      "category": "Beverage",
+      "time": "20 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Syrup": [
+          "200g sugar",
+          "200ml water",
+          "100ml vinegar (white or apple cider)",
+          "1 tbsp mint, dried or fresh"
+        ],
+        "Serve": [
+          "500ml cold water",
+          "Ice cubes",
+          "Fresh mint",
+          "Cucumber slices"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water until dissolved.",
+        "Add vinegar and mint. Simmer for 5 minutes.",
+        "Strain and let cool.",
+        "To serve, mix 1 part syrup with 3 parts cold water.",
+        "Add ice cubes.",
+        "Garnish with fresh mint and cucumber slices.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Sekanjebin is a refreshing Persian drink.",
+        "The vinegar gives it a sweet-tangy flavor.",
+        "Cucumbers add a cooling element.",
+        "Traditionally served in summer.",
+        "This is a taste of ancient Persia."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Persian ancient refresher",
+      "better_than_store_bought": "This simple drink is best made fresh.",
+      "hidden_nutrients": "Mint aids digestion. Vinegar has probiotic properties."
+    },
+    {
+      "id": 279,
+      "name": "Ma'amoul (Shortbread Cookies)",
+      "country": "Saudi Arabia",
+      "category": "Snack",
+      "time": "2 hours (includes resting)",
+      "servings": "24 cookies",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "200g semolina",
+          "250g unsalted butter, softened",
+          "50g sugar",
+          "1 tbsp orange blossom water",
+          "1 tbsp milk"
+        ],
+        "Fillings": [
+          "300g date paste",
+          "200g pistachios or walnuts (ground with sugar)"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, semolina, and butter until crumbly.",
+        "Add sugar, orange blossom water, and milk.",
+        "Knead into a soft dough. Rest for 30 minutes.",
+        "Prepare fillings: dates are ready to use; nuts should be mixed with a little sugar.",
+        "Take small pieces of dough, flatten, and fill.",
+        "Seal and place in a ma'amoul mold.",
+        "Press and tap out.",
+        "Place on a baking sheet.",
+        "Bake at 180°C for 15-18 minutes until lightly golden.",
+        "Dust with powdered sugar.",
+        "Let cool completely."
+      ],
+      "making_tips": [
+        "The wooden ma'amoul mold is essential for traditional patterns.",
+        "The dough should be worked quickly to keep it from drying.",
+        "Date and nut fillings are both traditional.",
+        "These are holiday cookies for Eid and Easter.",
+        "They improve after a day."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Middle Eastern holiday favorite",
+      "better_than_store_bought": "Commercial ma'amoul is often dry. Homemade is melt-in-your-mouth.",
+      "hidden_nutrients": "Dates provide iron and fiber. Pistachios offer healthy fats."
+    },
+    {
+      "id": 280,
+      "name": "Basbousa (Semolina Cake)",
+      "country": "Saudi Arabia",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 pieces",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Cake": [
+          "250g semolina",
+          "100g sugar",
+          "100g desiccated coconut",
+          "150g unsalted butter, melted",
+          "1 cup yogurt",
+          "1 tsp baking powder",
+          "1 tsp vanilla",
+          "12 blanched almonds"
+        ],
+        "Syrup": [
+          "300g sugar",
+          "300ml water",
+          "1 tsp orange blossom water"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water for 15 minutes. Add orange blossom water. Cool.",
+        "Preheat oven to 180°C.",
+        "Mix semolina, sugar, coconut, and baking powder.",
+        "Add melted butter, yogurt, and vanilla. Mix well.",
+        "Spread in a greased baking dish.",
+        "Cut into diamond shapes.",
+        "Press an almond into the center of each piece.",
+        "Bake for 30-35 minutes until golden.",
+        "Pour cold syrup over the hot cake.",
+        "Let absorb for 1 hour.",
+        "Cut along the score marks and serve."
+      ],
+      "making_tips": [
+        "The almond on each piece is traditional.",
+        "Basbousa is beloved across the Middle East.",
+        "The cake should be moist and syrup-soaked.",
+        "Orange blossom water is essential for the flavor.",
+        "Cut before baking for neat pieces."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Middle Eastern sweet staple",
+      "better_than_store_bought": "Commercial basbousa is often dry. Homemade is moist and fragrant.",
+      "hidden_nutrients": "Coconut provides healthy fats. Semolina offers B vitamins."
+    },
+    {
+      "id": 281,
+      "name": "Luqaimat (Fried Dough Balls)",
+      "country": "Saudi Arabia",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "25 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "7g instant yeast",
+          "100g sugar",
+          "½ tsp salt",
+          "300ml warm water",
+          "1 tbsp milk powder"
+        ],
+        "Syrup": [
+          "200g date syrup or honey"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, salt, and milk powder.",
+        "Add warm water gradually to form a soft dough.",
+        "Cover and let rise for 1 hour.",
+        "Heat oil to 170°C.",
+        "Using a wet spoon, drop small balls of dough into hot oil.",
+        "Fry until golden and puffed, turning once.",
+        "Drain on paper towels.",
+        "Drizzle with date syrup or honey.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Luqaimat is a Saudi favorite during Ramadan.",
+        "The dough should be sticky and soft.",
+        "Date syrup is the traditional accompaniment.",
+        "They should be crisp outside and fluffy inside.",
+        "Best served fresh and warm."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Saudi Ramadan treat",
+      "better_than_store_bought": "Fresh luqaimat with date syrup is a Saudi specialty.",
+      "hidden_nutrients": "Date syrup provides trace minerals. The dish is a festive treat."
+    },
+    {
+      "id": 282,
+      "name": "Saudi Coffee (Qahwa)",
+      "country": "Saudi Arabia",
+      "category": "Beverage",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "4 tbsp lightly roasted coffee beans",
+          "4 cardamom pods",
+          "2 cloves",
+          "1 small piece of cinnamon",
+          "Pinch of saffron",
+          "500ml water"
+        ]
+      },
+      "steps": [
+        "Grind coffee with cardamom pods.",
+        "Place ground coffee and spices in a dallah (traditional pot).",
+        "Add cold water.",
+        "Bring to a boil over medium heat.",
+        "Reduce heat and simmer for 10-15 minutes.",
+        "Strain into small cups.",
+        "Serve with sweet dates on the side."
+      ],
+      "making_tips": [
+        "Saudi coffee is light roasted and spiced.",
+        "The coffee is usually unsweetened—dates provide the sweetness.",
+        "Served in small cups without handles.",
+        "The dallah pot is the traditional vessel.",
+        "Coffee is a sign of hospitality in the Gulf."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Saudi hospitality",
+      "better_than_store_bought": "The ritual of Saudi coffee is best experienced at home.",
+      "hidden_nutrients": "Coffee provides antioxidants. Cardamom aids digestion."
+    },
+    {
+      "id": 283,
+      "name": "Qatayef (Stuffed Pancakes)",
+      "country": "Egypt",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (includes resting)",
+      "servings": "20 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Batter": [
+          "300g all-purpose flour",
+          "50g semolina",
+          "1 tsp yeast",
+          "1 tbsp sugar",
+          "Pinch of salt",
+          "500ml warm water"
+        ],
+        "Filling": [
+          "200g sweet cheese (ricotta or akkawi)",
+          "100g walnuts or pistachios, ground with sugar"
+        ],
+        "Syrup": [
+          "200g sugar",
+          "200ml water",
+          "1 tsp orange blossom water"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Batter: Mix flour, semolina, yeast, sugar, and salt. Add water gradually.",
+        "Let batter rest for 30 minutes.",
+        "Make Syrup: Boil sugar and water for 15 minutes. Add orange blossom water. Cool.",
+        "Heat a non-stick pan over medium heat.",
+        "Pour small rounds of batter—cook until bubbles appear.",
+        "Place filling on one half of each pancake.",
+        "Fold over and press edges to seal.",
+        "Heat oil and fry the qatayef until golden.",
+        "Dip in syrup immediately.",
+        "Drain and serve."
+      ],
+      "making_tips": [
+        "Qatayef is the ultimate Ramadan dessert in Egypt.",
+        "The pancakes should be cooked on one side only.",
+        "The cheese filling is traditional and gooey.",
+        "Fried qatayef is preferred; baked is also an option.",
+        "Syrup should be cold when the qatayef is hot."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Egyptian Ramadan favorite",
+      "better_than_store_bought": "Fresh qatayef is a Ramadan tradition—best made at home.",
+      "hidden_nutrients": "Cheese provides calcium and protein. Nuts offer healthy fats."
+    },
+    {
+      "id": 284,
+      "name": "Karkadeh (Hibiscus Tea)",
+      "country": "Egypt",
+      "category": "Beverage",
+      "time": "30 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "50g dried hibiscus petals",
+          "1 litre water",
+          "100g sugar (or to taste)"
+        ]
+      },
+      "steps": [
+        "Rinse hibiscus petals.",
+        "In a pot, combine petals and water.",
+        "Bring to a boil, then reduce heat.",
+        "Simmer for 15 minutes.",
+        "Remove from heat and steep for 30 minutes.",
+        "Strain to remove petals.",
+        "Add sugar and stir to dissolve.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Karkadeh can be served hot or cold.",
+        "The cold version is the most popular in Egypt.",
+        "The tea should be deep ruby red.",
+        "Adjust sweetness to taste.",
+        "A refreshing and healthy Egyptian drink."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Egyptian national drink",
+      "better_than_store_bought": "Bottled karkadeh has preservatives. Homemade is pure and vibrant.",
+      "hidden_nutrients": "Hibiscus is rich in antioxidants. Helps lower blood pressure."
+    },
+    {
+      "id": 285,
+      "name": "Knafeh (Jordanian Nabulsi)",
+      "country": "Jordan",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "8 servings",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "500g shredded phyllo dough (kataifi)",
+          "250g unsalted butter, melted",
+          "400g Nabulsi cheese (or mozzarella)"
+        ],
+        "Syrup": [
+          "300g sugar",
+          "300ml water",
+          "1 tbsp rosewater or orange blossom water"
+        ],
+        "Topping": [
+          "100g pistachios, ground"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water for 15 minutes. Add rosewater. Cool.",
+        "Preheat oven to 180°C.",
+        "Shred kataifi into small pieces.",
+        "Pour melted butter over the dough and mix.",
+        "Press half the dough into a pan.",
+        "Spread cheese evenly over the dough.",
+        "Top with remaining dough.",
+        "Bake for 30-40 minutes until golden.",
+        "Pour cold syrup over hot knafeh.",
+        "Sprinkle with pistachios.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Nabulsi cheese is the authentic choice for Jordanian knafeh.",
+        "The contrast between hot pastry and cold syrup is key.",
+        "Knafeh is Jordan's pride.",
+        "Serve immediately for the best texture.",
+        "Traditionally eaten by hand."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Jordanian national dessert",
+      "better_than_store_bought": "Authentic Nabulsi knafeh is a Jordanian specialty best fresh.",
+      "hidden_nutrients": "Cheese provides calcium and protein. Pistachios offer healthy fats."
+    },
+    {
+      "id": 286,
+      "name": "Namoura (Semolina Cake)",
+      "country": "Jordan",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "15 pieces",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Cake": [
+          "300g semolina",
+          "150g sugar",
+          "200g yogurt",
+          "100g unsalted butter, melted",
+          "1 tsp baking powder",
+          "1 tsp vanilla",
+          "1 tbsp orange blossom water"
+        ],
+        "Syrup": [
+          "300g sugar",
+          "300ml water",
+          "1 tbsp orange blossom water"
+        ],
+        "Topping": [
+          "15 blanched almonds"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water for 15 minutes. Add orange blossom water. Cool.",
+        "Preheat oven to 180°C.",
+        "Mix semolina, sugar, and baking powder.",
+        "Add yogurt, melted butter, vanilla, and orange blossom water.",
+        "Spread into a greased pan.",
+        "Cut into diamond shapes.",
+        "Press an almond into each piece.",
+        "Bake for 30-35 minutes until golden.",
+        "Pour cold syrup over hot cake.",
+        "Cool completely and cut."
+      ],
+      "making_tips": [
+        "Namoura is similar to basbousa but uses yogurt.",
+        "Orange blossom water gives the signature floral note.",
+        "The almond decoration is essential.",
+        "Syrup absorption makes it moist.",
+        "A Middle Eastern tea-time favorite."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Middle Eastern sweet classic",
+      "better_than_store_bought": "Fresh namoura is far superior to commercial versions.",
+      "hidden_nutrients": "Semolina provides B vitamins. Almonds offer healthy fats."
+    },
+    {
+      "id": 287,
+      "name": "Limonana (Mint Lemonade)",
+      "country": "Jordan",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 lemons",
+          "100g sugar",
+          "1 large bunch fresh mint",
+          "750ml water",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice lemons.",
+        "In a blender, combine lemon juice, sugar, and mint with a little water.",
+        "Blend until mint is finely chopped.",
+        "Add remaining water and ice.",
+        "Strain if desired.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Limonana is a Jordanian invention.",
+        "The mint should be completely blended.",
+        "This is the ultimate Middle Eastern summer cooler.",
+        "Serve immediately.",
+        "Adjust sugar and mint to taste."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Jordanian summer icon",
+      "better_than_store_bought": "Freshly blended limonana is a Jordanian specialty.",
+      "hidden_nutrients": "Lemons provide vitamin C. Mint aids digestion."
+    },
+    {
+      "id": 288,
+      "name": "Mhalabiyeh (Milk Custard)",
+      "country": "Lebanon",
+      "category": "Snack",
+      "time": "30 minutes (plus chilling)",
+      "servings": "6 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Pudding": [
+          "500ml milk",
+          "100g sugar",
+          "50g cornstarch",
+          "1 tsp rosewater",
+          "½ tsp cardamom"
+        ],
+        "Topping": [
+          "Ground pistachios",
+          "Desiccated coconut"
+        ]
+      },
+      "steps": [
+        "Dissolve cornstarch in 100ml cold milk.",
+        "In a pot, heat remaining milk with sugar and cardamom.",
+        "When warm, add cornstarch mixture.",
+        "Cook over medium heat, stirring constantly.",
+        "Continue until thick and creamy.",
+        "Add rosewater.",
+        "Pour into individual glasses.",
+        "Chill for 2 hours.",
+        "Top with pistachios and coconut.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Mhalabiyeh is Lebanon's silky milk pudding.",
+        "The texture should be smooth and creamy.",
+        "Rosewater is the classic flavor.",
+        "Serve in beautiful glasses.",
+        "The topping adds texture."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Lebanese classic dessert",
+      "better_than_store_bought": "Homemade mhalabiyeh is silky and perfectly flavored.",
+      "hidden_nutrients": "Milk provides calcium. Pistachios offer healthy fats."
+    },
+    {
+      "id": 289,
+      "name": "Sfouf (Turmeric Semolina Cake)",
+      "country": "Lebanon",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "12 pieces",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Cake": [
+          "250g semolina",
+          "150g all-purpose flour",
+          "200g sugar",
+          "1 tbsp turmeric",
+          "1 tsp baking powder",
+          "120ml vegetable oil",
+          "240ml milk",
+          "2 tbsp pine nuts"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Mix semolina, flour, sugar, turmeric, and baking powder.",
+        "Add oil and milk. Mix to a smooth batter.",
+        "Pour into a greased pan.",
+        "Sprinkle pine nuts on top.",
+        "Bake for 30-35 minutes until golden.",
+        "Cool completely.",
+        "Cut into squares.",
+        "Serve with tea."
+      ],
+      "making_tips": [
+        "Turmeric gives sfouf its golden color.",
+        "It's not sweet but subtly flavored.",
+        "Pine nuts are the traditional topping.",
+        "This is a Lebanese tea-time favorite.",
+        "The texture should be dense and moist."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Lebanese tea cake",
+      "better_than_store_bought": "Fresh sfouf with its golden color is a Lebanese specialty.",
+      "hidden_nutrients": "Turmeric has anti-inflammatory properties. Pine nuts offer healthy fats."
+    },
+    {
+      "id": 290,
+      "name": "Malabi (Rosewater Milk Custard)",
+      "country": "Israel",
+      "category": "Snack",
+      "time": "30 minutes (plus chilling)",
+      "servings": "6 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Pudding": [
+          "500ml milk",
+          "100g sugar",
+          "50g cornstarch",
+          "1 tbsp rosewater"
+        ],
+        "Topping": [
+          "Ground pistachios",
+          "Desiccated coconut",
+          "Rose petal jam (optional)"
+        ]
+      },
+      "steps": [
+        "Dissolve cornstarch in 100ml cold milk.",
+        "In a pot, heat remaining milk with sugar.",
+        "Add cornstarch mixture.",
+        "Cook over medium heat, stirring constantly.",
+        "Continue until thick and creamy.",
+        "Add rosewater.",
+        "Pour into individual glasses.",
+        "Chill for 2 hours.",
+        "Top with pistachios and coconut.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Malabi is Israel's favorite milk dessert.",
+        "The texture is silky and light.",
+        "Rosewater gives the signature floral note.",
+        "The toppings add color and texture.",
+        "Often served at street food markets."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Israeli street dessert",
+      "better_than_store_bought": "Fresh malabi with proper rosewater is best.",
+      "hidden_nutrients": "Milk provides calcium. Pistachios offer healthy fats."
+    },
+    {
+      "id": 291,
+      "name": "Sufganiyot (Jelly Doughnuts)",
+      "country": "Israel",
+      "category": "Snack",
+      "time": "2 hours (includes rising)",
+      "servings": "15 doughnuts",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "500g bread flour",
+          "50g sugar",
+          "7g instant yeast",
+          "½ tsp salt",
+          "240ml warm water",
+          "2 egg yolks",
+          "50g unsalted butter, softened"
+        ],
+        "Filling": [
+          "200g strawberry or raspberry jam"
+        ],
+        "Topping": [
+          "Powdered sugar"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix flour, sugar, yeast, and salt.",
+        "Add water, egg yolks, and butter. Knead until smooth.",
+        "Cover and let rise 1 hour.",
+        "Punch down dough. Roll to 1cm thickness.",
+        "Cut into rounds and let rise 30 minutes.",
+        "Heat oil to 170°C.",
+        "Fry doughnuts until golden on both sides.",
+        "Drain on paper towels.",
+        "Fill with jam using a piping bag.",
+        "Dust with powdered sugar.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Sufganiyot are Israel's Hanukkah treat.",
+        "The dough should be light and fluffy.",
+        "Fill with jam just before serving.",
+        "Powdered sugar is essential.",
+        "They should be eaten fresh."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Israeli Hanukkah tradition",
+      "better_than_store_bought": "Fresh sufganiyot are a Hanukkah necessity.",
+      "hidden_nutrients": "Eggs provide protein. The treat is a celebration food."
+    },
+    {
+      "id": 292,
+      "name": "Balaleet (Sweet Vermicelli)",
+      "country": "Qatar",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Noodles": [
+          "250g vermicelli noodles",
+          "50g sugar",
+          "½ tsp saffron",
+          "1 tsp cardamom",
+          "2 tbsp ghee or butter"
+        ],
+        "Egg Crepe": [
+          "2 eggs",
+          "Pinch of salt",
+          "Ghee for frying"
+        ]
+      },
+      "steps": [
+        "Boil vermicelli in water until cooked. Drain.",
+        "In a pan, melt ghee and add noodles.",
+        "Add sugar, saffron, and cardamom.",
+        "Cook until noodles are coated.",
+        "Make Egg Crepe: Beat eggs with salt.",
+        "Fry a thin crepe in a pan.",
+        "Place noodles on a plate.",
+        "Top with the egg crepe.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Balaleet is a Qatari breakfast favorite.",
+        "The saffron gives it a golden color.",
+        "The egg crepe is the traditional topping.",
+        "Sweet and savory in one dish.",
+        "A unique Gulf specialty."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Qatari breakfast staple",
+      "better_than_store_bought": "This traditional Gulf dish is best homemade.",
+      "hidden_nutrients": "Eggs provide protein. Saffron offers antioxidants."
+    },
+    {
+      "id": 293,
+      "name": "Esh Asaraya (Bread Pudding)",
+      "country": "Qatar",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "8 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Pudding": [
+          "8 slices white bread, crusts removed",
+          "500ml milk",
+          "1 can (400ml) sweetened condensed milk",
+          "100g sugar",
+          "1 tsp rosewater",
+          "1 tsp vanilla"
+        ],
+        "Topping": [
+          "Ground pistachios"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 160°C.",
+        "Tear bread into pieces and place in a dish.",
+        "In a pot, heat milk with condensed milk and sugar.",
+        "Add rosewater and vanilla.",
+        "Pour the milk mixture over the bread.",
+        "Let soak for 15 minutes.",
+        "Bake for 30-35 minutes until set.",
+        "Cool completely.",
+        "Top with pistachios.",
+        "Serve chilled."
+      ],
+      "making_tips": [
+        "Esh asaraya is a popular Qatari dessert.",
+        "The bread absorbs the milky liquid.",
+        "It is often served during celebrations.",
+        "Rosewater gives a floral note.",
+        "A comforting dessert."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Qatari dessert favorite",
+      "better_than_store_bought": "Traditional Qatari bread pudding is best fresh.",
+      "hidden_nutrients": "Milk provides calcium. Pistachios offer healthy fats."
+    },
+    {
+      "id": 294,
+      "name": "Emirati Coffee (Gahwa)",
+      "country": "United Arab Emirates",
+      "category": "Beverage",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "4 tbsp lightly roasted coffee beans",
+          "4 cardamom pods",
+          "2 cloves",
+          "1 small piece of cinnamon",
+          "Pinch of saffron",
+          "500ml water"
+        ]
+      },
+      "steps": [
+        "Grind coffee with cardamom.",
+        "Place ground coffee and spices in a dallah pot.",
+        "Add cold water.",
+        "Bring to a boil.",
+        "Reduce heat and simmer for 10-15 minutes.",
+        "Strain into small cups.",
+        "Serve with sweet dates."
+      ],
+      "making_tips": [
+        "Emirati coffee is light and flavored with cardamom.",
+        "The dallah pot is the traditional vessel.",
+        "Coffee is served unsweetened with dates.",
+        "A symbol of hospitality in the UAE.",
+        "Often served in small cups."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Emirati hospitality",
+      "better_than_store_bought": "The ritual of Emirati coffee is best at home.",
+      "hidden_nutrients": "Coffee provides antioxidants. Dates offer iron and fiber."
+    },
+    {
+      "id": 295,
+      "name": "Bint Al-Sahn (Yemeni Honey Cake)",
+      "country": "Yemen",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes resting)",
+      "servings": "8 servings",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "7g instant yeast",
+          "½ tsp salt",
+          "250ml warm water",
+          "50g ghee, melted"
+        ],
+        "Coating": [
+          "100g ghee, melted"
+        ],
+        "Dip": [
+          "200g Yemeni honey (or good quality honey)"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, yeast, salt, and water. Knead until smooth.",
+        "Rest for 30 minutes.",
+        "Divide dough into 10-12 small balls.",
+        "Roll each ball very thinly.",
+        "Brush each layer with melted ghee.",
+        "Stack the layers on top of each other.",
+        "Place the stack in a greased pan.",
+        "Bake at 180°C for 20-25 minutes until golden.",
+        "Invert onto a plate.",
+        "Pour honey over the top.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Bint Al-Sahn is Yemen's national dessert.",
+        "The layers should be paper-thin.",
+        "Ghee is essential for the authentic flavor.",
+        "Yemeni honey is famous worldwide.",
+        "Best eaten by hand."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Yemeni national dessert",
+      "better_than_store_bought": "This traditional Yemeni cake is best homemade.",
+      "hidden_nutrients": "Honey provides trace minerals. Ghee offers vitamin A."
+    },
+    {
+      "id": 296,
+      "name": "Qishr (Yemeni Coffee-Husk Tea)",
+      "country": "Yemen",
+      "category": "Beverage",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "50g dried coffee husks (or coffee cherry tea)",
+          "1 litre water",
+          "1 inch ginger, grated",
+          "100g sugar"
+        ]
+      },
+      "steps": [
+        "Rinse coffee husks.",
+        "In a pot, combine husks, water, and ginger.",
+        "Bring to a boil.",
+        "Reduce heat and simmer for 15 minutes.",
+        "Add sugar and stir to dissolve.",
+        "Strain into cups.",
+        "Serve hot."
+      ],
+      "making_tips": [
+        "Qishr is a Yemeni traditional drink.",
+        "It has a mild coffee-like flavor.",
+        "Ginger gives it a warming spice.",
+        "It is frugal as it uses coffee byproducts.",
+        "Served at social gatherings."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Yemeni traditional drink",
+      "better_than_store_bought": "This is a traditional Yemeni drink, best made fresh.",
+      "hidden_nutrients": "Ginger aids digestion. Coffee husks provide trace antioxidants."
+    },
+    {
+      "id": 297,
+      "name": "Knafeh Nabulsiyeh (Palestinian)",
+      "country": "Palestine",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "8 servings",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "500g shredded phyllo dough",
+          "250g unsalted butter, melted",
+          "400g Nabulsi cheese"
+        ],
+        "Syrup": [
+          "300g sugar",
+          "300ml water",
+          "1 tbsp orange blossom water"
+        ],
+        "Topping": [
+          "100g pistachios, ground"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar and water for 15 minutes. Add orange blossom water. Cool.",
+        "Preheat oven to 180°C.",
+        "Shred kataifi into small pieces.",
+        "Pour melted butter over the dough and mix.",
+        "Press half the dough into a pan.",
+        "Spread cheese evenly.",
+        "Top with remaining dough.",
+        "Bake for 30-40 minutes until golden.",
+        "Pour cold syrup over the hot knafeh.",
+        "Sprinkle with pistachios.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Nabulsi cheese is the authentic Palestinian choice.",
+        "Knafeh Nabulsiyeh is Palestine's pride.",
+        "The syrup should be cold; the knafeh hot.",
+        "Orange blossom water is essential.",
+        "Serve immediately."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Palestinian national dessert",
+      "better_than_store_bought": "Authentic Nabulsi knafeh is a Palestinian treasure.",
+      "hidden_nutrients": "Cheese provides calcium and protein. Pistachios offer healthy fats."
+    },
+    {
+      "id": 298,
+      "name": "Barazek (Syrian Sesame Cookies)",
+      "country": "Syria",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "20 cookies",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cookies": [
+          "250g all-purpose flour",
+          "100g sugar",
+          "100g unsalted butter, softened",
+          "1 egg",
+          "1 tsp yeast",
+          "1 tsp orange blossom water"
+        ],
+        "Coating": [
+          "100g sesame seeds",
+          "50g pistachios, ground"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Cream butter and sugar until fluffy.",
+        "Add egg, orange blossom water, and yeast.",
+        "Gradually add flour to form a dough.",
+        "Roll small pieces of dough into balls.",
+        "Flatten slightly.",
+        "Dip one side in sesame seeds, the other in pistachios.",
+        "Place on a baking sheet.",
+        "Bake for 15-18 minutes until golden.",
+        "Cool completely.",
+        "Serve with tea."
+      ],
+      "making_tips": [
+        "Barazek is a famous Syrian cookie.",
+        "The sesame and pistachio coating is distinctive.",
+        "The cookie should be crisp and crumbly.",
+        "Often served with Syrian coffee.",
+        "A beautiful and delicious cookie."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Syrian delicacy",
+      "better_than_store_bought": "Syrian barazek is a specialty—fresh is best.",
+      "hidden_nutrients": "Sesame seeds provide calcium and iron. Pistachios offer healthy fats."
+    },
+    {
+      "id": 299,
+      "name": "Syrian Baklava",
+      "country": "Syria",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "24 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Pastry": [
+          "1 packet phyllo pastry",
+          "250g clarified butter (semn)"
+        ],
+        "Filling": [
+          "400g pistachios, finely ground"
+        ],
+        "Syrup": [
+          "200g sugar",
+          "200ml water",
+          "1 tsp lemon juice",
+          "1 tsp orange blossom water"
+        ]
+      },
+      "steps": [
+        "Make Syrup: Boil sugar, water, and lemon juice for 15 minutes. Add orange blossom water. Cool.",
+        "Preheat oven to 160°C.",
+        "Butter a baking dish.",
+        "Layer 10 phyllo sheets, brushing each with butter.",
+        "Spread a layer of pistachios.",
+        "Top with 10 more phyllo sheets.",
+        "Cut into diamond shapes.",
+        "Bake for 45-50 minutes until golden.",
+        "Pour cold syrup over hot baklava.",
+        "Let soak for 2-3 hours.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Syrian baklava uses pistachios and is lighter.",
+        "Clarified butter (semn) is traditional.",
+        "The syrup is less sweet than other versions.",
+        "It should be crisp and not too syrupy.",
+        "A Damascus specialty."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Syrian sweet classic",
+      "better_than_store_bought": "Authentic Syrian baklava is a Damascus specialty.",
+      "hidden_nutrients": "Pistachios provide healthy fats and protein. Butter offers vitamin A."
+    },
+    {
+      "id": 300,
+      "name": "Syrian Tea",
+      "country": "Syria",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 tsp black tea (or 4 tea bags)",
+          "1 litre boiling water",
+          "2 tsp cinnamon (optional)",
+          "2 tsp cardamom (optional)",
+          "Sugar to taste"
+        ]
+      },
+      "steps": [
+        "In a teapot, add tea leaves.",
+        "Pour boiling water over the tea.",
+        "Add cinnamon or cardamom if desired.",
+        "Steep for 5 minutes.",
+        "Strain into cups.",
+        "Add sugar generously.",
+        "Serve hot."
+      ],
+      "making_tips": [
+        "Syrian tea is strong and heavily sweetened.",
+        "Spices like cinnamon and cardamom are common.",
+        "Tea is a sign of hospitality in Syria.",
+        "Often served with pistachio treats.",
+        "The tea should be dark amber."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Syrian hospitality",
+      "better_than_store_bought": "Syrian tea with spices is best made at home.",
+      "hidden_nutrients": "Tea provides antioxidants. Cinnamon aids blood sugar regulation."
+    }
+  ]
+}

@@ -1,0 +1,1095 @@
+{
+  "recipes": [
+    {
+      "id": 187,
+      "name": "Brigadeiro",
+      "country": "Brazil",
+      "category": "Snack",
+      "time": "30 minutes (plus chilling)",
+      "servings": "20 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 can (395g) sweetened condensed milk",
+          "4 tbsp unsweetened cocoa powder",
+          "2 tbsp unsalted butter",
+          "Chocolate sprinkles for coating"
+        ]
+      },
+      "steps": [
+        "Combine condensed milk, cocoa powder, and butter in a heavy-bottomed pan.",
+        "Cook over medium heat, stirring constantly with a spatula.",
+        "Continue stirring until the mixture thickens and begins to pull away from the pan (10-12 minutes).",
+        "The mixture is ready when you can see the bottom of the pan for a few seconds when scraping.",
+        "Pour the brigadeiro mixture onto a greased plate.",
+        "Let cool completely (about 30 minutes).",
+        "Butter your hands and roll the mixture into small balls.",
+        "Roll each ball in chocolate sprinkles.",
+        "Place in mini paper cups.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Stir constantly to prevent burning—this is the most important rule.",
+        "The mixture should be thick enough to hold its shape when cooled.",
+        "Use high-quality cocoa powder for the richest flavor.",
+        "Chilling the mixture makes it easier to roll.",
+        "Brigadeiro is Brazil's favorite birthday party treat."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Brazil's national sweet",
+      "better_than_store_bought": "Commercial brigadeiros have preservatives. Homemade are rich, fudgy, and fresh.",
+      "hidden_nutrients": "Cocoa provides antioxidants. Condensed milk offers calcium."
+    },
+    {
+      "id": 188,
+      "name": "Pão de Queijo (Cheese Bread)",
+      "country": "Brazil",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "20 small rolls",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "500g tapioca flour (sweet or sour)",
+          "240ml milk",
+          "120ml vegetable oil",
+          "1 tsp salt",
+          "2 large eggs",
+          "300g grated Parmesan cheese"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 190°C.",
+        "In a saucepan, heat milk, oil, and salt until just boiling.",
+        "Pour the hot liquid over tapioca flour in a mixing bowl.",
+        "Mix with a spoon until incorporated. Let cool slightly.",
+        "Add eggs one at a time, mixing well after each.",
+        "Add cheese and mix until a smooth dough forms.",
+        "Roll the dough into small balls (about 2-3cm diameter).",
+        "Place on a baking sheet lined with parchment paper.",
+        "Bake for 20-25 minutes until puffed and golden.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Tapioca flour is essential—this is the authentic Brazilian ingredient.",
+        "The dough should be soft but not sticky.",
+        "Pão de queijo is naturally gluten-free.",
+        "These are best eaten warm, straight from the oven.",
+        "They can be frozen unbaked and cooked directly from frozen."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Brazil's iconic snack",
+      "better_than_store_bought": "Commercial versions have additives. Homemade are fresh, cheesy, and puffy.",
+      "hidden_nutrients": "Parmesan provides calcium and protein. Eggs add protein."
+    },
+    {
+      "id": 189,
+      "name": "Quindim",
+      "country": "Brazil",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "12 small tarts",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "6 egg yolks",
+          "200g sugar",
+          "100g desiccated coconut",
+          "2 tbsp unsalted butter, melted",
+          "1 tbsp water"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 170°C. Butter small tart molds.",
+        "In a blender, combine egg yolks, sugar, coconut, butter, and water.",
+        "Blend until smooth.",
+        "Pour the mixture into the prepared molds, filling ¾ full.",
+        "Place molds in a baking dish with hot water (water bath).",
+        "Bake for 20-25 minutes until set and golden on top.",
+        "Let cool in the molds, then refrigerate.",
+        "Unmold carefully.",
+        "Serve chilled."
+      ],
+      "making_tips": [
+        "Quindim is an Afro-Brazilian coconut custard.",
+        "The water bath ensures even cooking.",
+        "The tops should be golden and slightly caramelized.",
+        "These are small, individual custard tarts.",
+        "The texture should be smooth and creamy."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Brazilian coconut classic",
+      "better_than_store_bought": "Bakery versions can be dry. Homemade is creamy and coconutty.",
+      "hidden_nutrients": "Coconut provides healthy fats. Egg yolks offer choline and vitamin D."
+    },
+    {
+      "id": 190,
+      "name": "Romeu e Julieta",
+      "country": "Brazil",
+      "category": "Snack",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g guava paste (goiabada)",
+          "200g firm white cheese (Minas, queso fresco, or mozzarella)"
+        ]
+      },
+      "steps": [
+        "Cut guava paste into thick slices.",
+        "Cut cheese into similarly thick slices.",
+        "Arrange guava and cheese slices alternately on a plate.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Romeu e Julieta is named after Shakespeare's lovers.",
+        "The sweet and savory combination is a Brazilian classic.",
+        "Guava paste and cheese are also often eaten as a dessert.",
+        "The cheese should be mild and firm.",
+        "This can be served as a snack or dessert."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Brazilian classic pairing",
+      "better_than_store_bought": "This simple dish is best made with high-quality artisanal cheese and guava paste.",
+      "hidden_nutrients": "Guava provides vitamin C and fiber. Cheese offers calcium."
+    },
+    {
+      "id": 191,
+      "name": "Beijinho (Coconut Candy)",
+      "country": "Brazil",
+      "category": "Snack",
+      "time": "30 minutes (plus chilling)",
+      "servings": "20 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 can (395g) sweetened condensed milk",
+          "100g desiccated coconut",
+          "2 tbsp unsalted butter",
+          "Desiccated coconut for coating"
+        ]
+      },
+      "steps": [
+        "Combine condensed milk, coconut, and butter in a heavy-bottomed pan.",
+        "Cook over medium heat, stirring constantly.",
+        "Continue until the mixture thickens and pulls away from the pan (10-12 minutes).",
+        "Pour onto a greased plate and let cool.",
+        "Butter your hands and roll into small balls.",
+        "Roll each ball in desiccated coconut.",
+        "Place in mini paper cups.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Beijinho means 'little kiss' in Portuguese.",
+        "This is the coconut version of brigadeiro.",
+        "Stir constantly to prevent burning.",
+        "The mixture should be thick enough to roll when cool.",
+        "A classic Brazilian party treat."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Brazilian coconut candy",
+      "better_than_store_bought": "Commercial beijinho has preservatives. Homemade is fresher and more coconutty.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber."
+    },
+    {
+      "id": 192,
+      "name": "Guaraná (Soda)",
+      "country": "Brazil",
+      "category": "Beverage",
+      "time": "30 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "2 tbsp guaraná powder",
+          "1 litre water",
+          "150g sugar",
+          "Soda water (for carbonation)",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "In a small pot, combine guaraná powder, water, and sugar.",
+        "Heat until sugar dissolves. Simmer for 5 minutes.",
+        "Strain to remove any solids.",
+        "Let the syrup cool completely.",
+        "To serve, mix 1 part syrup with 3 parts soda water.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Guaraná is an Amazonian berry with high caffeine content.",
+        "This is Brazil's favorite soda flavor.",
+        "The syrup can be made ahead and stored in the refrigerator.",
+        "Guaraná powder is available in health food stores.",
+        "Adjust sweetness to taste."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Brazil's national soda",
+      "better_than_store_bought": "Commercial guaraná has artificial flavors. Homemade uses real guaraná powder.",
+      "hidden_nutrients": "Guaraná provides caffeine and antioxidants."
+    },
+    {
+      "id": 193,
+      "name": "Caldo de Cana (Sugarcane Juice)",
+      "country": "Brazil",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "4-5 sugarcane stalks",
+          "2 limes",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Peel and clean sugarcane stalks.",
+        "Juice using a sugarcane press or heavy-duty juicer.",
+        "Strain the juice.",
+        "Add fresh lime juice.",
+        "Stir well.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Caldo de cana is Brazil's street drink.",
+        "It's extremely sweet—lime balances it perfectly.",
+        "Often sold by street vendors in Brazil.",
+        "Serve ice-cold.",
+        "Can be mixed with lemon or pineapple juice."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Brazilian street drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Fresh is incomparable.",
+      "hidden_nutrients": "Sugarcane provides trace minerals and electrolytes."
+    },
+    {
+      "id": 194,
+      "name": "Alfajores (Argentine)",
+      "country": "Argentina",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (plus chilling)",
+      "servings": "15 sandwiches",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cookies": [
+          "250g all-purpose flour",
+          "100g cornstarch",
+          "100g unsalted butter, softened",
+          "100g powdered sugar",
+          "3 egg yolks",
+          "1 tsp vanilla"
+        ],
+        "Filling": [
+          "400g dulce de leche"
+        ],
+        "Coating": [
+          "200g dark chocolate (optional)",
+          "Desiccated coconut (optional)"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 170°C.",
+        "Mix flour and cornstarch. Set aside.",
+        "Beat butter and sugar until fluffy. Add egg yolks and vanilla.",
+        "Gradually add flour mixture. Mix until dough forms.",
+        "Chill dough for 30 minutes.",
+        "Roll dough to 5mm thickness. Cut into rounds.",
+        "Place on baking sheet and bake for 12-15 minutes until lightly golden.",
+        "Cool completely.",
+        "Spread dulce de leche on one cookie and top with another.",
+        "Optional: Dip in melted chocolate or roll in coconut."
+      ],
+      "making_tips": [
+        "Cornstarch gives alfajores their signature crumbly texture.",
+        "The dulce de leche should be thick and smooth.",
+        "This is Argentina's national sweet.",
+        "Alfajores can be coated in chocolate, coconut, or powdered sugar.",
+        "They taste better the next day after the flavors meld."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Argentina's favorite treat",
+      "better_than_store_bought": "Commercial alfajores have preservatives. Homemade are crumbly and rich.",
+      "hidden_nutrients": "Egg yolks provide protein. Dulce de leche offers calcium."
+    },
+    {
+      "id": 195,
+      "name": "Facturas (Sweet Pastries)",
+      "country": "Argentina",
+      "category": "Snack",
+      "time": "2 hours (includes rising)",
+      "servings": "12 pastries",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "500g bread flour",
+          "7g instant yeast",
+          "100g sugar",
+          "½ tsp salt",
+          "240ml warm milk",
+          "2 large eggs",
+          "80g unsalted butter, softened"
+        ],
+        "Filling": [
+          "Dulce de leche",
+          "Pastry cream",
+          "Quince paste"
+        ],
+        "Syrup": [
+          "150g sugar",
+          "100ml water"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, yeast, sugar, and salt. Add milk, eggs, and butter. Knead until smooth.",
+        "Cover and let rise 1 hour.",
+        "Punch down dough. Divide into 12 pieces.",
+        "Shape each piece into various forms (croissants, medias lunas).",
+        "Fill with dulce de leche or pastry cream.",
+        "Let rise 30 minutes.",
+        "Bake at 180°C for 18-20 minutes.",
+        "Make Syrup: Boil sugar and water until slightly thickened.",
+        "Brush warm pastries with syrup.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Facturas are Argentina's favorite breakfast pastries.",
+        "The syrup gives them a signature glaze.",
+        "Different shapes have different names.",
+        "Medias lunas are the croissant-like version.",
+        "Best eaten fresh."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Argentine bakery classic",
+      "better_than_store_bought": "Bakery versions can be day-old. Homemade are fresh and warm.",
+      "hidden_nutrients": "Eggs and milk provide protein. The pastries are a treat."
+    },
+    {
+      "id": 196,
+      "name": "Argentine Limonada",
+      "country": "Argentina",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 lemons",
+          "1 litre water",
+          "100g sugar",
+          "Fresh mint",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Juice lemons to get fresh lemon juice.",
+        "In a pitcher, combine lemon juice, water, and sugar.",
+        "Add fresh mint leaves.",
+        "Stir until sugar dissolves.",
+        "Chill thoroughly.",
+        "Serve over ice with mint sprigs."
+      ],
+      "making_tips": [
+        "Argentine limonada is simple and refreshing.",
+        "Mint gives it a bright, fresh flavor.",
+        "This is Argentina's lemonade.",
+        "Adjust sweetness to taste.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Argentine classic lemonade",
+      "better_than_store_bought": "Bottled lemonade has preservatives. Homemade is fresh and minty.",
+      "hidden_nutrients": "Lemons provide vitamin C. Mint aids digestion."
+    },
+    {
+      "id": 197,
+      "name": "Suspiro Limeño",
+      "country": "Peru",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "6 servings",
+      "difficulty": "Medium-Hard",
+      "ingredients": {
+        "Base": [
+          "1 can (395g) sweetened condensed milk",
+          "1 can (350ml) evaporated milk",
+          "4 egg yolks",
+          "1 tbsp cornstarch",
+          "1 tsp vanilla"
+        ],
+        "Meringue": [
+          "4 egg whites",
+          "150g sugar",
+          "1 tbsp port wine or sherry (optional)"
+        ]
+      },
+      "steps": [
+        "Make Base: In a heavy pot, combine condensed milk, evaporated milk, and cornstarch.",
+        "Cook over medium heat, stirring constantly.",
+        "Add egg yolks and whisk vigorously.",
+        "Continue cooking until thick and creamy (about 10 minutes).",
+        "Add vanilla. Pour into serving bowls and cool.",
+        "Make Meringue: Beat egg whites until foamy.",
+        "Gradually add sugar, beating to stiff peaks.",
+        "Fold in port wine if using.",
+        "Top each bowl with meringue.",
+        "Lightly torch the meringue.",
+        "Serve chilled."
+      ],
+      "making_tips": [
+        "Suspiro Limeño means 'Lima's sigh' in Spanish.",
+        "This is Peru's most famous dessert.",
+        "The base should be silky and creamy.",
+        "The meringue should be light and fluffy.",
+        "Serve in individual glass bowls."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Peru's most famous dessert",
+      "better_than_store_bought": "This is a delicate dessert that is best made fresh at home.",
+      "hidden_nutrients": "Eggs provide protein. Milk adds calcium."
+    },
+    {
+      "id": 198,
+      "name": "Mazamorra Morada",
+      "country": "Peru",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "500g purple corn",
+          "1.5 litres water",
+          "200g sugar",
+          "2 cinnamon sticks",
+          "4 cloves",
+          "Apple chunks",
+          "Pineapple chunks",
+          "Dried fruits",
+          "Cornstarch for thickening"
+        ]
+      },
+      "steps": [
+        "Boil purple corn in water with cinnamon and cloves for 1 hour.",
+        "Strain the liquid. Discard corn.",
+        "Return liquid to the pot. Add sugar.",
+        "Add apple and pineapple chunks.",
+        "Mix cornstarch with a little water. Add to the pot.",
+        "Cook until thickened (5-10 minutes).",
+        "Add dried fruits.",
+        "Pour into bowls and cool.",
+        "Serve warm or chilled."
+      ],
+      "making_tips": [
+        "Mazamorra morada is made from purple corn—a Peruvian staple.",
+        "The color should be deep purple.",
+        "The fruit gives it a wonderful texture.",
+        "Often served with rice pudding.",
+        "This is a Peruvian comfort dessert."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Peruvian purple corn classic",
+      "better_than_store_bought": "Canned versions can't compare. Homemade has fresh fruit and authentic color.",
+      "hidden_nutrients": "Purple corn provides antioxidants. Fruit adds vitamins."
+    },
+    {
+      "id": 199,
+      "name": "Picarones",
+      "country": "Peru",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "15 pieces",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "250g sweet potato, boiled and mashed",
+          "150g squash (zapallo), boiled and mashed",
+          "300g all-purpose flour",
+          "7g instant yeast",
+          "100g sugar",
+          "½ tsp salt",
+          "1 tsp aniseed"
+        ],
+        "Syrup": [
+          "200g sugar",
+          "200ml water",
+          "1 cinnamon stick",
+          "Orange peel"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix mashed sweet potato and squash with flour, yeast, sugar, salt, and aniseed.",
+        "Knead into a soft dough. Let rise 1 hour.",
+        "Make Syrup: Boil sugar, water, cinnamon, and orange peel for 15 minutes.",
+        "Punch down dough. Roll into a long rope.",
+        "Form ring shapes (like doughnuts).",
+        "Heat oil to 170°C.",
+        "Fry picarones until golden.",
+        "Drain on paper towels.",
+        "Drench in syrup.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Picarones are Peru's signature doughnuts.",
+        "The sweet potato and squash make them unique.",
+        "Aniseed gives them a distinct flavor.",
+        "They are traditionally served at festivals.",
+        "Best served fresh and warm."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Peruvian festival favorite",
+      "better_than_store_bought": "Street versions can be greasy. Homemade are lighter and fresher.",
+      "hidden_nutrients": "Sweet potato provides vitamin A and fiber."
+    },
+    {
+      "id": 200,
+      "name": "Chicha Morada (Purple Corn Drink)",
+      "country": "Peru",
+      "category": "Beverage",
+      "time": "1 hour (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g purple corn",
+          "1.5 litres water",
+          "150g sugar",
+          "2 cinnamon sticks",
+          "4 cloves",
+          "Pineapple peel",
+          "Lime juice"
+        ]
+      },
+      "steps": [
+        "Combine purple corn, water, cinnamon, cloves, and pineapple peel in a pot.",
+        "Boil for 45 minutes.",
+        "Strain the liquid.",
+        "Add sugar and lime juice.",
+        "Stir until sugar dissolves.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Chicha morada is Peru's national drink.",
+        "The color is a stunning deep purple.",
+        "This is a non-alcoholic drink.",
+        "Can be served with apple chunks.",
+        "A refreshing and healthy drink."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Peru's national drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is vibrant and authentic.",
+      "hidden_nutrients": "Purple corn provides antioxidants. Pineapple adds vitamin C."
+    },
+    {
+      "id": 201,
+      "name": "Bocadillo con Queso (Colombian)",
+      "country": "Colombia",
+      "category": "Snack",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g guava paste (bocadillo)",
+          "200g white cheese (queso fresco or farmers cheese)"
+        ]
+      },
+      "steps": [
+        "Cut guava paste into thick slices.",
+        "Cut cheese into similarly thick slices.",
+        "Arrange guava and cheese slices on a plate.",
+        "Serve at room temperature."
+      ],
+      "making_tips": [
+        "Bocadillo con queso is Colombia's favorite snack.",
+        "The sweet and salty combination is addictive.",
+        "This is a classic Colombian 'merienda.'",
+        "The guava paste should be soft enough to cut.",
+        "Simple, delicious, and satisfying."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Colombian classic snack",
+      "better_than_store_bought": "Quality ingredients are key—artisanal guava paste and fresh cheese make all the difference.",
+      "hidden_nutrients": "Guava provides vitamin C and fiber. Cheese offers calcium."
+    },
+    {
+      "id": 202,
+      "name": "Natilla (Colombian)",
+      "country": "Colombia",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "6 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500ml milk",
+          "100g cornstarch",
+          "200g panela (or brown sugar)",
+          "1 cinnamon stick",
+          "1 tsp aniseed",
+          "Orange peel"
+        ]
+      },
+      "steps": [
+        "Dissolve cornstarch in a little cold milk.",
+        "In a pot, combine remaining milk, panela, cinnamon, aniseed, and orange peel.",
+        "Heat until sugar dissolves.",
+        "Strain to remove solids.",
+        "Return to pot. Add cornstarch mixture.",
+        "Cook over medium heat, stirring constantly.",
+        "Continue until thick and creamy.",
+        "Pour into a mold.",
+        "Chill for 2 hours.",
+        "Unmold and slice."
+      ],
+      "making_tips": [
+        "Natilla is a Colombian Christmas dessert.",
+        "Panela (raw cane sugar) gives it the authentic flavor.",
+        "It should be thick enough to slice.",
+        "Often served with 'buñuelos' during holidays.",
+        "A comforting, nostalgic dessert."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Colombian Christmas tradition",
+      "better_than_store_bought": "Commercial natilla has additives. Homemade is smooth and spiced.",
+      "hidden_nutrients": "Milk provides calcium. Panela offers trace minerals."
+    },
+    {
+      "id": 203,
+      "name": "Lulada (Lulo Drink)",
+      "country": "Colombia",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 ripe lulo fruits",
+          "1 litre water",
+          "100g sugar",
+          "Lime juice",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Peel and chop lulo fruits.",
+        "Blend lulo with 500ml water until smooth.",
+        "Strain to remove seeds and pulp.",
+        "Add remaining water, sugar, and lime juice.",
+        "Stir to dissolve sugar.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Lulo is a Colombian fruit with a sweet-sour flavor.",
+        "This is a popular Colombian refresher.",
+        "Adjust sweetness to taste.",
+        "The drink is vibrant and refreshing.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Colombian fruit drink",
+      "better_than_store_bought": "Bottled lulo juice has preservatives. Homemade is fresh and fruity.",
+      "hidden_nutrients": "Lulo provides vitamin C and antioxidants."
+    },
+    {
+      "id": 204,
+      "name": "Bienmesabe (Venezuelan)",
+      "country": "Venezuela",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "400ml coconut milk",
+          "400ml sweetened condensed milk",
+          "4 egg yolks",
+          "1 tsp vanilla",
+          "½ tsp salt",
+          "100g desiccated coconut",
+          "Caramel sauce for serving"
+        ]
+      },
+      "steps": [
+        "Combine coconut milk, condensed milk, egg yolks, vanilla, and salt in a pot.",
+        "Cook over medium heat, stirring constantly.",
+        "Continue until mixture thickens (10-12 minutes).",
+        "Remove from heat. Stir in desiccated coconut.",
+        "Pour into individual bowls.",
+        "Top with caramel sauce.",
+        "Serve warm or chilled."
+      ],
+      "making_tips": [
+        "Bienmesabe means 'it tastes good to me' in Spanish.",
+        "This is a Venezuelan coconut dessert.",
+        "Stir constantly to prevent curdling.",
+        "The texture should be creamy and thick.",
+        "Serve with extra caramel sauce."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Venezuelan coconut classic",
+      "better_than_store_bought": "This is a traditional home dessert, best made from scratch.",
+      "hidden_nutrients": "Coconut provides healthy fats. Egg yolks offer choline."
+    },
+    {
+      "id": 205,
+      "name": "Papelon con Limón",
+      "country": "Venezuela",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g panela (paperón)",
+          "1 litre water",
+          "4 limes",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Grate or chop panela.",
+        "In a pot, dissolve panela in 500ml hot water.",
+        "Let cool completely.",
+        "Juice limes.",
+        "Combine panela water, lime juice, and remaining water.",
+        "Stir well.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Papelón con limón is Venezuela's national drink.",
+        "Panela is raw, unrefined cane sugar.",
+        "It's sweet and refreshing.",
+        "Adjust lime to balance the sweetness.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Venezuela's national drink",
+      "better_than_store_bought": "Bottled versions can't match the fresh taste of homemade papelón.",
+      "hidden_nutrients": "Panela provides trace minerals. Limes offer vitamin C."
+    },
+    {
+      "id": 206,
+      "name": "Empanadas de Dulce (Chilean)",
+      "country": "Chile",
+      "category": "Snack",
+      "time": "1 hour 30 minutes",
+      "servings": "12 empanadas",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "100g vegetable shortening",
+          "1 tsp salt",
+          "150ml warm water"
+        ],
+        "Filling": [
+          "200g quince paste (dulce de membrillo)",
+          "200g manjar (dulce de leche)",
+          "Powdered sugar for dusting"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour and salt. Cut in shortening until crumbly.",
+        "Add water gradually, kneading into smooth dough. Rest 30 minutes.",
+        "Roll dough to 3mm thickness. Cut into rounds.",
+        "Place filling (quince paste or manjar) in the center.",
+        "Fold and seal edges with a fork.",
+        "Heat oil to 170°C.",
+        "Fry empanadas until golden and crisp.",
+        "Drain on paper towels.",
+        "Dust with powdered sugar.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Empanadas de dulce are a Chilean favorite.",
+        "Quince paste and manjar are the classic fillings.",
+        "The dough should be tender and flaky.",
+        "These are often eaten during national holidays.",
+        "Best served fresh and warm."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Chilean sweet empanada",
+      "better_than_store_bought": "Bakery versions can be dry. Homemade are fresh and filled generously.",
+      "hidden_nutrients": "Quince paste provides fiber. The empanadas are a treat."
+    },
+    {
+      "id": 207,
+      "name": "Mote con Huesillo",
+      "country": "Chile",
+      "category": "Beverage",
+      "time": "2 hours (plus soaking)",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "300g dried peaches (huesillos)",
+          "200g cooked wheat (mote)",
+          "1.5 litres water",
+          "200g sugar",
+          "2 cinnamon sticks"
+        ]
+      },
+      "steps": [
+        "Soak dried peaches in water overnight.",
+        "In a pot, combine peaches, soaking water, sugar, and cinnamon.",
+        "Cook for 1 hour until peaches are soft and syrup is thick.",
+        "Cook mote according to package instructions.",
+        "To serve, place a spoonful of mote in a glass.",
+        "Add a peach and fill with the sweet syrup.",
+        "Serve warm or at room temperature."
+      ],
+      "making_tips": [
+        "Mote con huesillo is Chile's national drink.",
+        "It's a thick drink, almost a dessert.",
+        "Huesillos are dried peaches—they reconstitute in syrup.",
+        "Mote is cooked wheat—it's chewy and filling.",
+        "A traditional Chilean summer favorite."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Chile's national drink",
+      "better_than_store_bought": "Canned versions can't match homemade. Fresh mote and tender peaches are best.",
+      "hidden_nutrients": "Peaches provide vitamin A. Wheat offers fiber."
+    },
+    {
+      "id": 208,
+      "name": "Colada Morada (Ecuadorian)",
+      "country": "Ecuador",
+      "category": "Beverage",
+      "time": "1 hour 15 minutes",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "500g purple corn",
+          "1.5 litres water",
+          "200g sugar",
+          "2 cinnamon sticks",
+          "4 cloves",
+          "Pineapple chunks",
+          "Strawberries",
+          "Blueberries",
+          "Blackberries",
+          "Cornstarch for thickening"
+        ]
+      },
+      "steps": [
+        "Boil purple corn with water, cinnamon, and cloves for 1 hour.",
+        "Strain the liquid. Discard corn.",
+        "Return liquid to the pot. Add sugar.",
+        "Add pineapple chunks and berries.",
+        "Mix cornstarch with water. Add to the pot.",
+        "Cook until thickened (5-10 minutes).",
+        "Serve warm in bowls.",
+        "Traditionally served with bread."
+      ],
+      "making_tips": [
+        "Colada morada is a traditional Ecuadorian drink for Day of the Dead.",
+        "It's thick and fruity—almost a dessert.",
+        "The color is a rich deep purple.",
+        "Full of berries and fruit.",
+        "Served warm with 'guaguas de pan' (bread babies)."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Ecuadorian Day of the Dead tradition",
+      "better_than_store_bought": "This is a traditional drink made fresh for the celebration.",
+      "hidden_nutrients": "Purple corn and berries provide antioxidants. Fruit adds vitamins."
+    },
+    {
+      "id": 209,
+      "name": "Cocadas (Bolivian)",
+      "country": "Bolivia",
+      "category": "Snack",
+      "time": "30 minutes",
+      "servings": "15 pieces",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "300g desiccated coconut",
+          "1 can (395g) sweetened condensed milk",
+          "1 tsp vanilla",
+          "2 egg whites (optional)"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 160°C.",
+        "In a bowl, combine coconut, condensed milk, and vanilla.",
+        "If using, beat egg whites and fold in.",
+        "Drop spoonfuls of the mixture onto a lined baking sheet.",
+        "Bake for 15-20 minutes until golden.",
+        "Let cool completely.",
+        "Serve as cookies."
+      ],
+      "making_tips": [
+        "Cocadas are popular across South America.",
+        "This is the Bolivian version—simple and coconutty.",
+        "They should be chewy and golden.",
+        "Can be made without egg whites for a denser texture.",
+        "Store in an airtight container."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Bolivian coconut cookie",
+      "better_than_store_bought": "Commercial cocadas have additives. Homemade are simple and fresh.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber."
+    },
+    {
+      "id": 210,
+      "name": "Api (Bolivian Purple Corn Drink)",
+      "country": "Bolivia",
+      "category": "Beverage",
+      "time": "1 hour 15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500g purple corn flour (or dried purple corn)",
+          "1.5 litres water",
+          "150g sugar",
+          "2 cinnamon sticks",
+          "Ground cinnamon for garnish"
+        ]
+      },
+      "steps": [
+        "Boil purple corn in water with cinnamon for 1 hour.",
+        "Strain the liquid.",
+        "Add sugar to the liquid and stir to dissolve.",
+        "Return to low heat and simmer until thickened.",
+        "Serve warm in cups.",
+        "Sprinkle with ground cinnamon."
+      ],
+      "making_tips": [
+        "Api is a traditional Bolivian breakfast drink.",
+        "It's thick, warm, and comforting.",
+        "Often served with 'pasteles' (pastries).",
+        "The purple color is from the corn.",
+        "A favorite in the Andes."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Bolivian Andean tradition",
+      "better_than_store_bought": "This is a traditional Andean drink, best made fresh.",
+      "hidden_nutrients": "Purple corn provides antioxidants. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 211,
+      "name": "Chipa Guazú (Sweet Corn Cake)",
+      "country": "Paraguay",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "1 cake (8 slices)",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "400g fresh corn kernels (or canned)",
+          "200g grated cheese (Paraguayan or mozzarella)",
+          "3 large eggs",
+          "200ml milk",
+          "100g cornmeal",
+          "50g sugar",
+          "1 tsp salt",
+          "2 tbsp vegetable oil"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C.",
+        "In a blender, combine corn, eggs, milk, and oil. Blend until smooth.",
+        "Transfer to a bowl. Add cornmeal, cheese, sugar, and salt.",
+        "Mix well.",
+        "Pour into a greased baking dish.",
+        "Bake for 35-40 minutes until golden and set.",
+        "Let cool slightly.",
+        "Cut into squares and serve warm."
+      ],
+      "making_tips": [
+        "Chipa guazú is a traditional Paraguayan cake.",
+        "It's made with fresh corn and cheese.",
+        "This is a sweet version—there is also a savory version.",
+        "The texture is moist and pudding-like.",
+        "Serve warm for the best experience."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Paraguayan classic",
+      "better_than_store_bought": "This traditional cake is best fresh from the oven.",
+      "hidden_nutrients": "Corn provides fiber and B vitamins. Cheese adds calcium and protein."
+    },
+    {
+      "id": 212,
+      "name": "Mate Dulce (Sweetened Yerba Mate)",
+      "country": "Uruguay",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "50g yerba mate",
+          "1 litre hot water (80°C)",
+          "100g sugar"
+        ]
+      },
+      "steps": [
+        "Place yerba mate in a teapot or French press.",
+        "Add hot water and let steep for 5 minutes.",
+        "Strain to remove leaves.",
+        "Add sugar and stir until dissolved.",
+        "Serve warm in small cups."
+      ],
+      "making_tips": [
+        "Mate is the national drink of Argentina, Uruguay, and Paraguay.",
+        "This is the sweetened version—'mate dulce.'",
+        "Water should be hot but not boiling.",
+        "Traditionally drunk from a gourd with a metal straw.",
+        "The flavor is earthy and herbal."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – River Plate tradition",
+      "better_than_store_bought": "Bottled mate has additives. Homemade is pure and authentic.",
+      "hidden_nutrients": "Yerba mate provides caffeine and antioxidants."
+    },
+    {
+      "id": 213,
+      "name": "Soda Italiana (Uruguayan)",
+      "country": "Uruguay",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4 tbsp fruit syrup (strawberry, peach, or passion fruit)",
+          "Soda water",
+          "Ice cubes",
+          "Fresh fruit for garnish"
+        ]
+      },
+      "steps": [
+        "Pour fruit syrup into tall glasses.",
+        "Add ice cubes.",
+        "Top with soda water.",
+        "Stir gently.",
+        "Garnish with fresh fruit.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Soda italiana is a popular Uruguayan drink.",
+        "The name means 'Italian soda'.",
+        "Use high-quality fruit syrup for the best flavor.",
+        "The soda should be very cold.",
+        "A refreshing and simple drink."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Uruguayan soda fountain classic",
+      "better_than_store_bought": "Cafe versions use syrup from bottles. Homemade can use artisanal syrup.",
+      "hidden_nutrients": "Fruit syrup provides trace vitamins."
+    }
+  ]
+}

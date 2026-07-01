@@ -1,0 +1,1875 @@
+{
+  "recipes": [
+    {
+      "id": 143,
+      "name": "Chocolate Chip Cookies",
+      "country": "United States",
+      "category": "Snack",
+      "time": "1 hour (includes chilling)",
+      "servings": "24 cookies",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Dough": [
+          "230g unsalted butter, softened",
+          "200g brown sugar",
+          "100g granulated sugar",
+          "2 large eggs",
+          "2 tsp vanilla extract",
+          "310g all-purpose flour",
+          "1 tsp baking soda",
+          "½ tsp salt",
+          "340g semi-sweet chocolate chips"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C. Line baking sheets with parchment paper.",
+        "Cream butter and sugars until light and fluffy (3-4 minutes).",
+        "Add eggs one at a time, beating well. Add vanilla.",
+        "Whisk flour, baking soda, and salt in a separate bowl.",
+        "Gradually add dry ingredients to wet mixture. Mix until just combined.",
+        "Fold in chocolate chips.",
+        "Chill dough for 30 minutes (prevents spreading).",
+        "Scoop 2-tablespoon portions onto baking sheets, spaced apart.",
+        "Bake for 10-12 minutes until edges are golden and centers are still soft.",
+        "Cool on baking sheet for 5 minutes, then transfer to wire rack."
+      ],
+      "making_tips": [
+        "Use room temperature butter for the best creaming texture.",
+        "Don't overmix the dough once flour is added—this keeps cookies tender.",
+        "Chilling the dough is essential for thick, chewy cookies.",
+        "Remove from oven when edges are golden but centers look under-baked—they continue cooking on the hot sheet.",
+        "Bake one sheet at a time for even heat distribution."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – America's iconic cookie",
+      "better_than_store_bought": "Commercial cookies have preservatives and artificial flavors. Homemade have rich butter flavor and perfect texture.",
+      "hidden_nutrients": "Eggs provide protein. Chocolate offers antioxidants."
+    },
+    {
+      "id": 144,
+      "name": "Brownies",
+      "country": "United States",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 squares",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Batter": [
+          "200g unsalted butter",
+          "300g granulated sugar",
+          "4 large eggs",
+          "1 tsp vanilla extract",
+          "100g all-purpose flour",
+          "75g unsweetened cocoa powder",
+          "½ tsp salt",
+          "100g chopped walnuts (optional)"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 175°C. Grease a 20x20cm baking pan.",
+        "Melt butter in a saucepan over low heat. Remove from heat.",
+        "Stir in sugar until well combined.",
+        "Add eggs one at a time, mixing well after each. Add vanilla.",
+        "Sift flour, cocoa powder, and salt into the wet mixture.",
+        "Fold gently until just combined—do not overmix.",
+        "Fold in walnuts if using.",
+        "Pour batter into prepared pan and smooth the top.",
+        "Bake for 35-40 minutes. A toothpick should come out with moist crumbs.",
+        "Cool completely in the pan before cutting."
+      ],
+      "making_tips": [
+        "Use natural unsweetened cocoa for the deepest chocolate flavor.",
+        "Overmixing the batter creates tough brownies—fold gently.",
+        "The toothpick test: fudgy brownies have moist crumbs, not wet batter.",
+        "For cleaner cuts, refrigerate brownies for 1 hour before slicing.",
+        "Sprinkle sea salt on top before baking for a gourmet touch."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – American classic dessert",
+      "better_than_store_bought": "Boxed mixes have artificial ingredients. Homemade brownies are intensely chocolatey and perfectly fudgy.",
+      "hidden_nutrients": "Walnuts provide healthy fats and omega-3s. Eggs add protein."
+    },
+    {
+      "id": 145,
+      "name": "Apple Pie",
+      "country": "United States",
+      "category": "Snack",
+      "time": "2 hours (includes chilling)",
+      "servings": "1 pie (8 slices)",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Crust": [
+          "360g all-purpose flour",
+          "1 tsp salt",
+          "230g unsalted butter, cold and cubed",
+          "6-8 tbsp ice water"
+        ],
+        "Filling": [
+          "6-8 apples (Granny Smith and Honeycrisp), peeled and sliced",
+          "150g granulated sugar",
+          "100g brown sugar",
+          "2 tbsp all-purpose flour",
+          "2 tsp cinnamon",
+          "¼ tsp nutmeg",
+          "1 tbsp lemon juice"
+        ],
+        "Egg Wash": [
+          "1 egg",
+          "1 tbsp milk"
+        ]
+      },
+      "steps": [
+        "Make Crust: Mix flour and salt. Cut in cold butter until pea-sized crumbs form.",
+        "Add ice water gradually, mixing until dough just comes together.",
+        "Divide dough in half, flatten into discs, wrap, and chill 1 hour.",
+        "Make Filling: Mix apples, sugars, flour, spices, and lemon juice. Let sit 15 minutes.",
+        "Roll out one disc and line a 9-inch pie dish.",
+        "Add apple filling, mounding slightly in the center.",
+        "Roll out second disc and place over filling. Crimp edges.",
+        "Cut vents in the top crust. Brush with egg wash.",
+        "Bake at 190°C for 45-50 minutes, covering edges with foil if browning too fast.",
+        "Cool completely on a wire rack before slicing."
+      ],
+      "making_tips": [
+        "Keep all crust ingredients ice-cold for a flaky texture.",
+        "Use a mix of apple varieties for the best flavor complexity.",
+        "Don't overfill the pie or the filling will bubble out.",
+        "Place the pie on a baking sheet to catch drips.",
+        "Let the pie cool for at least 2 hours—hot filling will run."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Symbol of American home baking",
+      "better_than_store_bought": "Commercial pies use shortening and preservatives. Homemade has real butter and fresh apples.",
+      "hidden_nutrients": "Apples provide fiber and vitamin C. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 146,
+      "name": "Cheesecake (New York Style)",
+      "country": "United States",
+      "category": "Snack",
+      "time": "4 hours (includes chilling)",
+      "servings": "1 cake (12 slices)",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Crust": [
+          "200g graham cracker crumbs",
+          "80g unsalted butter, melted",
+          "50g sugar"
+        ],
+        "Filling": [
+          "900g cream cheese, softened",
+          "250g granulated sugar",
+          "3 tbsp all-purpose flour",
+          "4 large eggs",
+          "2 tsp vanilla extract",
+          "1 tsp lemon zest",
+          "240ml sour cream"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 160°C. Grease a 9-inch springform pan.",
+        "Make Crust: Mix graham crumbs, melted butter, and sugar. Press into the bottom of the pan.",
+        "Bake crust for 10 minutes. Cool.",
+        "Make Filling: Beat cream cheese and sugar until smooth.",
+        "Add flour, then eggs one at a time, beating well.",
+        "Add vanilla, lemon zest, and sour cream. Beat until just combined.",
+        "Pour filling over crust and smooth the top.",
+        "Bake for 55-65 minutes—center should still jiggle slightly.",
+        "Turn oven off, crack the door, and let cool for 1 hour.",
+        "Refrigerate for at least 4 hours before serving."
+      ],
+      "making_tips": [
+        "Use full-fat cream cheese for the creamiest texture—low-fat versions won't set properly.",
+        "All ingredients must be at room temperature to avoid lumps.",
+        "Don't overbeat the batter or the cheesecake will crack.",
+        "Water bath baking prevents cracking—wrap the pan in foil and place in a pan of hot water.",
+        "A jiggly center is the sign of a perfectly baked cheesecake."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – New York deli classic",
+      "better_than_store_bought": "Commercial cheesecakes use stabilizers. Homemade has pure cream cheese flavor and silky texture.",
+      "hidden_nutrients": "Cream cheese provides calcium and protein. Eggs add protein."
+    },
+    {
+      "id": 147,
+      "name": "Donuts (Yeast-Raised)",
+      "country": "United States",
+      "category": "Snack",
+      "time": "2 hours 30 minutes (includes rising)",
+      "servings": "12 donuts",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "500g all-purpose flour",
+          "7g instant yeast",
+          "100g sugar",
+          "1 tsp salt",
+          "240ml warm milk",
+          "2 large eggs",
+          "60g unsalted butter, softened"
+        ],
+        "Glaze": [
+          "250g powdered sugar",
+          "60ml milk",
+          "1 tsp vanilla"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, and salt in a stand mixer.",
+        "Add warm milk, eggs, and butter. Knead until smooth and elastic (8-10 minutes).",
+        "Cover and let rise until doubled (1 hour).",
+        "Punch down dough. Roll to 1cm thickness.",
+        "Cut into donut shapes using a cutter. Let rise 30 minutes.",
+        "Heat oil to 175°C.",
+        "Fry donuts for 1-2 minutes per side until golden brown.",
+        "Drain on paper towels.",
+        "Make Glaze: Mix powdered sugar, milk, and vanilla until smooth.",
+        "Dip warm donuts in glaze and set on a wire rack."
+      ],
+      "making_tips": [
+        "The dough should be soft and slightly sticky—this ensures light donuts.",
+        "Oil temperature is critical: too hot burns the outside, too cool makes greasy donuts.",
+        "Fry only a few donuts at a time to maintain temperature.",
+        "Donuts are best eaten fresh; they lose freshness within hours.",
+        "The glaze should be thin enough to coat but thick enough to set."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – American breakfast icon",
+      "better_than_store_bought": "Commercial donuts contain dough conditioners. Homemade are pillowy-soft and freshly glazed.",
+      "hidden_nutrients": "Eggs and milk provide protein. Homemade has no preservatives."
+    },
+    {
+      "id": 148,
+      "name": "Milkshake (Classic Vanilla)",
+      "country": "United States",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "600ml vanilla ice cream",
+          "240ml whole milk",
+          "2 tbsp sugar (optional)",
+          "1 tsp vanilla extract",
+          "Whipped cream for topping"
+        ]
+      },
+      "steps": [
+        "Combine ice cream, milk, sugar, and vanilla in a blender.",
+        "Blend until smooth and thick (20-30 seconds).",
+        "Pour into tall glasses.",
+        "Top with whipped cream.",
+        "Add a cherry and straw.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Use premium ice cream for the richest flavor.",
+        "The milk-to-ice-cream ratio determines thickness—add more ice cream for a thicker shake.",
+        "Chill the glasses before serving.",
+        "Don't overblend or the shake will become thin.",
+        "Add a drizzle of chocolate syrup for extra indulgence."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – American diner classic",
+      "better_than_store_bought": "Fast-food milkshakes have artificial thickeners. Homemade has real ice cream and pure vanilla.",
+      "hidden_nutrients": "Milk and ice cream provide calcium and protein."
+    },
+    {
+      "id": 149,
+      "name": "Lemonade (Classic)",
+      "country": "United States",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4-5 large lemons",
+          "1 litre water",
+          "150g sugar",
+          "Ice cubes",
+          "Lemon slices for garnish"
+        ]
+      },
+      "steps": [
+        "Juice lemons to get 240ml fresh lemon juice.",
+        "In a pitcher, combine sugar with 500ml hot water. Stir until sugar dissolves.",
+        "Add cold water and lemon juice.",
+        "Adjust sweetness to taste.",
+        "Chill in the refrigerator.",
+        "Serve over ice, garnished with lemon slices."
+      ],
+      "making_tips": [
+        "Roll lemons on the counter before juicing to extract more juice.",
+        "Use fresh lemons only—bottled juice has a flat flavor.",
+        "Simple syrup (dissolved sugar) prevents gritty sweetness.",
+        "Add fresh mint or berries for a twist.",
+        "Serve ice-cold for maximum refreshment."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – American summer classic",
+      "better_than_store_bought": "Bottled lemonade has preservatives and high-fructose corn syrup. Homemade is fresh and natural.",
+      "hidden_nutrients": "Lemons provide vitamin C and antioxidants."
+    },
+    {
+      "id": 150,
+      "name": "Root Beer Float",
+      "country": "United States",
+      "category": "Beverage",
+      "time": "5 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "600ml root beer (or cola)",
+          "2 scoops vanilla ice cream",
+          "Whipped cream (optional)",
+          "Cherry for garnish"
+        ]
+      },
+      "steps": [
+        "Chill tall glasses.",
+        "Add 2 scoops of vanilla ice cream to each glass.",
+        "Slowly pour root beer over the ice cream.",
+        "The foam will rise—pour carefully.",
+        "Top with whipped cream if desired.",
+        "Add a cherry and a straw.",
+        "Serve immediately with a spoon and straw."
+      ],
+      "making_tips": [
+        "Use premium vanilla ice cream for the creamiest flavor.",
+        "Pour the root beer slowly down the side to control the foam.",
+        "The best root beer floats are served immediately.",
+        "Use a wide-brimmed glass for maximum enjoyment.",
+        "Let the ice cream soften slightly for easier scooping."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – American soda fountain classic",
+      "better_than_store_bought": "Cafe versions use cheap ice cream. Homemade uses premium ingredients.",
+      "hidden_nutrients": "Ice cream provides calcium and protein."
+    },
+    {
+      "id": 151,
+      "name": "Nanaimo Bars",
+      "country": "Canada",
+      "category": "Snack",
+      "time": "45 minutes (plus chilling)",
+      "servings": "16 bars",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Bottom Layer": [
+          "150g graham cracker crumbs",
+          "100g desiccated coconut",
+          "100g chopped walnuts",
+          "100g unsalted butter, melted",
+          "50g sugar",
+          "2 tbsp cocoa powder",
+          "1 egg"
+        ],
+        "Middle Layer": [
+          "120g unsalted butter, softened",
+          "3 tbsp custard powder",
+          "400g powdered sugar",
+          "2 tbsp milk"
+        ],
+        "Top Layer": [
+          "200g semi-sweet chocolate",
+          "2 tbsp unsalted butter"
+        ]
+      },
+      "steps": [
+        "Bottom Layer: Mix all bottom ingredients. Press into a greased 20x20cm pan. Chill 15 minutes.",
+        "Middle Layer: Beat butter, custard powder, sugar, and milk until smooth and fluffy.",
+        "Spread middle layer evenly over the chilled bottom layer.",
+        "Chill for 30 minutes.",
+        "Top Layer: Melt chocolate and butter together until smooth.",
+        "Pour over the middle layer and spread evenly.",
+        "Chill until completely set (at least 2 hours).",
+        "Cut into bars with a warm knife."
+      ],
+      "making_tips": [
+        "The custard powder is essential—no substitutions for authentic flavor.",
+        "Chill each layer completely before adding the next.",
+        "Use a hot knife for clean cuts—dip in hot water and dry between cuts.",
+        "Nanaimo bars are named after Nanaimo, British Columbia.",
+        "Store in the refrigerator."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Canadian classic from British Columbia",
+      "better_than_store_bought": "Commercial versions have artificial flavors. Homemade has real custard and butter.",
+      "hidden_nutrients": "Walnuts provide healthy fats and omega-3s. Coconut offers fiber."
+    },
+    {
+      "id": 152,
+      "name": "Butter Tarts",
+      "country": "Canada",
+      "category": "Snack",
+      "time": "1 hour 15 minutes",
+      "servings": "12 tarts",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "250g all-purpose flour",
+          "125g unsalted butter, cold",
+          "50g sugar",
+          "1 egg yolk",
+          "2-3 tbsp cold water"
+        ],
+        "Filling": [
+          "150g brown sugar",
+          "100g corn syrup",
+          "60g unsalted butter, melted",
+          "1 large egg",
+          "1 tsp vanilla",
+          "100g raisins or pecans (optional)"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Cut butter into flour and sugar. Add egg yolk and water. Chill 30 minutes.",
+        "Roll pastry and line 12 tart tins. Chill again.",
+        "Make Filling: Whisk brown sugar, corn syrup, melted butter, egg, and vanilla.",
+        "Add raisins or pecans if using.",
+        "Fill pastry shells ⅔ full.",
+        "Bake at 190°C for 15-18 minutes until filling is set and bubbly.",
+        "Cool completely in tins.",
+        "Remove carefully and serve."
+      ],
+      "making_tips": [
+        "The filling will bubble and rise—don't overfill the tarts.",
+        "The classic butter tart has a 'runny' center—it should be soft but not liquid.",
+        "Raisins are traditional, but many prefer pecans.",
+        "The pastry should be flaky and tender.",
+        "These are best eaten the day they're made."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Canadian iconic treat",
+      "better_than_store_bought": "Commercial versions use shortening. Homemade has real butter and pure filling.",
+      "hidden_nutrients": "Eggs provide protein. Raisins offer iron and fiber."
+    },
+    {
+      "id": 153,
+      "name": "Beaver Tails (Fried Dough)",
+      "country": "Canada",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "8 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "7g instant yeast",
+          "50g sugar",
+          "1 tsp salt",
+          "240ml warm water",
+          "1 egg",
+          "30g unsalted butter, melted"
+        ],
+        "Topping": [
+          "100g sugar",
+          "1 tbsp cinnamon",
+          "Butter for brushing"
+        ]
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, and salt. Add warm water, egg, and melted butter.",
+        "Knead until smooth and elastic (8-10 minutes).",
+        "Cover and let rise until doubled (1 hour).",
+        "Punch down dough. Divide into 8 balls.",
+        "Shape each ball into a flat beaver tail shape.",
+        "Heat oil to 175°C.",
+        "Fry each piece for 1-2 minutes per side until golden.",
+        "Drain on paper towels.",
+        "Brush with melted butter.",
+        "Sprinkle with cinnamon-sugar mixture."
+      ],
+      "making_tips": [
+        "The dough should be very soft—this creates the signature airy texture.",
+        "Beaver tails are named after their shape, not the animal.",
+        "A traditional Canadian treat from Ottawa.",
+        "Serve immediately while warm.",
+        "Can be topped with Nutella or maple butter."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Canadian roadside favorite",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter and fresher.",
+      "hidden_nutrients": "Egg provides protein. The treat is primarily carbohydrates."
+    },
+    {
+      "id": 154,
+      "name": "Maple Taffy (Snow Candy)",
+      "country": "Canada",
+      "category": "Snack",
+      "time": "20 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml pure maple syrup",
+          "Clean snow (or shaved ice)"
+        ]
+      },
+      "steps": [
+        "Boil maple syrup in a pot until it reaches 115°C (soft ball stage).",
+        "Remove from heat and let cool slightly.",
+        "Pack clean snow firmly into a pan or tray.",
+        "Drizzle the hot syrup in ribbons over the snow.",
+        "Wait 30 seconds for it to set.",
+        "Use a fork to roll the taffy onto sticks.",
+        "Enjoy immediately."
+      ],
+      "making_tips": [
+        "Use pure maple syrup—no corn syrup substitutions.",
+        "The syrup should be hot enough to set but not hot enough to melt the snow.",
+        "This is a traditional 'sugar shack' treat.",
+        "Work quickly—the taffy sets fast.",
+        "The snow must be clean and firmly packed."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Quebec sugar shack tradition",
+      "better_than_store_bought": "This is a fresh experience that can't be packaged.",
+      "hidden_nutrients": "Maple syrup provides manganese and zinc."
+    },
+    {
+      "id": 155,
+      "name": "Saskatoon Berry Pie",
+      "country": "Canada",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes chilling)",
+      "servings": "1 pie (8 slices)",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Crust": [
+          "360g all-purpose flour",
+          "1 tsp salt",
+          "230g unsalted butter, cold and cubed",
+          "6-8 tbsp ice water"
+        ],
+        "Filling": [
+          "800g Saskatoon berries (fresh or frozen)",
+          "200g granulated sugar",
+          "50g cornstarch",
+          "1 tsp cinnamon",
+          "1 tbsp lemon juice"
+        ]
+      },
+      "steps": [
+        "Make Crust: Mix flour and salt. Cut in cold butter until pea-sized crumbs form.",
+        "Add ice water gradually, mixing until dough comes together.",
+        "Divide in half, flatten into discs, chill 1 hour.",
+        "Make Filling: Mix berries, sugar, cornstarch, cinnamon, and lemon juice.",
+        "Roll out one disc and line a 9-inch pie dish.",
+        "Add filling. Roll out second disc and place over filling.",
+        "Crimp edges and cut vents. Brush with egg wash.",
+        "Bake at 190°C for 50-60 minutes.",
+        "Cool completely on wire rack."
+      ],
+      "making_tips": [
+        "Saskatoon berries are a prairie specialty—blueberries can be substituted.",
+        "The berries burst during baking, creating a juicy filling.",
+        "Serve warm with vanilla ice cream.",
+        "The crust should be golden and flaky.",
+        "Let the pie rest for 1 hour before slicing."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Canadian prairie favorite",
+      "better_than_store_bought": "Commercial pies use canned fillings. Homemade uses fresh berries.",
+      "hidden_nutrients": "Saskatoon berries provide antioxidants and vitamin C."
+    },
+    {
+      "id": 156,
+      "name": "Maple Lemonade",
+      "country": "Canada",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "4-5 large lemons",
+          "1 litre water",
+          "120ml pure maple syrup",
+          "Ice cubes",
+          "Lemon slices"
+        ]
+      },
+      "steps": [
+        "Juice lemons to get 240ml fresh lemon juice.",
+        "In a pitcher, combine lemon juice, maple syrup, and water.",
+        "Stir well to combine.",
+        "Adjust sweetness to taste with more maple syrup.",
+        "Chill in the refrigerator.",
+        "Serve over ice with lemon slices."
+      ],
+      "making_tips": [
+        "Use pure maple syrup for authentic Canadian flavor.",
+        "Grade A maple syrup is best for this drink.",
+        "The sweetness of maple syrup is more complex than sugar.",
+        "Serve ice-cold for the best refreshment.",
+        "Can be garnished with fresh mint."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Canadian summer twist on classic",
+      "better_than_store_bought": "Bottled lemonade has sugar and preservatives. Homemade uses pure maple syrup.",
+      "hidden_nutrients": "Lemons provide vitamin C. Maple syrup offers manganese and zinc."
+    },
+    {
+      "id": 157,
+      "name": "Caesar (Non-Alcoholic)",
+      "country": "Canada",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml Clamato juice (or tomato juice)",
+          "2 tsp Worcestershire sauce",
+          "½ tsp hot sauce",
+          "1 tsp horseradish (optional)",
+          "Lime wedges",
+          "Celery salt",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Rim glasses with lime wedge and dip in celery salt.",
+        "Fill glasses with ice cubes.",
+        "In a pitcher, combine Clamato juice, Worcestershire sauce, hot sauce, and horseradish.",
+        "Stir well.",
+        "Pour into prepared glasses.",
+        "Garnish with lime wedge and celery stalk.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "The Caesar is Canada's national cocktail.",
+        "Clamato juice is the classic base—tomato juice is a substitute.",
+        "The celery salt rim is essential.",
+        "Adjust hot sauce to your spice preference.",
+        "Non-alcoholic version is just as delicious."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Canada's national drink",
+      "better_than_store_bought": "Bottled Caesar mix has preservatives. Homemade is customizable.",
+      "hidden_nutrients": "Tomato juice provides vitamin C and lycopene."
+    },
+    {
+      "id": 158,
+      "name": "Hot Apple Cider (Canadian)",
+      "country": "Canada",
+      "category": "Beverage",
+      "time": "25 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "1 litre apple cider",
+          "2 cinnamon sticks",
+          "4 cloves",
+          "1 star anise",
+          "Orange peel strips",
+          "Honey to taste (optional)"
+        ]
+      },
+      "steps": [
+        "Pour apple cider into a pot.",
+        "Add cinnamon sticks, cloves, star anise, and orange peel.",
+        "Heat over medium heat until steaming—do not boil.",
+        "Simmer for 15 minutes to infuse flavors.",
+        "Strain into mugs.",
+        "Add honey if desired.",
+        "Garnish with a cinnamon stick.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Never boil the cider—it ruins the flavor.",
+        "Use fresh apple cider for the best result.",
+        "This is a fall and winter favorite.",
+        "Add a shot of rum for adults.",
+        "Can be made in a slow cooker for parties."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Canadian winter warmer",
+      "better_than_store_bought": "Commercial versions have artificial flavors. Homemade is spiced to perfection.",
+      "hidden_nutrients": "Apples provide antioxidants. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 159,
+      "name": "Churros",
+      "country": "Mexico",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "12 churros",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "250ml water",
+          "60g unsalted butter",
+          "25g sugar",
+          "½ tsp salt",
+          "150g all-purpose flour",
+          "2 large eggs"
+        ],
+        "Coating": [
+          "100g sugar",
+          "2 tsp cinnamon"
+        ],
+        "Chocolate Sauce": [
+          "200g dark chocolate",
+          "200ml heavy cream",
+          "1 tbsp sugar"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Make Dough: In a pot, boil water, butter, sugar, and salt.",
+        "Reduce heat and add flour. Stir vigorously until dough forms.",
+        "Remove from heat. Add eggs one at a time, beating well.",
+        "Transfer to a piping bag with a star nozzle.",
+        "Heat oil to 175°C.",
+        "Pipe dough directly into oil, cutting with scissors.",
+        "Fry until golden and crisp (2-3 minutes per side).",
+        "Drain on paper towels.",
+        "Mix sugar and cinnamon. Roll churros in mixture.",
+        "Make Sauce: Heat cream and chocolate until smooth."
+      ],
+      "making_tips": [
+        "The dough should be piped with a star nozzle for the signature ridges.",
+        "Churros are best eaten fresh and hot.",
+        "The chocolate sauce should be thick and rich.",
+        "Oil temperature is critical—too hot burns, too cool makes greasy churros.",
+        "In Mexico, churros are dipped in hot chocolate."
+      ],
+      "health_rating": 15,
+      "cultural_authenticity": "100% – Mexican street food classic",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is crisp and freshly coated.",
+      "hidden_nutrients": "Eggs provide protein. Dark chocolate offers antioxidants."
+    },
+    {
+      "id": 160,
+      "name": "Conchas (Sweet Mexican Bread)",
+      "country": "Mexico",
+      "category": "Snack",
+      "time": "2 hours 30 minutes (includes rising)",
+      "servings": "12 conchas",
+      "difficulty": "Hard",
+      "ingredients": {
+        "Dough": [
+          "500g bread flour",
+          "7g instant yeast",
+          "100g sugar",
+          "½ tsp salt",
+          "240ml warm milk",
+          "2 large eggs",
+          "80g unsalted butter, softened"
+        ],
+        "Topping": [
+          "120g unsalted butter, softened",
+          "120g powdered sugar",
+          "150g all-purpose flour",
+          "1 tsp vanilla",
+          "Food coloring (optional)"
+        ]
+      },
+      "steps": [
+        "Make Dough: Mix flour, yeast, sugar, and salt.",
+        "Add warm milk, eggs, and butter. Knead until smooth (10 minutes).",
+        "Cover and let rise until doubled (1 hour).",
+        "Make Topping: Beat butter and sugar until fluffy.",
+        "Add flour and vanilla—mix into a smooth paste.",
+        "Add coloring if desired.",
+        "Punch down dough. Divide into 12 balls.",
+        "Divide topping into 12. Flatten each into a disc.",
+        "Place topping over each dough ball, pressing down.",
+        "Score topping with a knife to create shell pattern.",
+        "Let rise 30 minutes.",
+        "Bake at 180°C for 18-20 minutes."
+      ],
+      "making_tips": [
+        "The topping should be cold for easier handling.",
+        "The shell pattern is the signature of conchas.",
+        "Conchas mean 'shells' in Spanish.",
+        "These are Mexico's favorite breakfast bread.",
+        "Serve with coffee or hot chocolate."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Mexico's iconic sweet bread",
+      "better_than_store_bought": "Bakery versions can be dry. Homemade is fresh and soft.",
+      "hidden_nutrients": "Milk provides calcium. Eggs add protein."
+    },
+    {
+      "id": 161,
+      "name": "Flan (Mexican)",
+      "country": "Mexico",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (plus chilling)",
+      "servings": "8 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Caramel": [
+          "200g sugar",
+          "60ml water"
+        ],
+        "Custard": [
+          "1 can (400ml) sweetened condensed milk",
+          "1 can (350ml) evaporated milk",
+          "4 large eggs",
+          "1 tsp vanilla extract"
+        ]
+      },
+      "steps": [
+        "Make Caramel: Heat sugar and water until golden. Pour into a flan mold.",
+        "Make Custard: Blend condensed milk, evaporated milk, eggs, and vanilla until smooth.",
+        "Pour custard over caramel.",
+        "Cover mold with foil.",
+        "Place mold in a baking dish with hot water (water bath).",
+        "Bake at 170°C for 50-60 minutes until set.",
+        "Cool completely, then chill for 4 hours.",
+        "Unmold onto a serving plate.",
+        "Serve chilled."
+      ],
+      "making_tips": [
+        "The caramel should be deep amber, not burnt.",
+        "The water bath ensures gentle, even cooking.",
+        "The flan should jiggle slightly when done.",
+        "Chill thoroughly before unmolding.",
+        "This is Mexico's favorite dessert."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Mexican dessert classic",
+      "better_than_store_bought": "Commercial flan has stabilizers. Homemade is silky-smooth.",
+      "hidden_nutrients": "Eggs provide protein. Milk adds calcium."
+    },
+    {
+      "id": 162,
+      "name": "Tres Leches Cake (Mexican)",
+      "country": "Mexico",
+      "category": "Snack",
+      "time": "2 hours (includes chilling)",
+      "servings": "12 slices",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cake": [
+          "200g all-purpose flour",
+          "1 tsp baking powder",
+          "½ tsp salt",
+          "150g unsalted butter, softened",
+          "200g sugar",
+          "3 large eggs",
+          "1 tsp vanilla",
+          "120ml milk"
+        ],
+        "Milk Mixture": [
+          "1 can (400ml) sweetened condensed milk",
+          "1 can (350ml) evaporated milk",
+          "240ml heavy cream"
+        ],
+        "Topping": [
+          "360ml heavy cream",
+          "50g powdered sugar",
+          "1 tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C. Grease a 20x30cm baking dish.",
+        "Make Cake: Beat butter and sugar until fluffy. Add eggs one at a time.",
+        "Add flour mixture alternately with milk. Add vanilla.",
+        "Pour into prepared dish. Bake for 25-30 minutes.",
+        "Cool cake for 10 minutes. Poke holes all over.",
+        "Mix condensed milk, evaporated milk, and heavy cream.",
+        "Pour milk mixture slowly over the cake. Refrigerate for 2 hours.",
+        "Make Topping: Whip heavy cream, powdered sugar, and vanilla to stiff peaks.",
+        "Spread over the cake.",
+        "Garnish with fresh berries or cinnamon."
+      ],
+      "making_tips": [
+        "Poke holes with a fork or skewer to help the milk absorb.",
+        "The cake should be slightly cooled but still warm when pouring the milk.",
+        "Refrigerate for at least 2 hours for the milk to soak.",
+        "Tres leches means 'three milks' in Spanish.",
+        "This cake is best served cold."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Mexican cake sensation",
+      "better_than_store_bought": "Commercial versions are often dry. Homemade is moist and creamy.",
+      "hidden_nutrients": "Eggs provide protein. Milk adds calcium."
+    },
+    {
+      "id": 163,
+      "name": "Mangonada",
+      "country": "Mexico",
+      "category": "Snack",
+      "time": "15 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "2 ripe mangoes, frozen",
+          "2 tbsp lime juice",
+          "2 tbsp sugar",
+          "Chamoy sauce",
+          "Tajin chili powder",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Peel and chop frozen mangoes.",
+        "Blend mangoes, lime juice, sugar, and a splash of water until smooth.",
+        "Rim glasses with chamoy and dip in Tajin.",
+        "Add a layer of blended mango.",
+        "Add ice cubes.",
+        "Drizzle with chamoy.",
+        "Top with more blended mango.",
+        "Sprinkle with Tajin.",
+        "Serve immediately with a straw and spoon."
+      ],
+      "making_tips": [
+        "Use frozen mangoes for a thick, sorbet-like texture.",
+        "Chamoy is a Mexican condiment—sweet, sour, and spicy.",
+        "Tajin is a chili-lime-salt seasoning.",
+        "This is a popular Mexican street dessert.",
+        "Serve with a tamarind straw if available."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Mexican street dessert favorite",
+      "better_than_store_bought": "Street versions can be syrupy. Homemade has real mango chunks.",
+      "hidden_nutrients": "Mangoes provide vitamin A, vitamin C, and fiber."
+    },
+    {
+      "id": 164,
+      "name": "Horchata (Mexican)",
+      "country": "Mexico",
+      "category": "Beverage",
+      "time": "8 hours (includes soaking)",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "200g white rice",
+          "1 litre water",
+          "1 cinnamon stick",
+          "150g sugar (to taste)",
+          "1 tsp vanilla extract"
+        ]
+      },
+      "steps": [
+        "Rinse rice. Soak rice and cinnamon in 1 litre water overnight.",
+        "Transfer to a blender and blend until smooth.",
+        "Strain through a cheesecloth or nut milk bag.",
+        "Add sugar and vanilla.",
+        "Stir well to dissolve sugar.",
+        "Chill thoroughly.",
+        "Stir before serving over ice."
+      ],
+      "making_tips": [
+        "The rice must soak for at least 8 hours for maximum flavor.",
+        "Straining is essential for a smooth, silky texture.",
+        "Horchata is a popular Mexican 'agua fresca.'",
+        "Can be made with almonds for a richer version.",
+        "Serve ice-cold with cinnamon on top."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Mexico's signature drink",
+      "better_than_store_bought": "Bottled horchata has preservatives. Homemade has authentic cinnamon flavor.",
+      "hidden_nutrients": "Rice provides carbohydrates. Cinnamon aids blood sugar regulation."
+    },
+    {
+      "id": 165,
+      "name": "Aguas Frescas (Fresh Fruit Water)",
+      "country": "Mexico",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main (Strawberry)": [
+          "500g fresh strawberries",
+          "1.5 litres water",
+          "100g sugar",
+          "2 limes",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Wash and hull strawberries.",
+        "Blend strawberries with 500ml water until smooth.",
+        "Strain through a fine sieve.",
+        "Stir in remaining water and sugar.",
+        "Add lime juice.",
+        "Chill until cold.",
+        "Serve over ice with a strawberry slice."
+      ],
+      "making_tips": [
+        "Aguas frescas are Mexico's go-to refreshing drinks.",
+        "Can be made with any fruit—watermelon, melon, pineapple, etc.",
+        "The fruit should be ripe and sweet.",
+        "Strain for a smoother drink or leave pulp for texture.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 50,
+      "cultural_authenticity": "100% – Mexico's daily refreshment",
+      "better_than_store_bought": "Bottled aguas have preservatives. Homemade is fresh and fruity.",
+      "hidden_nutrients": "Fruits provide vitamins and antioxidants."
+    },
+    {
+      "id": 166,
+      "name": "Jamaica (Hibiscus Drink)",
+      "country": "Mexico",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g dried hibiscus flowers",
+          "1.5 litres water",
+          "150g sugar",
+          "Lime juice (optional)"
+        ]
+      },
+      "steps": [
+        "Bring water to a boil with hibiscus flowers.",
+        "Reduce heat and simmer for 15-20 minutes.",
+        "Remove from heat and steep for 30 minutes.",
+        "Strain through a fine sieve.",
+        "Add sugar and stir to dissolve.",
+        "Add lime juice if desired.",
+        "Chill thoroughly.",
+        "Serve over ice with a lime slice."
+      ],
+      "making_tips": [
+        "Jamaica is a Mexican staple drink.",
+        "The color should be deep ruby red.",
+        "Adjust sweetness to your preference.",
+        "It can be served hot in winter.",
+        "This is a tart, refreshing, and healthy drink."
+      ],
+      "health_rating": 60,
+      "cultural_authenticity": "100% – Mexico's favorite refresher",
+      "better_than_store_bought": "Bottled jamaica has sugar and preservatives. Homemade is pure and vibrant.",
+      "hidden_nutrients": "Hibiscus is rich in antioxidants. Lime adds vitamin C."
+    },
+    {
+      "id": 167,
+      "name": "Cuban Pastries (Guava and Cheese)",
+      "country": "Cuba",
+      "category": "Snack",
+      "time": "45 minutes",
+      "servings": "8 pastries",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "1 packet puff pastry (500g), thawed",
+          "200g guava paste",
+          "150g cream cheese, softened",
+          "1 egg yolk (for egg wash)",
+          "Sugar for sprinkling"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 190°C. Line a baking sheet with parchment paper.",
+        "Roll puff pastry to 5mm thickness.",
+        "Cut into 10x10cm squares.",
+        "Cut guava paste into thin slices.",
+        "Place cream cheese and guava paste in the center of each square.",
+        "Fold into triangles or envelopes.",
+        "Seal edges with a fork.",
+        "Brush with egg wash.",
+        "Sprinkle with sugar.",
+        "Bake for 15-18 minutes until golden and puffed."
+      ],
+      "making_tips": [
+        "Guava paste is available in Latin groceries—it's firm and sweet.",
+        "Cream cheese should be softened for easy spreading.",
+        "This is a classic Cuban pastry—'pastelitos de guayaba.'",
+        "Serve warm or at room temperature.",
+        "These are traditionally enjoyed with coffee."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Cuban bakery staple",
+      "better_than_store_bought": "Bakery versions can be stale. Homemade is fresh and buttery.",
+      "hidden_nutrients": "Guava provides vitamin C and fiber. Cream cheese offers calcium."
+    },
+    {
+      "id": 168,
+      "name": "Arroz con Leche (Cuban)",
+      "country": "Cuba",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "6 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g short-grain rice",
+          "1 litre whole milk",
+          "200g sugar",
+          "1 cinnamon stick",
+          "1 strip lemon peel",
+          "Ground cinnamon for garnish"
+        ]
+      },
+      "steps": [
+        "Rinse rice thoroughly.",
+        "In a heavy pot, combine rice, milk, sugar, cinnamon stick, and lemon peel.",
+        "Cook over medium heat, stirring frequently.",
+        "Simmer for 45-50 minutes until rice is tender and creamy.",
+        "Remove cinnamon stick and lemon peel.",
+        "Pour into serving bowls.",
+        "Sprinkle with ground cinnamon.",
+        "Serve warm or chilled."
+      ],
+      "making_tips": [
+        "Stir frequently to prevent the rice from sticking to the bottom.",
+        "The rice should be soft and the mixture creamy.",
+        "This is a Cuban favorite dessert.",
+        "Can be made with condensed milk for richness.",
+        "Serve with a sprinkle of cinnamon."
+      ],
+      "health_rating": 30,
+      "cultural_authenticity": "100% – Cuban comfort dessert",
+      "better_than_store_bought": "Commercial versions are often watery. Homemade is creamy and comforting.",
+      "hidden_nutrients": "Milk provides calcium. Rice offers carbohydrates."
+    },
+    {
+      "id": 169,
+      "name": "Cuban Flan",
+      "country": "Cuba",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (plus chilling)",
+      "servings": "8 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Caramel": [
+          "200g sugar",
+          "60ml water"
+        ],
+        "Custard": [
+          "1 can (400ml) sweetened condensed milk",
+          "1 can (350ml) evaporated milk",
+          "4 large eggs",
+          "1 tsp vanilla",
+          "1 tsp lime zest"
+        ]
+      },
+      "steps": [
+        "Make Caramel: Heat sugar and water until golden. Pour into flan mold.",
+        "Make Custard: Blend all ingredients until smooth.",
+        "Pour over caramel.",
+        "Cover with foil. Place in a water bath.",
+        "Bake at 170°C for 50-60 minutes.",
+        "Cool completely, then chill 4 hours.",
+        "Unmold onto a serving plate.",
+        "Serve chilled."
+      ],
+      "making_tips": [
+        "Lime zest gives Cuban flan its distinctive flavor.",
+        "The water bath is essential for smooth texture.",
+        "Chill thoroughly before unmolding.",
+        "The caramel should be deep amber.",
+        "This is a Cuban dessert favorite."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Cuban classic flan",
+      "better_than_store_bought": "Commercial flan has stabilizers. Homemade is silky and authentic.",
+      "hidden_nutrients": "Eggs provide protein. Milk adds calcium."
+    },
+    {
+      "id": 170,
+      "name": "Cafe Cubano (Sweet Espresso)",
+      "country": "Cuba",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "4 tbsp Cuban coffee (or dark espresso roast)",
+          "240ml water",
+          "2 tbsp sugar (or more for 'cortadito' style)"
+        ]
+      },
+      "steps": [
+        "Brew espresso coffee with a Moka pot or espresso machine.",
+        "In a small cup, add sugar.",
+        "Add the first few drops of espresso to the sugar.",
+        "Whisk vigorously until it forms a light, foamy paste.",
+        "Pour the remaining espresso into the sugar foam.",
+        "Stir gently.",
+        "Serve immediately in small cups."
+      ],
+      "making_tips": [
+        "The 'espumita' (sugar foam) is the signature of Cafe Cubano.",
+        "Use a Moka pot for authentic Cuban coffee.",
+        "The coffee should be very strong and dark.",
+        "Cuban coffee is served in small, demitasse cups.",
+        "This is the coffee of Cuban culture."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Cuba's iconic coffee",
+      "better_than_store_bought": "Cafe versions can't replicate the espumita. Homemade is authentic.",
+      "hidden_nutrients": "Coffee provides antioxidants. Sugar provides quick energy."
+    },
+    {
+      "id": 171,
+      "name": "Batido (Cuban Fruit Shake)",
+      "country": "Cuba",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main (Mango)": [
+          "2 ripe mangoes, peeled and chopped",
+          "480ml milk",
+          "2 tbsp sugar (or to taste)",
+          "1 tsp vanilla",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Combine mangoes, milk, sugar, vanilla, and ice in a blender.",
+        "Blend until smooth and frothy.",
+        "Taste and adjust sweetness.",
+        "Pour into tall glasses.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Batido is Cuba's fresh fruit shake.",
+        "Can be made with any tropical fruit—papaya, banana, guava.",
+        "The milk should be cold for a refreshing drink.",
+        "This is a street-side favorite in Cuba.",
+        "Serve with a straw."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Cuban street favorite",
+      "better_than_store_bought": "Cafe versions often use syrup. Homemade uses fresh fruit.",
+      "hidden_nutrients": "Mangoes provide vitamin A and C. Milk adds calcium."
+    },
+    {
+      "id": 172,
+      "name": "Guarapo (Sugarcane Juice)",
+      "country": "Cuba",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "4-5 sugarcane stalks",
+          "2 limes",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Peel sugarcane stalks.",
+        "Juice using a sugarcane press or heavy-duty juicer.",
+        "Strain the juice.",
+        "Add fresh lime juice.",
+        "Stir well.",
+        "Serve over ice cubes."
+      ],
+      "making_tips": [
+        "Guarapo is a refreshing Cuban street drink.",
+        "It's intensely sweet—the lime balances it.",
+        "Serve ice-cold.",
+        "This is best consumed fresh.",
+        "Can be mixed with other fruit juices."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Cuban street drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Fresh is incomparable.",
+      "hidden_nutrients": "Sugarcane provides electrolytes and trace minerals."
+    },
+    {
+      "id": 173,
+      "name": "Gizzada (Coconut Tart)",
+      "country": "Jamaica",
+      "category": "Snack",
+      "time": "1 hour",
+      "servings": "12 tarts",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Pastry": [
+          "250g all-purpose flour",
+          "125g unsalted butter, cold",
+          "50g sugar",
+          "1 egg yolk",
+          "2-3 tbsp cold water"
+        ],
+        "Filling": [
+          "200g desiccated coconut",
+          "200g brown sugar",
+          "1 tsp nutmeg",
+          "1 tsp ginger",
+          "½ tsp salt",
+          "1 egg"
+        ]
+      },
+      "steps": [
+        "Make Pastry: Cut butter into flour and sugar. Add egg yolk and water. Chill 30 minutes.",
+        "Roll pastry and line 12 tart tins. Chill.",
+        "Make Filling: Mix coconut, brown sugar, nutmeg, ginger, and salt.",
+        "Beat egg and add to the coconut mixture.",
+        "Fill pastry shells.",
+        "Bake at 180°C for 20-25 minutes.",
+        "Cool completely in tins.",
+        "Remove carefully."
+      ],
+      "making_tips": [
+        "Gizzada is a Jamaican classic tart.",
+        "The filling should be moist but not wet.",
+        "Nutmeg and ginger give it the island flavor.",
+        "The pastry should be flaky and tender.",
+        "Serve with tea or coffee."
+      ],
+      "health_rating": 25,
+      "cultural_authenticity": "100% – Jamaican classic tart",
+      "better_than_store_bought": "Bakery versions can be dry. Homemade is moist and freshly spiced.",
+      "hidden_nutrients": "Coconut provides healthy fats. Nutmeg has anti-inflammatory properties."
+    },
+    {
+      "id": 174,
+      "name": "Jamaican Sorrel Drink",
+      "country": "Jamaica",
+      "category": "Beverage",
+      "time": "2 hours (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g dried sorrel (hibiscus) petals",
+          "1.5 litres water",
+          "200g sugar",
+          "1 inch ginger, grated",
+          "2 cinnamon sticks",
+          "4 cloves"
+        ]
+      },
+      "steps": [
+        "Bring water to boil. Add sorrel, ginger, cinnamon, and cloves.",
+        "Reduce heat and simmer for 15 minutes.",
+        "Remove from heat and let steep for 1 hour.",
+        "Strain through a fine sieve.",
+        "Add sugar and stir to dissolve.",
+        "Chill thoroughly.",
+        "Serve over ice with a cinnamon stick."
+      ],
+      "making_tips": [
+        "Sorrel is the Jamaican Christmas drink.",
+        "The spices give it a festive warmth.",
+        "Can be served with a splash of rum.",
+        "The color should be deep red.",
+        "Serve chilled for the best experience."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Jamaica's holiday drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is vibrant and spiced.",
+      "hidden_nutrients": "Sorrel is rich in antioxidants. Ginger aids digestion."
+    },
+    {
+      "id": 175,
+      "name": "Jamaican Ginger Beer",
+      "country": "Jamaica",
+      "category": "Beverage",
+      "time": "30 minutes (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "1 inch fresh ginger, grated",
+          "1 litre water",
+          "150g sugar",
+          "2 limes",
+          "1 tsp vanilla",
+          "Pinch of salt"
+        ]
+      },
+      "steps": [
+        "Combine ginger and water in a pot. Bring to boil.",
+        "Reduce heat and simmer for 15 minutes.",
+        "Strain to remove ginger bits.",
+        "Add sugar, lime juice, vanilla, and salt.",
+        "Stir until sugar dissolves.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Jamaican ginger beer is fiery and sweet.",
+        "Fresh ginger is essential for the authentic kick.",
+        "It's traditionally non-alcoholic but a popular mixer.",
+        "Adjust sweetness to taste.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Jamaica's signature soda",
+      "better_than_store_bought": "Commercial ginger beer has artificial flavors. Homemade is fiery and real.",
+      "hidden_nutrients": "Ginger aids digestion and has anti-inflammatory properties. Lime provides vitamin C."
+    },
+    {
+      "id": 176,
+      "name": "Hojaldres (Sweet Fried Dough)",
+      "country": "Panama",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (includes rising)",
+      "servings": "15 pieces",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "50g sugar",
+          "1 tsp yeast",
+          "½ tsp salt",
+          "240ml warm water",
+          "2 tbsp vegetable oil"
+        ],
+        "Coating": [
+          "Powdered sugar"
+        ],
+        "Frying": [
+          "Vegetable oil"
+        ]
+      },
+      "steps": [
+        "Mix flour, sugar, yeast, and salt.",
+        "Add warm water and oil. Knead until smooth.",
+        "Cover and let rise 1 hour.",
+        "Punch down dough. Divide into 15 balls.",
+        "Roll each ball into a flat disc.",
+        "Heat oil to 170°C.",
+        "Fry until golden and puffed.",
+        "Drain on paper towels.",
+        "Dust generously with powdered sugar.",
+        "Serve warm."
+      ],
+      "making_tips": [
+        "Hojaldres are Panama's favorite street snack.",
+        "The dough should be soft and pillowy.",
+        "These are often eaten at festivals.",
+        "Can be served with cheese.",
+        "Best served fresh and warm."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Panamanian street favorite",
+      "better_than_store_bought": "Street versions can be greasy. Homemade is lighter.",
+      "hidden_nutrients": "The dish is primarily carbohydrates. Enjoy in moderation."
+    },
+    {
+      "id": 177,
+      "name": "Chicha de Maíz (Sweet Corn Drink)",
+      "country": "Panama",
+      "category": "Beverage",
+      "time": "2 hours (plus soaking)",
+      "servings": "4 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "300g dried corn (or cornmeal)",
+          "1 litre water",
+          "200g sugar",
+          "1 cinnamon stick",
+          "Pineapple chunks"
+        ]
+      },
+      "steps": [
+        "Soak corn in water overnight.",
+        "Blend with 500ml water until smooth.",
+        "Strain through a cheesecloth.",
+        "Boil the liquid with cinnamon and sugar for 30 minutes.",
+        "Add pineapple chunks.",
+        "Simmer for another 15 minutes.",
+        "Cool and chill.",
+        "Serve cold over ice."
+      ],
+      "making_tips": [
+        "Chicha is a traditional Panamanian drink.",
+        "The pineapple gives it a lovely sweetness.",
+        "This is a thicker drink—almost a dessert.",
+        "Can be made with fresh corn for a sweeter taste.",
+        "Serve ice-cold."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Panamanian traditional drink",
+      "better_than_store_bought": "Commercial versions are often watery. Homemade is thick and authentic.",
+      "hidden_nutrients": "Corn provides carbohydrates and fiber."
+    },
+    {
+      "id": 178,
+      "name": "Tres Leches Cake (Costa Rican)",
+      "country": "Costa Rica",
+      "category": "Snack",
+      "time": "2 hours (includes chilling)",
+      "servings": "12 slices",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Cake": [
+          "200g all-purpose flour",
+          "1 tsp baking powder",
+          "½ tsp salt",
+          "150g unsalted butter, softened",
+          "200g sugar",
+          "3 large eggs",
+          "1 tsp vanilla",
+          "120ml milk"
+        ],
+        "Milk Mixture": [
+          "1 can sweetened condensed milk",
+          "1 can evaporated milk",
+          "240ml heavy cream"
+        ],
+        "Topping": [
+          "360ml heavy cream",
+          "50g powdered sugar",
+          "1 tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Preheat oven to 180°C. Grease a 20x30cm pan.",
+        "Beat butter and sugar until fluffy. Add eggs one at a time.",
+        "Add flour mixture alternately with milk. Add vanilla.",
+        "Bake for 25-30 minutes.",
+        "Cool for 10 minutes. Poke holes all over.",
+        "Mix three milks and pour slowly over cake.",
+        "Refrigerate for 2 hours.",
+        "Whip heavy cream, sugar, and vanilla for topping.",
+        "Spread topping over cake.",
+        "Garnish with cinnamon or berries."
+      ],
+      "making_tips": [
+        "The cake should be moist but not soggy.",
+        "Poke holes generously for the milk to soak.",
+        "Costa Rican tres leches is slightly lighter.",
+        "Chill thoroughly before serving.",
+        "Serve with fresh fruit."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Costa Rican favorite cake",
+      "better_than_store_bought": "Bakery versions can be dry. Homemade is moist and creamy.",
+      "hidden_nutrients": "Eggs provide protein. Milk adds calcium."
+    },
+    {
+      "id": 179,
+      "name": "Agua de Tamarindo (Costa Rican)",
+      "country": "Costa Rica",
+      "category": "Beverage",
+      "time": "1 hour",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "200g tamarind paste (or pods)",
+          "1.5 litres water",
+          "150g sugar"
+        ]
+      },
+      "steps": [
+        "If using tamarind pods, shell and remove seeds.",
+        "Soak tamarind in 500ml warm water for 30 minutes.",
+        "Strain through a sieve, pressing to extract all liquid.",
+        "Add remaining water and sugar.",
+        "Stir until sugar dissolves.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Tamarind is sweet and sour—balance the sugar.",
+        "This is a popular Costa Rican drink.",
+        "Can be flavored with ginger.",
+        "Serve ice-cold.",
+        "Great with a squeeze of lime."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Costa Rican refresher",
+      "better_than_store_bought": "Bottled tamarind juice has preservatives. Homemade is fresh and authentic.",
+      "hidden_nutrients": "Tamarind provides iron, potassium, and magnesium."
+    },
+    {
+      "id": 180,
+      "name": "Habichuelas con Dulce (Sweet Beans)",
+      "country": "Dominican Republic",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (plus soaking)",
+      "servings": "6 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Main": [
+          "500g red kidney beans",
+          "1 litre water",
+          "400ml coconut milk",
+          "200g sugar",
+          "1 cinnamon stick",
+          "½ tsp salt",
+          "Optional: sweet potato"
+        ]
+      },
+      "steps": [
+        "Soak beans overnight.",
+        "Rinse and drain.",
+        "Boil beans in water until soft (about 1 hour).",
+        "Add coconut milk, sugar, cinnamon, and salt.",
+        "Simmer for 15-20 minutes until thickened.",
+        "Remove cinnamon stick.",
+        "Serve warm or chilled."
+      ],
+      "making_tips": [
+        "Habichuelas con dulce is a Dominican Lenten tradition.",
+        "The beans should be soft but still whole.",
+        "This is a sweet dessert, not a savory dish.",
+        "Traditionally served with round crackers.",
+        "Can be served with coconut on top."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Dominican Lenten tradition",
+      "better_than_store_bought": "Canned versions can't compare to homemade.",
+      "hidden_nutrients": "Beans provide protein and fiber. Coconut milk offers healthy fats."
+    },
+    {
+      "id": 181,
+      "name": "Morir Soñando (Orange Milk Drink)",
+      "country": "Dominican Republic",
+      "category": "Beverage",
+      "time": "15 minutes",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500ml fresh orange juice",
+          "500ml milk",
+          "100g sugar",
+          "1 tsp vanilla",
+          "Ice cubes"
+        ]
+      },
+      "steps": [
+        "Chill orange juice and milk separately.",
+        "Combine sugar and 100ml orange juice. Stir to dissolve.",
+        "Add remaining orange juice and milk.",
+        "Add vanilla.",
+        "Stir well.",
+        "Serve over ice cubes.",
+        "Stir before drinking."
+      ],
+      "making_tips": [
+        "Morir Soñando means 'to die dreaming' in Spanish.",
+        "This is the Dominican Republic's signature drink.",
+        "Use fresh orange juice for the best flavor.",
+        "The milk should be ice-cold to prevent curdling.",
+        "Serve immediately."
+      ],
+      "health_rating": 40,
+      "cultural_authenticity": "100% – Dominican iconic drink",
+      "better_than_store_bought": "Cafe versions often use powder. Homemade uses real juice.",
+      "hidden_nutrients": "Orange juice provides vitamin C. Milk adds calcium."
+    },
+    {
+      "id": 182,
+      "name": "Flan de Queso (Cheese Flan)",
+      "country": "Puerto Rico",
+      "category": "Snack",
+      "time": "1 hour 15 minutes (plus chilling)",
+      "servings": "8 servings",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Caramel": [
+          "200g sugar",
+          "60ml water"
+        ],
+        "Custard": [
+          "450g cream cheese, softened",
+          "1 can sweetened condensed milk",
+          "1 can evaporated milk",
+          "4 large eggs",
+          "1 tsp vanilla"
+        ]
+      },
+      "steps": [
+        "Make Caramel: Heat sugar and water until golden. Pour into flan mold.",
+        "Make Custard: Beat cream cheese until smooth.",
+        "Add condensed milk, evaporated milk, eggs, and vanilla.",
+        "Blend until smooth.",
+        "Pour over caramel.",
+        "Cover with foil. Place in water bath.",
+        "Bake at 170°C for 1 hour.",
+        "Cool completely, then chill 4 hours.",
+        "Unmold onto a serving plate."
+      ],
+      "making_tips": [
+        "The cream cheese gives Puerto Rican flan its rich, tangy flavor.",
+        "This is called 'flan de queso' for a reason.",
+        "The water bath is essential for a smooth texture.",
+        "Chill thoroughly before unmolding.",
+        "Serve with fresh berries."
+      ],
+      "health_rating": 20,
+      "cultural_authenticity": "100% – Puerto Rican flan favorite",
+      "better_than_store_bought": "Commercial flan has stabilizers. Homemade is silky and tangy.",
+      "hidden_nutrients": "Cream cheese and milk provide calcium. Eggs add protein."
+    },
+    {
+      "id": 183,
+      "name": "Piña Colada (Non-Alcoholic)",
+      "country": "Puerto Rico",
+      "category": "Beverage",
+      "time": "10 minutes",
+      "servings": "2 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "500g fresh pineapple, chopped",
+          "240ml coconut cream",
+          "2 tbsp sugar (to taste)",
+          "Ice cubes",
+          "Pineapple wedges for garnish"
+        ]
+      },
+      "steps": [
+        "Combine pineapple, coconut cream, sugar, and ice in a blender.",
+        "Blend until smooth and creamy.",
+        "Taste and adjust sweetness.",
+        "Pour into tall glasses.",
+        "Garnish with pineapple wedges.",
+        "Serve immediately."
+      ],
+      "making_tips": [
+        "Piña Colada is Puerto Rico's iconic drink.",
+        "Use fresh pineapple for the best flavor.",
+        "Coconut cream gives it richness.",
+        "Blend until completely smooth.",
+        "Serve in a chilled glass with a straw."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Puerto Rico's signature drink",
+      "better_than_store_bought": "Bottled mixes have artificial flavors. Homemade is fresh and creamy.",
+      "hidden_nutrients": "Pineapple provides vitamin C and bromelain. Coconut offers healthy fats."
+    },
+    {
+      "id": 184,
+      "name": "Tembleque (Coconut Pudding)",
+      "country": "Puerto Rico",
+      "category": "Snack",
+      "time": "1 hour (plus chilling)",
+      "servings": "6 servings",
+      "difficulty": "Easy-Medium",
+      "ingredients": {
+        "Main": [
+          "500ml coconut milk",
+          "100g cornstarch",
+          "150g sugar",
+          "½ tsp salt",
+          "1 tsp vanilla",
+          "Ground cinnamon for garnish"
+        ]
+      },
+      "steps": [
+        "In a pot, combine coconut milk, cornstarch, sugar, and salt.",
+        "Whisk until smooth.",
+        "Cook over medium heat, stirring constantly.",
+        "Continue until mixture thickens and bubbles.",
+        "Remove from heat. Add vanilla.",
+        "Pour into a mold or individual ramekins.",
+        "Chill for 2 hours until set.",
+        "Unmold onto plates.",
+        "Sprinkle with cinnamon.",
+        "Serve cold."
+      ],
+      "making_tips": [
+        "Tembleque means 'wiggle' in Spanish—it should jiggle.",
+        "Stir constantly to prevent lumps.",
+        "The mixture thickens quickly at the end.",
+        "This is a Puerto Rican coconut dessert.",
+        "Serve chilled for the best texture."
+      ],
+      "health_rating": 35,
+      "cultural_authenticity": "100% – Puerto Rican coconut classic",
+      "better_than_store_bought": "Commercial versions are often too sweet. Homemade has pure coconut flavor.",
+      "hidden_nutrients": "Coconut milk provides healthy fats and minerals."
+    },
+    {
+      "id": 185,
+      "name": "Coconut Bake (Sweet Bread)",
+      "country": "Trinidad & Tobago",
+      "category": "Snack",
+      "time": "1 hour 30 minutes (includes rising)",
+      "servings": "1 loaf (8 slices)",
+      "difficulty": "Medium",
+      "ingredients": {
+        "Dough": [
+          "400g all-purpose flour",
+          "7g instant yeast",
+          "50g sugar",
+          "½ tsp salt",
+          "240ml warm coconut milk",
+          "2 tbsp coconut oil",
+          "100g desiccated coconut"
+        ]
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, and salt.",
+        "Add warm coconut milk and coconut oil. Knead until smooth.",
+        "Fold in desiccated coconut.",
+        "Cover and let rise 1 hour.",
+        "Punch down dough. Shape into a round loaf.",
+        "Place in a greased pan.",
+        "Let rise 30 minutes.",
+        "Bake at 180°C for 30-35 minutes.",
+        "Cool on a wire rack.",
+        "Slice and serve."
+      ],
+      "making_tips": [
+        "Coconut bake is a Trinidadian favorite.",
+        "The coconut gives it a lovely sweetness and texture.",
+        "Often served with cheese or butter.",
+        "The crust should be golden and slightly crisp.",
+        "Best eaten fresh."
+      ],
+      "health_rating": 45,
+      "cultural_authenticity": "100% – Trinidadian sweet bread",
+      "better_than_store_bought": "Bakery versions can be dry. Homemade is moist and coconutty.",
+      "hidden_nutrients": "Coconut provides healthy fats and fiber. Milk adds calcium."
+    },
+    {
+      "id": 186,
+      "name": "Trinidadian Sorrel",
+      "country": "Trinidad & Tobago",
+      "category": "Beverage",
+      "time": "2 hours (plus chilling)",
+      "servings": "4 servings",
+      "difficulty": "Easy",
+      "ingredients": {
+        "Main": [
+          "100g dried sorrel petals",
+          "1.5 litres water",
+          "200g sugar",
+          "1 inch ginger",
+          "2 cinnamon sticks",
+          "4 cloves",
+          "Orange peel (optional)"
+        ]
+      },
+      "steps": [
+        "Boil water with sorrel, ginger, cinnamon, cloves, and orange peel.",
+        "Reduce heat and simmer for 15 minutes.",
+        "Remove from heat and steep for 1 hour.",
+        "Strain through a fine sieve.",
+        "Add sugar and stir to dissolve.",
+        "Chill thoroughly.",
+        "Serve over ice."
+      ],
+      "making_tips": [
+        "Sorrel is the Trinidadian Christmas drink.",
+        "The spices give it a festive flavor.",
+        "Can be served with a splash of rum.",
+        "The color should be deep red.",
+        "Serve chilled with a cinnamon stick."
+      ],
+      "health_rating": 55,
+      "cultural_authenticity": "100% – Trinidadian Christmas drink",
+      "better_than_store_bought": "Bottled versions have preservatives. Homemade is fresh and spiced.",
+      "hidden_nutrients": "Sorrel is rich in antioxidants. Ginger aids digestion."
+    }
+  ]
+}
