@@ -2,9 +2,13 @@
 
 ### *Where every snack tells a story. And every story shapes our future.*
 
-[![License: Source-Available](https://img.shields.io/badge/License-Source--Available-blue.svg)](LICENSE)
-[![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg)](https://reactjs.org/)
-[![Uses Groq API](https://img.shields.io/badge/Uses-Groq%20API-FF6B6B.svg)](https://groq.com/)
+[![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Uses TypeScript](https://img.shields.io/badge/Uses-TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Powered by Vite](https://img.shields.io/badge/Powered%20by-Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Styled with Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Backend: Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![AI: Groq](https://img.shields.io/badge/AI-Groq-FF6B6B.svg?style=flat-square&logo=groq&logoColor=white)](https://groq.com/)
+[![License: Source-Available](https://img.shields.io/badge/License-Source--Available-blue.svg?style=flat-square)](LICENSE)
 
 ---
 
