@@ -16,7 +16,7 @@
 
 **Vision**: A world where cultural heritage is preserved and shared through the universal language of food.
 
-**Mission**: To build cultural infrastructure for the connected future by using AI to tell the stories behind traditional snacks and making them accessible to everyone.
+**Mission**: To build cultural infrastructure for the connected future by using AI to tell the stories behind traditional snacks and making them accessible to everyone via customisable recipes.
 
 ---
 
