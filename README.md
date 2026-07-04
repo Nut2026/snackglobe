@@ -67,7 +67,7 @@ SnackGlobe is a cultural exploration platform where snacks serve as windows to u
 
 See the [LICENSE](LICENSE) file for details.
 
-**Summary**: You may view the code for educational and reference purposes only. Commercial use, distribution, and competitive use are prohibited.
+**Summary**: You may view the code for educational and non-commercial purposes only. Commercial use, distribution, and competitive use are prohibited.
 
 ---
 
