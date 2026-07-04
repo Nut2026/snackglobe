@@ -65,7 +65,7 @@ SnackGlobe is a cultural exploration platform where snacks serve as windows to u
 
 ## License
 
-See the [LICENSE](LICENSE) file for details.
+SnackGlobe is licensed under the SnackGlobe Source Available License - please see the [LICENSE](LICENSE) file for details.
 
 **Summary**: You may view the code for educational and non-commercial purposes only. Commercial use, distribution, and competitive use are prohibited.
 
@@ -98,6 +98,7 @@ SnackGlobe wouldn't be here without them!
 If you find SnackGlobe interesting, feel free to:
 - ⭐ Star the repository
 - 🍴 Fork it to explore
+- 👀 Watch for updates
 - 📢 Share it with others interested in cultural preservation
 
 ---
