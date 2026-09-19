@@ -1,6 +1,6 @@
 # SnackGlobe
 
-### *Where every snack tells a story. And every story shapes our future.*
+### *Where every snack tells a story. And every story deserves to be shared.*
 
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 [![Uses TypeScript](https://img.shields.io/badge/Uses-TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
