@@ -1,0 +1,26 @@
+import * as Sentry from '@sentry/react';
+import { createRoot } from 'react-dom/client';
+import App from './App';
+// Import index.css to ensure it is bundled (type declaration)
+export {};
+declare global {
+  namespace NodeJS {
+    interface Module {
+      id: string;
+    }
+  }
+}
+
+Sentry.init({
+  dsn: import.meta.env.VITE_SENTRY_DSN,
+  environment: import.meta.env.MODE,
+});
+
+const container = document.getElementById('root');
+if (!container) throw new Error('Root element #root was not found');
+
+createRoot(container).render(
+  <Sentry.ErrorBoundary fallback={<p>Something went wrong. Please refresh the page.</p>}>
+    <App />
+  </Sentry.ErrorBoundary>,
+);
