@@ -54,27 +54,27 @@ export default function ManagePromptsPage() {
       if (data) {
         const map: Record<string, string> = {};
         for (const row of data) map[row.type] = row.content;
-        setPrompts(p => ({ ...p, ...map }));
-        setOriginals(p => ({ ...p, ...map }));
+        setPrompts((p: Record<string, string>) => ({ ...p, ...map }));
+        setOriginals((p: Record<string, string>) => ({ ...p, ...map }));
       }
       setLoading(false);
     })();
   }, [profile]);
 
   const handleSave = async (type: 'character_experience' | 'recipe_customisation') => {
-    setSaving(s => ({ ...s, [type]: true }));
+    setSaving((s: Record<string, boolean>) => ({ ...s, [type]: true }));
     const { error } = await supabase
       .from('prompts')
       .update({ content: prompts[type], updated_at: new Date().toISOString() })
       .eq('type', type);
-    setSaving(s => ({ ...s, [type]: false }));
+    setSaving((s: Record<string, boolean>) => ({ ...s, [type]: false }));
     if (error) { toast.error('Failed to save prompt'); return; }
-    setOriginals(o => ({ ...o, [type]: prompts[type] }));
+    setOriginals((o: Record<string, string>) => ({ ...o, [type]: prompts[type] }));
     toast.success('Prompt saved!');
   };
 
   const handleReset = (type: string) => {
-    setPrompts(p => ({ ...p, [type]: originals[type] }));
+    setPrompts((p: Record<string, string>) => ({ ...p, [type]: originals[type] }));
   };
 
   if (authLoading || loading) {
@@ -120,7 +120,7 @@ export default function ManagePromptsPage() {
 
                 <Textarea
                   value={prompts[section.type]}
-                  onChange={e => setPrompts(p => ({ ...p, [section.type]: e.target.value }))}
+                  onChange={e => setPrompts((p: Record<string, string>) => ({ ...p, [section.type]: e.target.value }))}
                   rows={14}
                   className="bg-white/5 border-white/15 text-frost placeholder:text-frost/30 text-sm resize-y font-mono"
                   placeholder="Enter prompt content…"

@@ -1,15 +1,7 @@
 import * as Sentry from '@sentry/react';
 import { createRoot } from 'react-dom/client';
 import App from './App';
-// Import index.css to ensure it is bundled (type declaration)
-export {};
-declare global {
-  namespace NodeJS {
-    interface Module {
-      id: string;
-    }
-  }
-}
+import './index.css';
 
 Sentry.init({
   dsn: import.meta.env.VITE_SENTRY_DSN,

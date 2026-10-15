@@ -2,10 +2,15 @@ import {AlertCircle,
   Bookmark, 
   ChevronDown, Eye, EyeOff, Lock,LogIn, LogOut, Menu, ShieldCheck, Trash2, X 
 } from 'lucide-react';
-import { useState } from 'react';
+import {useState, useEffect} from 'react';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
 import { Link, useNavigate } from 'react-router-dom';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
 import { toast } from 'sonner';
 import AuthModal from '@/components/auth/AuthModal';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
 import { Button } from '@/components/ui/button';
 import {
   Dialog, DialogContent, DialogDescription,DialogHeader, DialogTitle, 
@@ -19,6 +24,19 @@ import { Label } from '@/components/ui/label';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { useAuth } from '@/contexts/AuthContext';
 import { cn } from '@/lib/utils';
+
+const DEMO_MODE = import.meta.env.VITE_DEMO_MODE;
+const [demoTip, setDemoTip] = useState('');
+
+  useEffect(() => {
+    if (DEMO_MODE) {
+      toast.info(
+        'My Shack, Log In / Sign Up, Groq API: This feature has been disabled in demo mode. '
+        + 'But don\'t let that stop you, feel free to take a look at the demo video instead!',
+      );
+    }
+  }, []);
+
 function AvatarCircle({ username, onClick }: { username: string; onClick?: () => void }) {
   const initials = username.slice(0, 2).toUpperCase();
   return (
@@ -318,12 +336,14 @@ export default function NavBar() {
 
   const handleShack = () => {
     setMobileOpen(false);
+    if (DEMO_MODE) { toast.info('My Shack is disabled in demo mode.'); return; }
     if (!user) { setAuthOpen(true); return; }
     navigate('/shack');
   };
 
   const handleManage = () => {
     setMobileOpen(false);
+    if (DEMO_MODE) { toast.info('Manage Recipes is disabled in demo mode.'); return; }
     navigate('/manage-recipes');
   };
 
@@ -429,7 +449,7 @@ export default function NavBar() {
       </Button>
       <Button
         size="sm"
-        onClick={() => setAuthOpen(true)}
+        onClick={() => { if (DEMO_MODE) { toast.info('Log In / Sign Up is disabled in demo mode.'); return; } setAuthOpen(true); }}
         className="glass-button-primary font-medium"
       >
         <LogIn className="w-4 h-4 mr-1" />
@@ -513,7 +533,7 @@ export default function NavBar() {
       ) : (
         <Button
           size="sm"
-          onClick={() => { setMobileOpen(false); setAuthOpen(true); }}
+          onClick={() => { setMobileOpen(false); if (DEMO_MODE) { toast.info('Log In / Sign Up is disabled in demo mode.'); return; } setAuthOpen(true); }}
           className="glass-button-primary font-medium"
         >
           <LogIn className="w-4 h-4 mr-1" />

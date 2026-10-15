@@ -3,6 +3,10 @@ import {
   Send, X 
 } from 'lucide-react';
 import { useCallback, useEffect, useRef, useState } from 'react';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
 import { useNavigate, useParams } from 'react-router-dom';
 import { toast } from 'sonner';
 import { deleteExperience, getExperience, getPrompt, isRecipeSaved, saveRecipe, upsertCustomisedRecipe, upsertExperience } from '@/api/shack';
@@ -214,7 +218,7 @@ export default function UncoverPage() {
   const { slug } = useParams<{ slug: string }>();
   const navigate = useNavigate();
   const recipe = slug ? getRecipeBySlug(slug) : undefined;
-  const { groqApiKey } = useGroq();
+  const { groqApiKey, disabled: groqDisabled, reason: groqReason } = useGroq();
   const { user } = useAuth();
 
   const originalRecipe: AdaptedRecipe | null = recipe ? {
@@ -312,6 +316,8 @@ export default function UncoverPage() {
   }, []);
 
   const startStory = useCallback(async () => {
+    if (groqDisabled) { toast.error(groqReason); return; }
+    if (!recipe) return;
     if (!recipe) return;
     synthRef.current?.cancel();
     setStoryStatus('loading');
@@ -348,10 +354,12 @@ export default function UncoverPage() {
       setStoryError((e as Error).message || 'Failed to generate story');
       toast.error('The tradition remains buried awaiting your arrival.');
     }
-  }, [recipe, groqApiKey, speakText, characterPrompt, memorySummary, user, slug]);
+  }, [groqDisabled, groqReason, recipe, groqApiKey, speakText, characterPrompt, memorySummary, user, slug]);
 
   const handleSendReply = useCallback(async () => {
+    if (groqDisabled) { toast.error(groqReason); return; }
     if (!userInput.trim() || sendingReply) return;
+    if (!recipe) return;
     const msg = userInput.trim();
     setUserInput('');
     setSendingReply(true);
@@ -380,7 +388,7 @@ export default function UncoverPage() {
     } finally {
       setSendingReply(false);
     }
-  }, [userInput, sendingReply, convHistory, chatLog, groqApiKey, speakText, user, slug, recipe]);
+  }, [groqDisabled, groqReason, userInput, sendingReply, convHistory, chatLog, groqApiKey, speakText, user, slug, recipe]);
 
   const handleStartNew = useCallback(async () => {
     if (!slug) return;
@@ -404,7 +412,9 @@ export default function UncoverPage() {
   const canCustomise = hasFilters || customText.trim().length > 0;
 
   const handleCustomise = async () => {
+    if (groqDisabled) { toast.error(groqReason); return; }
     if (!recipe || !originalRecipe || !canCustomise) return;
+    if (!recipe) return;
     setLoadingCustomise(true);
     try {
       const { recipe: adapted } = await customiseRecipe(

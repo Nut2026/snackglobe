@@ -3,6 +3,7 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { toast } from 'sonner';
 import { saveRecipe } from '@/api/shack';
 import AuthModal from '@/components/auth/AuthModal';
+import DemoModeBanner from '@/components/common/DemoModeBanner';
 import NavBar from '@/components/common/NavBar';
 import ChoosePathModal, { type SailPath } from '@/components/map/ChoosePathModal';
 import CountryPanel from '@/components/map/CountryPanel';
@@ -248,14 +249,15 @@ export default function LandingPage() {
   return (
     <div className="min-h-screen w-full flex flex-col overflow-x-hidden">
       <NavBar />
+      <DemoModeBanner />
 
       <div className="flex flex-col items-center pt-14 flex-1">
 
         <div className="w-full px-6 pt-6 pb-3 flex flex-col items-center text-center">
-          <h1 className="text-frost font-bold text-xl md:text-2xl whitespace-nowrap">
+          <h1 className="text-frost font-bold text-xl md:text-2xl text-balance leading-tight">
             Every snack is a window to a time-honored tradition
           </h1>
-          <p className="text-muted-foreground text-sm md:text-base whitespace-nowrap mt-1">
+          <p className="text-muted-foreground text-sm md:text-base mt-1 leading-relaxed">
             Click on a country or{' '}
             <span className="text-sky-blue font-medium">Set Sail</span>
             {' '}to discover the world through its snacks
