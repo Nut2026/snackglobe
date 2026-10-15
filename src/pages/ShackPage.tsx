@@ -7,6 +7,7 @@ import { useNavigate } from 'react-router-dom';
 import { toast } from 'sonner';
 import { deleteRecipe, getSavedRecipes, incrementCraftCount, restoreRecipe, toggleStar } from '@/api/shack';
 import AuthModal from '@/components/auth/AuthModal';
+import DemoOverlay from '@/components/common/DemoOverlay';
 import NavBar from '@/components/common/NavBar';
 import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from '@/components/ui/alert-dialog';
 import { Badge } from '@/components/ui/badge';
@@ -231,6 +232,7 @@ export default function ShackPage() {
   const [undoTimer, setUndoTimer] = useState<ReturnType<typeof setTimeout> | null>(null);
   const [authOpen, setAuthOpen] = useState(false);
 
+  const DEMO_MODE = import.meta.env.VITE_DEMO_MODE;
   const load = useCallback(async () => {
     if (!user) return;
     setLoading(true);
@@ -339,6 +341,11 @@ export default function ShackPage() {
   return (
     <div className="min-h-screen flex flex-col">
       <NavBar />
+      <DemoOverlay
+        isDemo={DEMO_MODE}
+        message="Groq is not available for this demo. But don't worry, watch a video demo instead!"
+        showVideo
+      />
       <div className="flex-1 pt-20 px-4 md:px-8 py-8 max-w-7xl mx-auto w-full">
 
                 <div className="mb-6 flex items-start gap-4">

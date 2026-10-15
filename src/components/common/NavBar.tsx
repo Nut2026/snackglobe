@@ -2,15 +2,11 @@ import {AlertCircle,
   Bookmark, 
   ChevronDown, Eye, EyeOff, Lock,LogIn, LogOut, Menu, ShieldCheck, Trash2, X 
 } from 'lucide-react';
-import {useState, useEffect} from 'react';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
+import {useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
 import { toast } from 'sonner';
 import AuthModal from '@/components/auth/AuthModal';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
+import DemoOverlay from '@/components/common/DemoOverlay';
 import { Button } from '@/components/ui/button';
 import {
   Dialog, DialogContent, DialogDescription,DialogHeader, DialogTitle, 
@@ -26,16 +22,6 @@ import { useAuth } from '@/contexts/AuthContext';
 import { cn } from '@/lib/utils';
 
 const DEMO_MODE = import.meta.env.VITE_DEMO_MODE;
-const [demoTip, setDemoTip] = useState('');
-
-  useEffect(() => {
-    if (DEMO_MODE) {
-      toast.info(
-        'My Shack, Log In / Sign Up, Groq API: This feature has been disabled in demo mode. '
-        + 'But don\'t let that stop you, feel free to take a look at the demo video instead!',
-      );
-    }
-  }, []);
 
 function AvatarCircle({ username, onClick }: { username: string; onClick?: () => void }) {
   const initials = username.slice(0, 2).toUpperCase();
@@ -325,8 +311,10 @@ function DeleteAccountModal({ open, onOpenChange, username }: {
 
 export default function NavBar() {
   const { user, profile, signOut } = useAuth();
+
   const navigate = useNavigate();
   const [authOpen, setAuthOpen] = useState(false);
+  const maybeShowLoginDemoOverlay = DEMO_MODE && !user && authOpen;
   const [mobileOpen, setMobileOpen] = useState(false);
   const [changePasswordOpen, setChangePasswordOpen] = useState(false);
   const [deleteOpen, setDeleteOpen] = useState(false);
@@ -572,6 +560,20 @@ export default function NavBar() {
       </nav>
 
       <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
+      <DemoOverlay
+        isDemo={DEMO_MODE}
+        message="Supabase is not available for this demo. But don't worry, watch a video demo instead!"
+        showVideo
+        onDismiss={() => setAuthOpen(false)}
+      />
+      {maybeShowLoginDemoOverlay && (
+        <DemoOverlay
+          isDemo={DEMO_MODE}
+          message="Supabase is not available for this demo. But don't worry, watch a video demo instead!"
+          showVideo
+          onDismiss={() => setAuthOpen(false)}
+        />
+      )}
       <ChangePasswordModal open={changePasswordOpen} onOpenChange={setChangePasswordOpen} />
       <DeleteAccountModal
         open={deleteOpen}

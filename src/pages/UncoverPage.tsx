@@ -3,14 +3,11 @@ import {
   Send, X 
 } from 'lucide-react';
 import { useCallback, useEffect, useRef, useState } from 'react';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
 import { useNavigate, useParams } from 'react-router-dom';
 import { toast } from 'sonner';
 import { deleteExperience, getExperience, getPrompt, isRecipeSaved, saveRecipe, upsertCustomisedRecipe, upsertExperience } from '@/api/shack';
 import AuthModal from '@/components/auth/AuthModal';
+import DemoOverlay from '@/components/common/DemoOverlay';
 import NavBar from '@/components/common/NavBar';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -220,6 +217,7 @@ export default function UncoverPage() {
   const recipe = slug ? getRecipeBySlug(slug) : undefined;
   const { groqApiKey, disabled: groqDisabled, reason: groqReason } = useGroq();
   const { user } = useAuth();
+  const DEMO_MODE = import.meta.env.VITE_DEMO_MODE;
 
   const originalRecipe: AdaptedRecipe | null = recipe ? {
     name: recipe.name, servings: recipe.servings, time: recipe.time,
@@ -316,8 +314,8 @@ export default function UncoverPage() {
   }, []);
 
   const startStory = useCallback(async () => {
+    if (DEMO_MODE) { toast.info('Groq is not available for this demo. But don\'t worry, head to Hamburger > My Shack - feel free to watch a demo video there!'); return; }
     if (groqDisabled) { toast.error(groqReason); return; }
-    if (!recipe) return;
     if (!recipe) return;
     synthRef.current?.cancel();
     setStoryStatus('loading');
@@ -412,9 +410,9 @@ export default function UncoverPage() {
   const canCustomise = hasFilters || customText.trim().length > 0;
 
   const handleCustomise = async () => {
+    if (DEMO_MODE) { toast.info('Groq is not available for this demo. But don\'t worry, head to Hamburger > My Shack - feel free to watch a demo video there!'); return; }
     if (groqDisabled) { toast.error(groqReason); return; }
     if (!recipe || !originalRecipe || !canCustomise) return;
-    if (!recipe) return;
     setLoadingCustomise(true);
     try {
       const { recipe: adapted } = await customiseRecipe(
@@ -493,7 +491,11 @@ export default function UncoverPage() {
                   Start New
                 </Button>
               )}
-              <Button onClick={startStory} className="glass-button-primary font-medium h-9 px-5">
+              <Button
+                onClick={startStory}
+                className={cn('glass-button-primary font-medium h-9 px-5', DEMO_MODE && 'opacity-50 cursor-not-allowed')}
+                disabled={DEMO_MODE}
+              >
                 <Play className="w-4 h-4 mr-1.5" />
                 {hasExperience ? 'Continue' : 'Experience'}
               </Button>
@@ -664,8 +666,8 @@ export default function UncoverPage() {
 
                             <Button
                 onClick={handleCustomise}
-                disabled={!canCustomise || loadingCustomise}
-                className="glass-button-primary font-medium h-9 w-full"
+                disabled={!canCustomise || loadingCustomise || DEMO_MODE}
+                className={cn('glass-button-primary font-medium h-9 w-full', DEMO_MODE && 'opacity-50 cursor-not-allowed')}
               >
                 {loadingCustomise ? <Loader2 className="w-4 h-4 animate-spin mr-2" /> : <Check className="w-4 h-4 mr-2" />}
                 Customise
@@ -679,6 +681,11 @@ export default function UncoverPage() {
         onOpenChange={setAuthOpen}
         message={authMsg}
         onSuccess={() => { setAuthMsg(''); saveRecipeToShack(); }}
+      />
+      <DemoOverlay
+        isDemo={DEMO_MODE}
+        message="Groq is not available for this demo. But don't worry, head to Hamburger > My Shack - feel free to watch a demo video there!"
+        onDismiss={() => {}}
       />
     </div>
   );

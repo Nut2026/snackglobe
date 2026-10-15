@@ -1,6 +1,6 @@
 import { HelpCircle, X } from 'lucide-react';
-import { useGroq } from '@/contexts/GroqContext';
 import { Button } from '@/components/ui/button';
+import { useGroq } from '@/contexts/GroqContext';
 
 export default function DemoModeBanner() {
   const { disabled: groqDisabled, reason: groqReason } = useGroq();

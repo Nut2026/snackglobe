@@ -3,7 +3,6 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { toast } from 'sonner';
 import { saveRecipe } from '@/api/shack';
 import AuthModal from '@/components/auth/AuthModal';
-import DemoModeBanner from '@/components/common/DemoModeBanner';
 import NavBar from '@/components/common/NavBar';
 import ChoosePathModal, { type SailPath } from '@/components/map/ChoosePathModal';
 import CountryPanel from '@/components/map/CountryPanel';
@@ -249,7 +248,6 @@ export default function LandingPage() {
   return (
     <div className="min-h-screen w-full flex flex-col overflow-x-hidden">
       <NavBar />
-      <DemoModeBanner />
 
       <div className="flex flex-col items-center pt-14 flex-1">
 

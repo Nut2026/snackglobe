@@ -1,6 +1,7 @@
 import { AlertCircle, Anchor, Eye, EyeOff } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { toast } from 'sonner';
+import DemoOverlay from '@/components/common/DemoOverlay';
 import { Button } from '@/components/ui/button';
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog';
 import { Input } from '@/components/ui/input';
@@ -25,6 +26,8 @@ export default function AuthModal({ open, onOpenChange, onSuccess, message }: Pr
   const [error, setError] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
+
+  const DEMO_MODE = import.meta.env.VITE_DEMO_MODE;
 
   const validate = () => {
     if (!username.trim()) return 'Username is required';
@@ -79,6 +82,15 @@ export default function AuthModal({ open, onOpenChange, onSuccess, message }: Pr
             {mode === 'signin' ? 'Log In to SnackGlobe' : 'Join SnackGlobe'}
           </DialogTitle>
         </DialogHeader>
+
+        {DEMO_MODE && (
+          <DemoOverlay
+            isDemo
+            message="Supabase is not available for this demo. But don't worry, watch a video demo instead!"
+            showVideo
+            onDismiss={() => onOpenChange(false)}
+          />
+        )}
 
         {message && (
           <p className="text-sm text-sunshine bg-sunshine/10 border border-sunshine/30 rounded-lg px-3 py-2 text-pretty">
