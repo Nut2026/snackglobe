@@ -384,10 +384,10 @@ export default function LandingPage() {
       </div>
 
           <footer className="w-full px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2 border-t border-white/8 mt-auto">
-        <p className="text-xs text-frost/40 text-pretty">Made with 💙 by Nuz</p>
-        <p className="text-xs text-frost/40 text-pretty italic text-center md:text-right">
+        <p className="text-xs text-frost/40 text-pretty text-center md:text-left">
           — Where every snack tells a story. And every story brings us closer
         </p>
+        <p className="text-xs text-frost/40 text-pretty">Made with 💙 by Nuz</p>
       </footer>
 
           {panelVisible && (

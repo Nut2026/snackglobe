@@ -22,6 +22,8 @@ import { useAuth } from '@/contexts/AuthContext';
 import { cn } from '@/lib/utils';
 
 const DEMO_MODE = import.meta.env.VITE_DEMO_MODE;
+const SUPABASE_DEMO_MESSAGE =
+  "Supabase is not available for this demo. But don't worry, watch a video demo instead!";
 
 function AvatarCircle({ username, onClick }: { username: string; onClick?: () => void }) {
   const initials = username.slice(0, 2).toUpperCase();
@@ -314,7 +316,7 @@ export default function NavBar() {
 
   const navigate = useNavigate();
   const [authOpen, setAuthOpen] = useState(false);
-  const maybeShowLoginDemoOverlay = DEMO_MODE && !user && authOpen;
+  const [demoOverlayMsg, setDemoOverlayMsg] = useState<string | null>(null);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [changePasswordOpen, setChangePasswordOpen] = useState(false);
   const [deleteOpen, setDeleteOpen] = useState(false);
@@ -324,7 +326,7 @@ export default function NavBar() {
 
   const handleShack = () => {
     setMobileOpen(false);
-    if (DEMO_MODE) { toast.info('My Shack is disabled in demo mode.'); return; }
+    if (DEMO_MODE) { setDemoOverlayMsg(SUPABASE_DEMO_MESSAGE); return; }
     if (!user) { setAuthOpen(true); return; }
     navigate('/shack');
   };
@@ -437,7 +439,7 @@ export default function NavBar() {
       </Button>
       <Button
         size="sm"
-        onClick={() => { if (DEMO_MODE) { toast.info('Log In / Sign Up is disabled in demo mode.'); return; } setAuthOpen(true); }}
+        onClick={() => { if (DEMO_MODE) { setDemoOverlayMsg(SUPABASE_DEMO_MESSAGE); return; } setAuthOpen(true); }}
         className="glass-button-primary font-medium"
       >
         <LogIn className="w-4 h-4 mr-1" />
@@ -521,7 +523,7 @@ export default function NavBar() {
       ) : (
         <Button
           size="sm"
-          onClick={() => { setMobileOpen(false); if (DEMO_MODE) { toast.info('Log In / Sign Up is disabled in demo mode.'); return; } setAuthOpen(true); }}
+          onClick={() => { setMobileOpen(false); if (DEMO_MODE) { setDemoOverlayMsg(SUPABASE_DEMO_MESSAGE); return; } setAuthOpen(true); }}
           className="glass-button-primary font-medium"
         >
           <LogIn className="w-4 h-4 mr-1" />
@@ -536,7 +538,7 @@ export default function NavBar() {
       <nav className="fixed top-0 left-0 right-0 z-50 glass-panel border-b border-white/10">
         <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
             <Link to="/" className="flex items-center gap-2 group">
-            <img src="/logo.png" alt="SnackGlobe" className="w-8 h-8 object-contain" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="SnackGlobe" className="w-8 h-8 object-contain" />
             <span className={cn("font-bold text-frost text-lg tracking-tight")}>
               Snack<span className="text-sky-blue">Globe</span>
             </span>
@@ -560,18 +562,12 @@ export default function NavBar() {
       </nav>
 
       <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
-      <DemoOverlay
-        isDemo={DEMO_MODE}
-        message="Supabase is not available for this demo. But don't worry, watch a video demo instead!"
-        showVideo
-        onDismiss={() => setAuthOpen(false)}
-      />
-      {maybeShowLoginDemoOverlay && (
+      {demoOverlayMsg && (
         <DemoOverlay
           isDemo={DEMO_MODE}
-          message="Supabase is not available for this demo. But don't worry, watch a video demo instead!"
+          message={demoOverlayMsg}
           showVideo
-          onDismiss={() => setAuthOpen(false)}
+          onDismiss={() => setDemoOverlayMsg(null)}
         />
       )}
       <ChangePasswordModal open={changePasswordOpen} onOpenChange={setChangePasswordOpen} />

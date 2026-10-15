@@ -218,6 +218,8 @@ export default function UncoverPage() {
   const { groqApiKey, disabled: groqDisabled, reason: groqReason } = useGroq();
   const { user } = useAuth();
   const DEMO_MODE = import.meta.env.VITE_DEMO_MODE;
+  const GROQ_DEMO_MESSAGE =
+    "Groq is not available for this demo. But don't worry, watch a video demo instead!";
 
   const originalRecipe: AdaptedRecipe | null = recipe ? {
     name: recipe.name, servings: recipe.servings, time: recipe.time,
@@ -251,6 +253,7 @@ export default function UncoverPage() {
   const [authOpen, setAuthOpen] = useState(false);
   const [authMsg, setAuthMsg] = useState('');
   const [editNote, setEditNote] = useState<string | null>(null);
+  const [demoOverlayMsg, setDemoOverlayMsg] = useState<string | null>(null);
 
     const [isSaved, setIsSaved] = useState(false);
   const [checkingSaved, setCheckingSaved] = useState(true);
@@ -314,7 +317,7 @@ export default function UncoverPage() {
   }, []);
 
   const startStory = useCallback(async () => {
-    if (DEMO_MODE) { toast.info('Groq is not available for this demo. But don\'t worry, head to Hamburger > My Shack - feel free to watch a demo video there!'); return; }
+    if (DEMO_MODE) { setDemoOverlayMsg(GROQ_DEMO_MESSAGE); return; }
     if (groqDisabled) { toast.error(groqReason); return; }
     if (!recipe) return;
     synthRef.current?.cancel();
@@ -410,7 +413,7 @@ export default function UncoverPage() {
   const canCustomise = hasFilters || customText.trim().length > 0;
 
   const handleCustomise = async () => {
-    if (DEMO_MODE) { toast.info('Groq is not available for this demo. But don\'t worry, head to Hamburger > My Shack - feel free to watch a demo video there!'); return; }
+    if (DEMO_MODE) { setDemoOverlayMsg(GROQ_DEMO_MESSAGE); return; }
     if (groqDisabled) { toast.error(groqReason); return; }
     if (!recipe || !originalRecipe || !canCustomise) return;
     setLoadingCustomise(true);
@@ -493,8 +496,7 @@ export default function UncoverPage() {
               )}
               <Button
                 onClick={startStory}
-                className={cn('glass-button-primary font-medium h-9 px-5', DEMO_MODE && 'opacity-50 cursor-not-allowed')}
-                disabled={DEMO_MODE}
+                className="glass-button-primary font-medium h-9 px-5"
               >
                 <Play className="w-4 h-4 mr-1.5" />
                 {hasExperience ? 'Continue' : 'Experience'}
@@ -666,8 +668,8 @@ export default function UncoverPage() {
 
                             <Button
                 onClick={handleCustomise}
-                disabled={!canCustomise || loadingCustomise || DEMO_MODE}
-                className={cn('glass-button-primary font-medium h-9 w-full', DEMO_MODE && 'opacity-50 cursor-not-allowed')}
+                disabled={!canCustomise || loadingCustomise}
+                className="glass-button-primary font-medium h-9 w-full"
               >
                 {loadingCustomise ? <Loader2 className="w-4 h-4 animate-spin mr-2" /> : <Check className="w-4 h-4 mr-2" />}
                 Customise
@@ -682,11 +684,14 @@ export default function UncoverPage() {
         message={authMsg}
         onSuccess={() => { setAuthMsg(''); saveRecipeToShack(); }}
       />
-      <DemoOverlay
-        isDemo={DEMO_MODE}
-        message="Groq is not available for this demo. But don't worry, head to Hamburger > My Shack - feel free to watch a demo video there!"
-        onDismiss={() => {}}
-      />
+      {demoOverlayMsg && (
+        <DemoOverlay
+          isDemo={DEMO_MODE}
+          message={demoOverlayMsg}
+          showVideo
+          onDismiss={() => setDemoOverlayMsg(null)}
+        />
+      )}
     </div>
   );
 }
