@@ -619,7 +619,16 @@ export default function UncoverPage() {
               </div>
             )}
 
-            <div className="glass-card rounded-2xl border border-white/10 p-5 space-y-4">
+            <div className={cn('glass-card rounded-2xl border border-white/10 p-5 relative', DEMO_MODE && 'cursor-not-allowed')}>
+              {DEMO_MODE && (
+                <button
+                  type="button"
+                  onClick={() => setDemoOverlayMsg(GROQ_DEMO_MESSAGE)}
+                  className="absolute inset-0 z-10 rounded-2xl bg-black/45 cursor-not-allowed"
+                  aria-label="Groq is not available for this demo"
+                />
+              )}
+              <div className={cn('space-y-4', DEMO_MODE && 'opacity-50 pointer-events-none select-none')}>
               <div>
                 <p className="text-sm font-semibold text-frost">Customise</p>
                 <p className="text-xs text-muted-foreground mt-0.5">Apply filters and/or add a personal note</p>
@@ -646,16 +655,19 @@ export default function UncoverPage() {
                 </div>
               </div>
 
-                            <div className="flex flex-wrap gap-2">
-                {["I'm missing…", "I would like…", "Can I…"].map(btn => (
-                  <button
-                    key={btn}
-                    onClick={() => setCustomText(t => t ? t : btn.replace('…', ' '))}
-                    className="px-3 py-1 rounded-full text-xs border border-white/15 text-frost/60 hover:border-sky-blue/40 hover:text-sky-blue/80 bg-white/5 transition-all"
-                  >
-                    {btn}
-                  </button>
-                ))}
+                            <div>
+                <p className="text-xs font-semibold text-frost/50 uppercase tracking-wider mb-2">Notes</p>
+                <div className="flex flex-wrap gap-2">
+                  {["I'm missing…", "I would like…", "Can I…"].map(btn => (
+                    <button
+                      key={btn}
+                      onClick={() => setCustomText(t => t ? t : btn.replace('…', ' '))}
+                      className="px-3 py-1 rounded-full text-xs border border-white/15 text-frost/60 hover:border-sky-blue/40 hover:text-sky-blue/80 bg-white/5 transition-all"
+                    >
+                      {btn}
+                    </button>
+                  ))}
+                </div>
               </div>
 
                             <Textarea
@@ -674,6 +686,7 @@ export default function UncoverPage() {
                 {loadingCustomise ? <Loader2 className="w-4 h-4 animate-spin mr-2" /> : <Check className="w-4 h-4 mr-2" />}
                 Customise
               </Button>
+              </div>
             </div>
           </div>
         </div>
