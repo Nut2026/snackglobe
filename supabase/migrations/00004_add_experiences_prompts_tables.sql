@@ -12,19 +12,19 @@ CREATE TABLE user_experiences (
 ALTER TABLE user_experiences ENABLE ROW LEVEL SECURITY;
 CREATE POLICY "users manage own experiences" ON user_experiences FOR ALL TO authenticated USING (user_id = auth.uid()) WITH CHECK (user_id = auth.uid());
 
--- Admin prompts: configurable system prompts for Groq
+-- Seed defaults for configurable system prompts (character experience + recipe customisation)
 CREATE TABLE prompts (
   id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
   type text NOT NULL UNIQUE CHECK (type IN ('character_experience', 'recipe_customisation')),
   content text NOT NULL DEFAULT '',
   updated_at timestamptz NOT NULL DEFAULT now(),
-  updated_by uuid REFERENCES auth.users(id)
+  updated_by uuid REFERENCES auth.users(id) DEFAULT NULL;
 );
 ALTER TABLE prompts ENABLE ROW LEVEL SECURITY;
 CREATE POLICY "anyone can read prompts" ON prompts FOR SELECT TO anon, authenticated USING (true);
-CREATE POLICY "admin can manage prompts" ON prompts FOR ALL TO authenticated
-  USING ((SELECT role FROM profiles WHERE id = auth.uid()) = 'admin')
-  WITH CHECK ((SELECT role FROM profiles WHERE id = auth.uid()) = 'admin');
+CREATE POLICY "authenticated users can manage prompts" ON prompts FOR INSERT TO authenticated WITH CHECK (true);
+CREATE POLICY "authenticated users can update prompts" ON prompts FOR UPDATE TO authenticated USING (true) WITH CHECK (true);
+CREATE POLICY "authenticated users can delete prompts" ON prompts FOR DELETE TO authenticated USING (true);
 
 -- Seed default prompts
 INSERT INTO prompts (type, content) VALUES

@@ -14,7 +14,7 @@ import type { Profile } from '@/types/index';
 export async function getProfile(userId: string): Promise<Profile | null> {
   const { data, error } = await supabase
     .from('profiles')
-    .select('*')
+    .select('id, username, email, phone, theme_preference, created_at')
     .eq('id', userId)
     .maybeSingle();
   if (error) {
@@ -77,11 +77,11 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const refreshProfile = useCallback(async () => {
-    if (!user) {
+    if (user) {
+      await loadProfile(user.id);
+    } else {
       setProfile(null);
-      return;
     }
-    await loadProfile(user.id);
   }, [user, loadProfile]);
 
   useEffect(() => {
@@ -200,7 +200,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
       await supabase.from('saved_recipes').delete().eq('user_id', user.id);
       await supabase.from('sail_preferences').delete().eq('user_id', user.id);
-      await supabase.from('profiles').delete().eq('id', user.id);
 
       const { error: deleteError } = await supabase.functions.invoke('delete-account');
       if (deleteError) return { error: 'Failed to delete account. Please try again.' };

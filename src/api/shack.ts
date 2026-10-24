@@ -27,6 +27,16 @@ export async function getPrompt(type: 'character_experience' | 'recipe_customisa
   return data?.content ?? '';
 }
 
+export async function upsertPrompt(
+  type: 'character_experience' | 'recipe_customisation',
+  content: string,
+): Promise<void> {
+  const { error } = await supabase
+    .from('prompts')
+    .upsert({ type, content, updated_at: new Date().toISOString(), updated_by: null }, { onConflict: 'type' });
+  if (error) throw error;
+}
+
 export async function getExperience(foodSlug: string): Promise<{ exists: boolean; summary: string }> {
   const { data } = await supabase
     .from('user_experiences')

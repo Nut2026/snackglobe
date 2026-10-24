@@ -1,13 +1,10 @@
--- User role enum
-CREATE TYPE public.user_role AS ENUM ('user', 'admin');
-
 -- Profiles table
 CREATE TABLE public.profiles (
   id uuid PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
   username text UNIQUE,
   email text,
   phone text,
-  role public.user_role NOT NULL DEFAULT 'user',
+  theme_preference text NOT NULL DEFAULT 'dark' CHECK (theme_preference IN ('light', 'dark')),
   created_at timestamptz NOT NULL DEFAULT now()
 );
 
@@ -20,13 +17,13 @@ LANGUAGE plpgsql
 SECURITY DEFINER SET search_path = public
 AS $$
 BEGIN
-  INSERT INTO public.profiles (id, email, phone, username, role)
+  INSERT INTO public.profiles (id, email, phone, username, theme_preference)
   VALUES (
     NEW.id,
     NEW.email,
     NEW.phone,
     COALESCE(NEW.raw_user_meta_data->>'username', split_part(NEW.email, '@', 1)),
-    'user'::public.user_role
+    'dark'::text
   );
   RETURN NEW;
 END;
@@ -37,16 +34,6 @@ CREATE TRIGGER on_auth_user_created
   FOR EACH ROW
   EXECUTE FUNCTION handle_new_user();
 
--- Helper function to avoid RLS self-loop
-CREATE OR REPLACE FUNCTION get_user_role(uid uuid)
-RETURNS user_role
-LANGUAGE sql
-SECURITY DEFINER
-SET search_path = public
-AS $$
-  SELECT role FROM profiles WHERE id = uid;
-$$;
-
 -- Profiles RLS policies
 CREATE POLICY "Users can view their own profile"
   ON profiles FOR SELECT TO authenticated
@@ -54,12 +41,7 @@ CREATE POLICY "Users can view their own profile"
 
 CREATE POLICY "Users can update their own profile"
   ON profiles FOR UPDATE TO authenticated
-  USING (auth.uid() = id)
-  WITH CHECK (role IS NOT DISTINCT FROM get_user_role(auth.uid()));
-
-CREATE POLICY "Admins have full access to profiles"
-  ON profiles FOR ALL TO authenticated
-  USING (get_user_role(auth.uid()) = 'admin'::user_role);
+  USING (auth.uid() = id);
 
 -- Saved recipes table (Shack)
 CREATE TABLE public.saved_recipes (

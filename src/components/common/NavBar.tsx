@@ -1,6 +1,6 @@
 import {AlertCircle, 
   Bookmark, 
-  ChevronDown, Eye, EyeOff, Lock,LogIn, LogOut, Menu, ShieldCheck, Trash2, X 
+  ChevronDown, Eye, EyeOff, Lock,LogIn, LogOut, Menu, Trash2, X 
 } from 'lucide-react';
 import {useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
@@ -321,7 +321,6 @@ export default function NavBar() {
   const [changePasswordOpen, setChangePasswordOpen] = useState(false);
   const [deleteOpen, setDeleteOpen] = useState(false);
 
-  const isAdmin = profile?.role === 'admin';
   const username = profile?.username ?? user?.email?.split('@')[0] ?? 'U';
 
   const handleShack = () => {
@@ -331,55 +330,8 @@ export default function NavBar() {
     navigate('/shack');
   };
 
-  const handleManage = () => {
-    setMobileOpen(false);
-    if (DEMO_MODE) { toast.info('Manage Recipes is disabled in demo mode.'); return; }
-    navigate('/manage-recipes');
-  };
-
-  const handleManagePrompts = () => {
-    setMobileOpen(false);
-    navigate('/manage-prompts');
-  };
-
-  const handleManageUsers = () => {
-    setMobileOpen(false);
-    navigate('/manage-users');
-  };
-
   const desktopUserControls = user ? (
     <div className="flex items-center gap-2">
-      {isAdmin && (
-        <>
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={handleManage}
-            className="border border-sky-blue/30 text-sky-blue/80 hover:bg-sky-blue/10 hover:text-sky-blue"
-          >
-            <ShieldCheck className="w-4 h-4 mr-1.5" />
-            Manage Recipes
-          </Button>
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={handleManagePrompts}
-            className="border border-sky-blue/30 text-sky-blue/80 hover:bg-sky-blue/10 hover:text-sky-blue"
-          >
-            <ShieldCheck className="w-4 h-4 mr-1.5" />
-            Manage Prompts
-          </Button>
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={handleManageUsers}
-            className="border border-sky-blue/30 text-sky-blue/80 hover:bg-sky-blue/10 hover:text-sky-blue"
-          >
-            <ShieldCheck className="w-4 h-4 mr-1.5" />
-            Manage Users
-          </Button>
-        </>
-      )}
       <Button
         variant="ghost"
         size="sm"
@@ -450,37 +402,6 @@ export default function NavBar() {
 
   const mobileNavContent = (
     <div className="flex flex-col gap-3">
-      {isAdmin && (
-        <>
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={handleManage}
-            className="justify-start border border-sky-blue/30 text-sky-blue/80 hover:bg-sky-blue/10"
-          >
-            <ShieldCheck className="w-4 h-4 mr-1.5" />
-            Manage Recipes
-          </Button>
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={handleManagePrompts}
-            className="justify-start border border-sky-blue/30 text-sky-blue/80 hover:bg-sky-blue/10"
-          >
-            <ShieldCheck className="w-4 h-4 mr-1.5" />
-            Manage Prompts
-          </Button>
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={handleManageUsers}
-            className="justify-start border border-sky-blue/30 text-sky-blue/80 hover:bg-sky-blue/10"
-          >
-            <ShieldCheck className="w-4 h-4 mr-1.5" />
-            Manage Users
-          </Button>
-        </>
-      )}
       <Button
         variant="ghost"
         size="sm"

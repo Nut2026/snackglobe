@@ -5,9 +5,6 @@ import { Navigate } from 'react-router-dom';
 const LandingPage = lazy(() => import('./pages/LandingPage'));
 const UncoverPage = lazy(() => import('./pages/UncoverPage'));
 const ShackPage = lazy(() => import('./pages/ShackPage'));
-const ManageRecipesPage = lazy(() => import('./pages/ManageRecipesPage'));
-const ManagePromptsPage = lazy(() => import('./pages/ManagePromptsPage'));
-const ManageUsersPage = lazy(() => import('./pages/ManageUsersPage'));
 
 export interface AppRoute {
   path: string;
@@ -30,8 +27,5 @@ export const routes: AppRoute[] = [
   { path: '/', element: withSuspense(<LandingPage />) },
   { path: '/:slug/uncover', element: withSuspense(<UncoverPage />) },
   { path: '/shack', element: withSuspense(<ShackPage />) },
-  { path: '/manage-recipes', element: withSuspense(<ManageRecipesPage />) },
-  { path: '/manage-prompts', element: withSuspense(<ManagePromptsPage />) },
-  { path: '/manage-users', element: withSuspense(<ManageUsersPage />) },
   { path: '*', element: <Navigate to="/" replace /> },
 ];

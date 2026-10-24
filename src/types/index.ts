@@ -3,7 +3,6 @@ export interface Profile {
   username: string | null;
   email: string | null;
   phone: string | null;
-  role: 'user' | 'admin';
   theme_preference: 'light' | 'dark';
   created_at: string;
 }
