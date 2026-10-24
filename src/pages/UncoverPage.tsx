@@ -624,11 +624,11 @@ export default function UncoverPage() {
                 <button
                   type="button"
                   onClick={() => setDemoOverlayMsg(GROQ_DEMO_MESSAGE)}
-                  className="absolute inset-0 z-10 rounded-2xl bg-black/45 cursor-not-allowed"
+                  className="absolute inset-0 z-10 rounded-2xl bg-transparent cursor-not-allowed"
                   aria-label="Groq is not available for this demo"
                 />
               )}
-              <div className={cn('space-y-4', DEMO_MODE && 'opacity-50 pointer-events-none select-none')}>
+              <div className={cn('space-y-4', DEMO_MODE && 'pointer-events-none select-none')}>
               <div>
                 <p className="text-sm font-semibold text-frost">Customise</p>
                 <p className="text-xs text-muted-foreground mt-0.5">Apply filters and/or add a personal note</p>
