@@ -8,7 +8,7 @@
 [![Styled with Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Backend: Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![AI: Groq](https://img.shields.io/badge/AI-Groq-FF6B6B.svg?style=flat-square&logo=groq&logoColor=white)](https://groq.com/)
-[![License: Source-Available](https://img.shields.io/badge/License-Source--Available-blue.svg?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 
 [![SnackGlobe Demo v1.2](https://img.youtube.com/vi/bFxdJRkgjqw/hqdefault.jpg)](https://youtu.be/bFxdJRkgjqw)
@@ -33,8 +33,8 @@ SnackGlobe is a cultural exploration platform where snacks serve as windows to u
 ## Features
 
 ### Interactive Map Discovery
-- "Set Sail" to discover — search for traditional snacks and beverages, filter between regions and countries, or let the wind take you!
-- Panel reveals cultural authenticity, hidden nutrients, and recipe
+- "Set Sail" to discover - search for traditional snacks and beverages, filter between regions and countries, or let the wind take you!
+- Panel reveals cultural authenticity, hidden nutrients, and recipes
 
 ### Immersive Cultural Stories
 - First-person narratives from characters who treasure the snack and beverage
@@ -69,12 +69,11 @@ SnackGlobe wouldn't be here without them!
 
 ## Future Roadmap
 
-- [ ] Cultural Dashboard with visual journey map
-- [ ] Advanced Recipe Intelligence with nutritional analysis and ingredient tracking
-- [ ] Community Features (sharing, connecting with locals)
-- [ ] MCP Integration for richer AI context
-- [ ] Expanded Recipe Database (global reach)
-- [ ] Mobile Apps (React Native)
+- [ ] Cultural Dashboard/Passport (visual journey map)
+- [ ] Advanced recipe intelligence (nutritional analysis and ingredient tracking)
+- [ ] Community features (sharing, connecting)
+- [ ] Expand recipe database
+- [ ] Investigate MCP integration for richer AI context
 
 ## 🎉 Show Your Support
 
